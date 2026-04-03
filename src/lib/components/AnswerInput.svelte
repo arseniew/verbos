@@ -102,14 +102,14 @@
     class="flex flex-col items-center w-full max-w-2xl mx-auto space-y-6 animate-fade-in mt-4"
 >
     <div
-        class="text-xl sm:text-2xl text-center text-gray-800 leading-normal font-medium tracking-wide"
+        class="text-xl sm:text-2xl text-center text-gray-800 dark:text-gray-100 leading-normal font-medium tracking-wide"
     >
         {#if sentenceParts.length >= 2}
             <span class="mr-2">{sentenceParts[0]}</span>
 
             {#if status === "failed"}
                 <div
-                    class="inline-flex flex-col items-center justify-center align-middle mx-1 text-2xl font-bold bg-gray-50 border border-gray-200 rounded px-4 py-1 shadow-inner"
+                    class="inline-flex flex-col items-center justify-center align-middle mx-1 text-2xl font-bold bg-gray-50 dark:bg-gray-800/50 border border-gray-200 dark:border-gray-700 rounded px-4 py-1 shadow-inner"
                 >
                     <span class="text-green-600 leading-none pb-1"
                         >{targetVerb}</span
@@ -126,7 +126,7 @@
                     bind:value={currentInput}
                     onkeydown={handleKeydown}
                     aria-label="Conjugate the missing verb"
-                    class="inline-block w-36 sm:w-44 text-center border-b-2 border-dashed bg-transparent focus:outline-none transition-colors border-blue-400 text-blue-700 hover:border-blue-500 focus:border-blue-600 focus:bg-blue-50"
+                    class="inline-block w-36 sm:w-44 text-center border-b-2 border-dashed bg-transparent focus:outline-none transition-colors border-blue-400 text-blue-700 hover:border-blue-500 focus:border-blue-600 focus:bg-blue-50 dark:text-blue-400 dark:border-blue-500"
                     autofocus
                     autocomplete="off"
                     autocorrect="off"
@@ -141,7 +141,7 @@
 
             {#if status === "failed"}
                 <div
-                    class="flex flex-col items-center justify-center mx-auto text-2xl font-bold my-4 bg-gray-50 border border-gray-200 rounded px-6 py-2 shadow-inner"
+                    class="flex flex-col items-center justify-center mx-auto text-2xl font-bold my-4 bg-gray-50 dark:bg-gray-800/50 border border-gray-200 dark:border-gray-700 rounded px-6 py-2 shadow-inner"
                 >
                     <span class="text-green-600 leading-none pb-1"
                         >{targetVerb}</span
@@ -157,7 +157,7 @@
                     type="text"
                     bind:value={currentInput}
                     onkeydown={handleKeydown}
-                    class="block w-full max-w-md mx-auto text-center border-b-2 text-2xl bg-transparent focus:outline-none border-blue-400 text-blue-700"
+                    class="block w-full max-w-md mx-auto text-center border-b-2 text-2xl bg-transparent focus:outline-none border-blue-400 text-blue-700 dark:text-blue-400 dark:border-blue-500"
                     autofocus
                 />
             {/if}
@@ -172,7 +172,7 @@
 
     {#if showEnglishTranslation && translation}
         <p
-            class="text-sm sm:text-base text-gray-500 font-medium italic text-center mt-2 px-4 shadow-sm py-1 bg-white border rounded"
+            class="text-sm sm:text-base text-gray-500 dark:text-gray-400 font-medium italic text-center mt-2 px-4 shadow-sm py-1 bg-white dark:bg-gray-800 border dark:border-gray-700 rounded"
         >
             {translation}
         </p>
@@ -199,7 +199,7 @@
                 type="button"
                 onclick={useHint}
                 aria-label="Request Hint"
-                class="px-6 py-3 bg-amber-100 text-amber-800 border border-amber-300 rounded-xl hover:bg-amber-200 focus:outline-none focus:ring-2 focus:ring-amber-500 font-bold tracking-wide transition-all active:scale-95"
+                class="px-6 py-3 bg-amber-100 dark:bg-amber-900/40 text-amber-800 dark:text-amber-200 border border-amber-300 dark:border-amber-700 rounded-xl hover:bg-amber-200 dark:hover:bg-amber-800 focus:outline-none focus:ring-2 focus:ring-amber-500 font-bold tracking-wide transition-all active:scale-95"
             >
                 Give Hint
             </button>

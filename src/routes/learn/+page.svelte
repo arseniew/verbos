@@ -1,6 +1,7 @@
 <script lang="ts">
   import { goto } from "$app/navigation";
   import { browser } from "$app/environment";
+  import { onMount } from "svelte";
   import { appState } from "$lib/stores/gameState.svelte";
   import {
     initializeCard,
@@ -26,8 +27,8 @@
   const SESSION_GOAL = 10;
 
   // Once browser mounts securely and context executes we build the mathematical FSRS queue predictions
-  $effect(() => {
-    if (!browser || activeQueue.length > 0) return;
+  onMount(() => {
+    if (activeQueue.length > 0) return;
 
     // Rigid filter eliminating out-of-bounds configurations mapping
     const allowed = allExercises.filter(
@@ -110,7 +111,7 @@
 <div class="max-w-3xl mx-auto px-4 py-8 relative min-h-[70vh]">
   <!-- Visual Progress Representation -->
   <div
-    class="absolute top-0 left-0 w-full h-1 bg-gray-100 rounded-full overflow-hidden"
+    class="absolute top-0 left-0 w-full h-1 bg-gray-100 dark:bg-gray-800 rounded-full overflow-hidden"
   >
     <div
       class="h-full bg-blue-500 transition-all duration-300"
@@ -119,7 +120,8 @@
   </div>
 
   <div class="flex justify-between items-center mt-6">
-    <span class="text-sm font-semibold text-gray-400 uppercase tracking-widest"
+    <span
+      class="text-sm font-semibold text-gray-400 dark:text-gray-500 uppercase tracking-widest"
       >{sessionCount} / {SESSION_GOAL}</span
     >
     <button
@@ -132,7 +134,7 @@
   {#if currentQuestion}
     <div class="py-16">
       <h2
-        class="text-xl sm:text-2xl text-center text-gray-500 font-bold uppercase tracking-wider mb-6 pb-6 border-b border-gray-100 max-w-sm mx-auto"
+        class="text-xl sm:text-2xl text-center text-gray-500 dark:text-gray-400 font-bold uppercase tracking-wider mb-6 pb-6 border-b border-gray-100 dark:border-gray-800 max-w-sm mx-auto"
       >
         {currentQuestion.tense} - {currentQuestion.person}
       </h2>
@@ -151,8 +153,10 @@
     </div>
   {:else}
     <div class="text-center py-32 space-y-4">
-      <h2 class="text-3xl font-bold text-gray-700">No cards due!</h2>
-      <p class="text-lg text-gray-500 font-medium">
+      <h2 class="text-3xl font-bold text-gray-700 dark:text-gray-200">
+        No cards due!
+      </h2>
+      <p class="text-lg text-gray-500 dark:text-gray-400 font-medium">
         You're entirely caught up against all spacing parameters natively.
       </p>
       <div class="pt-8 flex justify-center">

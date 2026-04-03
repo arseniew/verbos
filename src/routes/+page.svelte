@@ -21,12 +21,12 @@
   <!-- Hero Block -->
   <div class="text-center space-y-5">
     <h1
-      class="text-5xl sm:text-6xl font-extrabold text-gray-900 tracking-tight leading-tight"
+      class="text-5xl sm:text-6xl font-extrabold text-gray-900 dark:text-gray-100 tracking-tight leading-tight"
     >
       Fluency<span class="text-blue-600">Sync</span>
     </h1>
     <p
-      class="text-xl sm:text-2xl text-gray-500 max-w-lg mx-auto font-medium leading-relaxed"
+      class="text-xl sm:text-2xl text-gray-500 dark:text-gray-400 max-w-lg mx-auto font-medium leading-relaxed"
     >
       Master rapid Spanish verb conjugations through intelligent spaced
       repetition mapping.
@@ -48,15 +48,17 @@
 
   <!-- Simple global gamification tracker -->
   <div
-    class="mt-16 text-center bg-gray-50 px-8 py-3 rounded-2xl shadow-sm border border-gray-100"
+    class="mt-16 text-center bg-gray-50 dark:bg-gray-800/80 px-8 py-3 rounded-2xl shadow-sm border border-gray-100 dark:border-gray-800"
   >
-    <p class="text-gray-500 text-sm font-semibold tracking-wide uppercase">
+    <p
+      class="text-gray-500 dark:text-gray-400 text-sm font-semibold tracking-wide uppercase"
+    >
       All-Time Longest Streak
     </p>
-    <p class="text-3xl font-black text-gray-800 mt-1">
+    <p class="text-3xl font-black text-gray-800 dark:text-gray-100 mt-1">
       {appState.longestStreak}
       <span
-        class="text-xl text-gray-400 font-semibold tracking-normal lowercase"
+        class="text-xl text-gray-400 dark:text-gray-500 font-semibold tracking-normal lowercase"
         >days</span
       >
     </p>

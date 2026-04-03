@@ -25,7 +25,7 @@
 {#if isVisible}
     <!-- Accessible UI region distributing virtual controls accurately -->
     <div
-        class="flex flex-wrap gap-2 mt-4 p-3 bg-gray-50 border border-gray-200 rounded-lg shadow-inner justify-center"
+        class="flex flex-wrap gap-2 mt-4 p-3 bg-gray-50 dark:bg-gray-800/60 border border-gray-200 dark:border-gray-700 rounded-lg shadow-inner justify-center"
         role="group"
         aria-label="Virtual Character Keyboard"
     >
@@ -33,7 +33,7 @@
             <button
                 type="button"
                 aria-label={`Insert specialized context character ${key}`}
-                class="w-10 h-10 sm:w-12 sm:h-12 flex items-center justify-center bg-white border border-gray-300 rounded shadow-sm text-lg font-semibold hover:bg-blue-50 focus:outline-none focus:ring-2 focus:ring-blue-500 active:bg-blue-100 transition-colors"
+                class="w-10 h-10 sm:w-12 sm:h-12 flex items-center justify-center bg-white dark:bg-gray-800 border border-gray-300 dark:border-gray-600 rounded shadow-sm text-lg font-semibold dark:text-gray-100 hover:bg-blue-50 dark:hover:bg-gray-700 focus:outline-none focus:ring-2 focus:ring-blue-500 active:bg-blue-100 transition-colors"
                 onmousedown={handleMousedown}
                 onclick={() => dispatchKey(key)}
             >
