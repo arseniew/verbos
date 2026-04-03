@@ -13,7 +13,9 @@ export async function load() {
             const verbPath = path.resolve(`data/verbs/${verb}.json`);
             try {
                 const rawVerb = await fs.readFile(verbPath, 'utf8');
-                verbsData.push(JSON.parse(rawVerb));
+                const parsed = JSON.parse(rawVerb);
+                parsed.exercises = parsed.exercises.map((ex: any) => ({ ...ex, verb }));
+                verbsData.push(parsed);
             } catch (e) {
                 console.error(`Failed to selectively load verb payload: ${verb}`, e);
             }

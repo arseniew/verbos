@@ -5,7 +5,7 @@
 
     let {
         targetVerb,
-        contextSentence, // e.g., "Mañana, nosotros ___ a la playa"
+        contextSentence,
         translation,
         showEnglishTranslation,
         showBaseVerb,
@@ -13,6 +13,7 @@
         onSubmit,
         onHintUsed,
         onStrike,
+        onNext,
     }: {
         targetVerb: string;
         contextSentence: string;
@@ -23,16 +24,32 @@
         onSubmit: (input: string) => void;
         onHintUsed: () => void;
         onStrike?: () => void;
+        onNext?: () => void;
     } = $props();
 
     let currentInput = $state("");
-    let status = $state<"idle" | "error">("idle");
+    let wrongAnswer = $state("");
+    let status = $state<"idle" | "error" | "failed">("idle");
     let inputRef: HTMLInputElement | undefined = $state();
+
+    $effect(() => {
+        if (targetVerb) {
+            status = "idle";
+            currentInput = "";
+            wrongAnswer = "";
+            setTimeout(() => inputRef?.focus(), 10);
+        }
+    });
 
     function handleKeydown(e: KeyboardEvent) {
         if (e.key === "Enter") {
             e.preventDefault();
-            submit();
+            e.stopPropagation();
+            if (status === "failed") {
+                handleNext();
+            } else {
+                submit();
+            }
         }
     }
 
@@ -42,72 +59,108 @@
         if (currentInput.trim().toLowerCase() === targetVerb.toLowerCase()) {
             status = "idle";
             onSubmit(currentInput.trim());
-            currentInput = ""; // Clear for next instance automatically
         } else {
-            status = "error";
+            status = "failed";
+            wrongAnswer = currentInput.trim();
             if (onStrike) onStrike();
-            // Temporary error state for css flashing
-            setTimeout(() => {
-                if (status === "error") status = "idle";
-            }, 1000);
         }
-        inputRef?.focus();
     }
 
     function useHint() {
+        if (status === "failed") return;
         currentInput = generateHint(currentInput, targetVerb);
         onHintUsed();
         inputRef?.focus();
     }
 
     function handleVirtualKey(char: string) {
+        if (status === "failed") return;
         currentInput += char;
         inputRef?.focus();
     }
 
-    // Reactively extract prefixes and suffixes isolating universally dynamic boundaries
+    function handleNext() {
+        status = "idle";
+        currentInput = "";
+        wrongAnswer = "";
+        if (onNext) onNext();
+    }
+
+    function handleWindowKeydown(e: KeyboardEvent) {
+        if (status === "failed" && e.key === "Enter") {
+            e.preventDefault();
+            handleNext();
+        }
+    }
+
     let sentenceParts = $derived(splitSentence(contextSentence));
 </script>
+
+<svelte:window onkeydown={handleWindowKeydown} />
 
 <div
     class="flex flex-col items-center w-full max-w-2xl mx-auto space-y-6 animate-fade-in mt-4"
 >
-    <!-- Question Context Block -->
     <div
         class="text-xl sm:text-2xl text-center text-gray-800 leading-normal font-medium tracking-wide"
     >
         {#if sentenceParts.length >= 2}
             <span class="mr-2">{sentenceParts[0]}</span>
-            <input
-                bind:this={inputRef}
-                type="text"
-                bind:value={currentInput}
-                onkeydown={handleKeydown}
-                aria-label="Conjugate the missing verb"
-                class="inline-block w-36 sm:w-44 text-center border-b-2 border-dashed bg-transparent focus:outline-none transition-colors {status ===
-                'error'
-                    ? 'border-red-500 text-red-600 bg-red-50 focus:border-red-600 focus:bg-red-100'
-                    : 'border-blue-400 text-blue-700 hover:border-blue-500 focus:border-blue-600 focus:bg-blue-50'}"
-                autofocus
-                autocomplete="off"
-                autocorrect="off"
-                spellcheck="false"
-            />
+
+            {#if status === "failed"}
+                <div
+                    class="inline-flex flex-col items-center justify-center align-middle mx-1 text-2xl font-bold bg-gray-50 border border-gray-200 rounded px-4 py-1 shadow-inner"
+                >
+                    <span class="text-green-600 leading-none pb-1"
+                        >{targetVerb}</span
+                    >
+                    <span
+                        class="text-red-500 line-through text-lg opacity-60 leading-none pt-1"
+                        >{wrongAnswer}</span
+                    >
+                </div>
+            {:else}
+                <input
+                    bind:this={inputRef}
+                    type="text"
+                    bind:value={currentInput}
+                    onkeydown={handleKeydown}
+                    aria-label="Conjugate the missing verb"
+                    class="inline-block w-36 sm:w-44 text-center border-b-2 border-dashed bg-transparent focus:outline-none transition-colors border-blue-400 text-blue-700 hover:border-blue-500 focus:border-blue-600 focus:bg-blue-50"
+                    autofocus
+                    autocomplete="off"
+                    autocorrect="off"
+                    spellcheck="false"
+                />
+            {/if}
+
             <span class="ml-2">{sentenceParts[1]}</span>
         {:else}
             <!-- Fallback if grammar rules omit missing ___ block -->
             <span class="block mb-4">{contextSentence}</span>
-            <input
-                bind:this={inputRef}
-                type="text"
-                bind:value={currentInput}
-                onkeydown={handleKeydown}
-                class="block w-full max-w-md mx-auto text-center border-b-2 text-2xl bg-transparent focus:outline-none {status ===
-                'error'
-                    ? 'border-red-500 text-red-600'
-                    : 'border-blue-400 text-blue-700'}"
-                autofocus
-            />
+
+            {#if status === "failed"}
+                <div
+                    class="flex flex-col items-center justify-center mx-auto text-2xl font-bold my-4 bg-gray-50 border border-gray-200 rounded px-6 py-2 shadow-inner"
+                >
+                    <span class="text-green-600 leading-none pb-1"
+                        >{targetVerb}</span
+                    >
+                    <span
+                        class="text-red-500 line-through text-xl opacity-60 leading-none pt-1"
+                        >{wrongAnswer}</span
+                    >
+                </div>
+            {:else}
+                <input
+                    bind:this={inputRef}
+                    type="text"
+                    bind:value={currentInput}
+                    onkeydown={handleKeydown}
+                    class="block w-full max-w-md mx-auto text-center border-b-2 text-2xl bg-transparent focus:outline-none border-blue-400 text-blue-700"
+                    autofocus
+                />
+            {/if}
         {/if}
 
         {#if showBaseVerb && baseVerb}
@@ -117,7 +170,6 @@
         {/if}
     </div>
 
-    <!-- Supplementary Context -->
     {#if showEnglishTranslation && translation}
         <p
             class="text-sm sm:text-base text-gray-500 font-medium italic text-center mt-2 px-4 shadow-sm py-1 bg-white border rounded"
@@ -126,29 +178,40 @@
         </p>
     {/if}
 
-    <!-- Virtual Keyboard integration (passes char dispatch directly avoiding focus-loss!) -->
-    <div class="w-full flex justify-center mt-8">
-        <VirtualKeyboard isVisible={true} onKeypress={handleVirtualKey} />
-    </div>
+    {#if status !== "failed"}
+        <div class="w-full flex justify-center mt-8">
+            <VirtualKeyboard isVisible={true} onKeypress={handleVirtualKey} />
+        </div>
+    {/if}
 
-    <!-- Gamification Context Actions -->
     <div class="flex gap-4 mt-12 w-full justify-center">
-        <button
-            type="button"
-            onclick={useHint}
-            aria-label="Request Hint"
-            class="px-6 py-3 bg-amber-100 text-amber-800 border border-amber-300 rounded-xl hover:bg-amber-200 focus:outline-none focus:ring-2 focus:ring-amber-500 font-bold tracking-wide transition-all active:scale-95"
-        >
-            Give Hint
-        </button>
-        <button
-            type="button"
-            onclick={submit}
-            aria-label="Submit Answer"
-            class="px-8 py-3 bg-blue-600 text-white rounded-xl shadow-md border border-blue-700 hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2 font-bold tracking-wide transition-all active:scale-95"
-        >
-            Check Answer
-        </button>
+        {#if status === "failed"}
+            <button
+                type="button"
+                onclick={handleNext}
+                aria-label="Next Question"
+                class="px-12 py-3 bg-blue-600 text-white rounded-xl shadow border border-blue-700 hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-500 font-bold tracking-wide transition-all active:scale-95"
+            >
+                Next
+            </button>
+        {:else}
+            <button
+                type="button"
+                onclick={useHint}
+                aria-label="Request Hint"
+                class="px-6 py-3 bg-amber-100 text-amber-800 border border-amber-300 rounded-xl hover:bg-amber-200 focus:outline-none focus:ring-2 focus:ring-amber-500 font-bold tracking-wide transition-all active:scale-95"
+            >
+                Give Hint
+            </button>
+            <button
+                type="button"
+                onclick={submit}
+                aria-label="Submit Answer"
+                class="px-8 py-3 bg-blue-600 text-white rounded-xl shadow-md border border-blue-700 hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2 font-bold tracking-wide transition-all active:scale-95"
+            >
+                Check Answer
+            </button>
+        {/if}
     </div>
 </div>
 

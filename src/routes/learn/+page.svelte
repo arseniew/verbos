@@ -146,6 +146,7 @@
         onSubmit={handleSubmission}
         onHintUsed={handleHint}
         onStrike={handleStrike}
+        onNext={finishCycle}
       />
     </div>
   {:else}
