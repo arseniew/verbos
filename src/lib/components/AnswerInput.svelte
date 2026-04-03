@@ -1,6 +1,7 @@
 <script lang="ts">
     import VirtualKeyboard from "./VirtualKeyboard.svelte";
     import { generateHint } from "../utils/hintLogic";
+    import { splitSentence } from "../utils/stringUtils";
 
     let {
         targetVerb,
@@ -11,6 +12,7 @@
         baseVerb,
         onSubmit,
         onHintUsed,
+        onStrike,
     }: {
         targetVerb: string;
         contextSentence: string;
@@ -20,6 +22,7 @@
         baseVerb: string;
         onSubmit: (input: string) => void;
         onHintUsed: () => void;
+        onStrike?: () => void;
     } = $props();
 
     let currentInput = $state("");
@@ -42,6 +45,7 @@
             currentInput = ""; // Clear for next instance automatically
         } else {
             status = "error";
+            if (onStrike) onStrike();
             // Temporary error state for css flashing
             setTimeout(() => {
                 if (status === "error") status = "idle";
@@ -61,8 +65,8 @@
         inputRef?.focus();
     }
 
-    // Reactively extract prefixes and suffixes identifying the `___` replacement zone
-    let sentenceParts = $derived(contextSentence.split("___"));
+    // Reactively extract prefixes and suffixes isolating universally dynamic boundaries
+    let sentenceParts = $derived(splitSentence(contextSentence));
 </script>
 
 <div
