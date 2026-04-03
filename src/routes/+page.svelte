@@ -21,7 +21,7 @@
   <!-- Hero Block -->
   <div class="text-center space-y-5">
     <h1
-      class="text-5xl sm:text-6xl font-extrabold text-gray-900 dark:text-gray-100 tracking-tight leading-tight"
+      class="text-5xl sm:text-6xl font-extrabold text-gray-900 dark:text-white tracking-tighter leading-tight drop-shadow-sm"
     >
       Fluency<span class="text-blue-600">Sync</span>
     </h1>
@@ -48,7 +48,7 @@
 
   <!-- Simple global gamification tracker -->
   <div
-    class="mt-16 text-center bg-gray-50 dark:bg-gray-800/80 px-8 py-3 rounded-2xl shadow-sm border border-gray-100 dark:border-gray-800"
+    class="mt-16 text-center bg-white dark:bg-gray-800 px-10 py-5 rounded-3xl shadow-md border border-gray-200 dark:border-gray-700 lg:w-full lg:max-w-md"
   >
     <p
       class="text-gray-500 dark:text-gray-400 text-sm font-semibold tracking-wide uppercase"

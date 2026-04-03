@@ -32,8 +32,8 @@
         {#each keys as key}
             <button
                 type="button"
-                aria-label={`Insert specialized context character ${key}`}
-                class="w-10 h-10 sm:w-12 sm:h-12 flex items-center justify-center bg-white dark:bg-gray-800 border border-gray-300 dark:border-gray-600 rounded shadow-sm text-lg font-semibold dark:text-gray-100 hover:bg-blue-50 dark:hover:bg-gray-700 focus:outline-none focus:ring-2 focus:ring-blue-500 active:bg-blue-100 transition-colors"
+                aria-label="Insert specialized context character {key}"
+                class="w-10 h-10 sm:w-12 sm:h-12 flex items-center justify-center bg-white dark:bg-gray-800 border-b-2 border border-gray-300 dark:border-gray-700 rounded shadow-sm text-lg font-semibold text-gray-800 dark:text-gray-100 hover:bg-gray-50 dark:hover:bg-gray-700 focus:outline-none focus:ring-2 focus:ring-blue-500 active:translate-y-px active:border-b-0 transition-all"
                 onmousedown={handleMousedown}
                 onclick={() => dispatchKey(key)}
             >

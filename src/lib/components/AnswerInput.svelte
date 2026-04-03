@@ -115,7 +115,7 @@
                         >{targetVerb}</span
                     >
                     <span
-                        class="text-red-500 line-through text-lg opacity-60 leading-none pt-1"
+                        class="text-red-400 decoration-2 line-through text-lg opacity-80 leading-none pt-1"
                         >{wrongAnswer}</span
                     >
                 </div>
@@ -126,7 +126,7 @@
                     bind:value={currentInput}
                     onkeydown={handleKeydown}
                     aria-label="Conjugate the missing verb"
-                    class="inline-block w-36 sm:w-44 text-center border-b-2 border-dashed bg-transparent focus:outline-none transition-colors border-blue-400 text-blue-700 hover:border-blue-500 focus:border-blue-600 focus:bg-blue-50 dark:text-blue-400 dark:border-blue-500"
+                    class="inline-block w-36 sm:w-44 text-center border-b-2 border-dashed bg-transparent focus:outline-none transition-colors border-blue-400 text-blue-700 hover:border-blue-500 focus:border-blue-600 dark:text-blue-400 dark:border-blue-500"
                     autofocus
                     autocomplete="off"
                     autocorrect="off"
@@ -147,7 +147,7 @@
                         >{targetVerb}</span
                     >
                     <span
-                        class="text-red-500 line-through text-xl opacity-60 leading-none pt-1"
+                        class="text-red-400 decoration-2 line-through text-xl opacity-80 leading-none pt-1"
                         >{wrongAnswer}</span
                     >
                 </div>
@@ -190,7 +190,7 @@
                 type="button"
                 onclick={handleNext}
                 aria-label="Next Question"
-                class="px-12 py-3 bg-blue-600 text-white rounded-xl shadow border border-blue-700 hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-500 font-bold tracking-wide transition-all active:scale-95"
+                class="w-full max-w-xs py-4 text-lg bg-blue-600 text-white rounded-xl shadow-lg shadow-blue-600/30 border border-blue-700 hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-500 uppercase tracking-widest font-extrabold transition-all active:scale-95"
             >
                 Next
             </button>
@@ -199,7 +199,7 @@
                 type="button"
                 onclick={useHint}
                 aria-label="Request Hint"
-                class="px-6 py-3 bg-amber-100 dark:bg-amber-900/40 text-amber-800 dark:text-amber-200 border border-amber-300 dark:border-amber-700 rounded-xl hover:bg-amber-200 dark:hover:bg-amber-800 focus:outline-none focus:ring-2 focus:ring-amber-500 font-bold tracking-wide transition-all active:scale-95"
+                class="px-6 py-3 bg-transparent text-gray-600 dark:text-gray-300 border border-gray-300 dark:border-gray-600 rounded-xl hover:bg-gray-50 dark:hover:bg-gray-800/50 focus:outline-none focus:ring-2 focus:ring-gray-400 font-bold tracking-wide transition-all active:scale-95"
             >
                 Give Hint
             </button>
@@ -207,7 +207,7 @@
                 type="button"
                 onclick={submit}
                 aria-label="Submit Answer"
-                class="px-8 py-3 bg-blue-600 text-white rounded-xl shadow-md border border-blue-700 hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2 font-bold tracking-wide transition-all active:scale-95"
+                class="w-full max-w-xs py-4 text-lg bg-blue-600 text-white rounded-xl shadow-lg shadow-blue-600/30 border border-blue-700 hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-500 uppercase tracking-widest font-extrabold transition-all active:scale-95"
             >
                 Check Answer
             </button>
