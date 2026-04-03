@@ -1,0 +1,214 @@
+{
+  "exercises": [
+    {
+      "tense": "Present",
+      "person": "yo",
+      "sentence": "Hoy yo ___ muy feliz con mi trabajo nuevo.",
+      "answer": "soy",
+      "translation": "Today I am very happy with my new job."
+    },
+    {
+      "tense": "Present",
+      "person": "yo",
+      "sentence": "Yo ___ estudiante de la universidad de Madrid.",
+      "answer": "soy",
+      "translation": "I am a student at the University of Madrid."
+    },
+    {
+      "tense": "Present",
+      "person": "yo",
+      "sentence": "Normalmente, yo ___ la persona que prepara el desayuno.",
+      "answer": "soy",
+      "translation": "Normally, I am the person who prepares breakfast."
+    },
+    {
+      "tense": "Present",
+      "person": "tú",
+      "sentence": "¿___ tú el hermano de mi mejor amiga?",
+      "answer": "eres",
+      "translation": "Are you the brother of my best friend?"
+    },
+    {
+      "tense": "Present",
+      "person": "tú",
+      "sentence": "Tú ___ una persona muy amable y simpática.",
+      "answer": "eres",
+      "translation": "You are a very kind and nice person."
+    },
+    {
+      "tense": "Present",
+      "person": "tú",
+      "sentence": "¿Cómo ___ tú hoy por la mañana?",
+      "answer": "eres",
+      "translation": "How are you today in the morning?"
+    },
+    {
+      "tense": "Preterite",
+      "person": "yo",
+      "sentence": "Ayer yo ___ el responsable de organizar el evento.",
+      "answer": "fui",
+      "translation": "Yesterday I was the one responsible for organizing the event."
+    },
+    {
+      "tense": "Preterite",
+      "person": "yo",
+      "sentence": "La semana pasada yo ___ el mejor jugador del equipo.",
+      "answer": "fui",
+      "translation": "Last week I was the best player on the team."
+    },
+    {
+      "tense": "Preterite",
+      "person": "yo",
+      "sentence": "Yo ___ muy valiente durante la emergencia ayer.",
+      "answer": "fui",
+      "translation": "I was very brave during the emergency yesterday."
+    },
+    {
+      "tense": "Preterite",
+      "person": "tú",
+      "sentence": "¿___ tú el ganador de la competencia de baile?",
+      "answer": "fuiste",
+      "translation": "Were you the winner of the dance competition?"
+    },
+    {
+      "tense": "Preterite",
+      "person": "tú",
+      "sentence": "Anoche tú ___ muy generoso con tus invitados.",
+      "answer": "fuiste",
+      "translation": "Last night you were very generous with your guests."
+    },
+    {
+      "tense": "Preterite",
+      "person": "tú",
+      "sentence": "¿Por qué ___ tú tan tímido en la fiesta de ayer?",
+      "answer": "fuiste",
+      "translation": "Why were you so shy at the party yesterday?"
+    },
+    {
+      "tense": "Imperfect",
+      "person": "yo",
+      "sentence": "Cuando era niño, yo ___ muy travieso en clase.",
+      "answer": "era",
+      "translation": "When I was a child, I was very mischievous in class."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "yo",
+      "sentence": "Antes, yo ___ fanático de la música rock.",
+      "answer": "era",
+      "translation": "Before, I was a fan of rock music."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "yo",
+      "sentence": "Yo ___ una persona muy atlética cuando vivía en México.",
+      "answer": "era",
+      "translation": "I was a very athletic person when I lived in Mexico."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "tú",
+      "sentence": "Cuando tú ___ pequeño, vivías cerca de la playa.",
+      "answer": "eras",
+      "translation": "When you were small, you lived near the beach."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "tú",
+      "sentence": "Tú ___ muy inteligente cuando estudiabas en la secundaria.",
+      "answer": "eras",
+      "translation": "You were very intelligent when you studied in high school."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "tú",
+      "sentence": "¿___ tú paciente con los niños en ese tiempo?",
+      "answer": "eras",
+      "translation": "Were you patient with the children at that time?"
+    },
+    {
+      "tense": "Conditional",
+      "person": "yo",
+      "sentence": "Yo ___ más feliz si tuviera más tiempo libre.",
+      "answer": "sería",
+      "translation": "I would be happier if I had more free time."
+    },
+    {
+      "tense": "Conditional",
+      "person": "yo",
+      "sentence": "En tu lugar, yo ___ muy cuidadoso con ese contrato.",
+      "answer": "sería",
+      "translation": "In your place, I would be very careful with that contract."
+    },
+    {
+      "tense": "Conditional",
+      "person": "yo",
+      "sentence": "Yo ___ un excelente guía turístico si conociera la ciudad.",
+      "answer": "sería",
+      "translation": "I would be an excellent tour guide if I knew the city."
+    },
+    {
+      "tense": "Conditional",
+      "person": "tú",
+      "sentence": "¿___ tú capaz de terminar el proyecto hoy mismo?",
+      "answer": "serías",
+      "translation": "Would you be capable of finishing the project today?"
+    },
+    {
+      "tense": "Conditional",
+      "person": "tú",
+      "sentence": "Tú ___ un gran doctor si decidieras estudiar medicina.",
+      "answer": "serías",
+      "translation": "You would be a great doctor if you decided to study medicine."
+    },
+    {
+      "tense": "Conditional",
+      "person": "tú",
+      "sentence": "¿___ tú tan amable de ayudarme con este paquete?",
+      "answer": "serías",
+      "translation": "Would you be so kind as to help me with this package?"
+    },
+    {
+      "tense": "Future",
+      "person": "yo",
+      "sentence": "Algún día yo ___ un profesional muy reconocido.",
+      "answer": "seré",
+      "translation": "Someday I will be a very recognized professional."
+    },
+    {
+      "tense": "Future",
+      "person": "yo",
+      "sentence": "Yo ___ muy cuidadoso con mi dinero el próximo año.",
+      "answer": "seré",
+      "translation": "I will be very careful with my money next year."
+    },
+    {
+      "tense": "Future",
+      "person": "yo",
+      "sentence": "Seguramente yo ___ el primero en llegar a la reunión.",
+      "answer": "seré",
+      "translation": "Surely I will be the first to arrive at the meeting."
+    },
+    {
+      "tense": "Future",
+      "person": "tú",
+      "sentence": "Tú ___ una persona exitosa si sigues trabajando duro.",
+      "answer": "serás",
+      "translation": "You will be a successful person if you keep working hard."
+    },
+    {
+      "tense": "Future",
+      "person": "tú",
+      "sentence": "¿___ tú mi pareja de baile en el evento de mañana?",
+      "answer": "serás",
+      "translation": "Will you be my dance partner at the event tomorrow?"
+    },
+    {
+      "tense": "Future",
+      "person": "tú",
+      "sentence": "Tú ___ un excelente padre para tus futuros hijos.",
+      "answer": "serás",
+      "translation": "You will be an excellent father to your future children."
+    }
+  ]
+}

@@ -1,0 +1,522 @@
+{
+  "exercises": [
+    {
+      "tense": "Present",
+      "person": "yo",
+      "sentence": "Yo no _______ lo que dice ese hombre.",
+      "answer": "creo",
+      "translation": "I do not believe what that man says."
+    },
+    {
+      "tense": "Present",
+      "person": "yo",
+      "sentence": "Yo _______ que va a llover hoy.",
+      "answer": "creo",
+      "translation": "I believe that it is going to rain today."
+    },
+    {
+      "tense": "Present",
+      "person": "yo",
+      "sentence": "A veces _______ que es mejor descansar.",
+      "answer": "creo",
+      "translation": "Sometimes I believe that it is better to rest."
+    },
+    {
+      "tense": "Present",
+      "person": "tú",
+      "sentence": "¿Tú _______ en los fantasmas?",
+      "answer": "crees",
+      "translation": "Do you believe in ghosts?"
+    },
+    {
+      "tense": "Present",
+      "person": "tú",
+      "sentence": "Sé que tú _______ lo que te digo.",
+      "answer": "crees",
+      "translation": "I know that you believe what I tell you."
+    },
+    {
+      "tense": "Present",
+      "person": "tú",
+      "sentence": "¿Por qué no _______ en su historia?",
+      "answer": "crees",
+      "translation": "Why don't you believe in his story?"
+    },
+    {
+      "tense": "Present",
+      "person": "él/ella",
+      "sentence": "Ella _______ que es la mejor opción.",
+      "answer": "cree",
+      "translation": "She believes it is the best option."
+    },
+    {
+      "tense": "Present",
+      "person": "él/ella",
+      "sentence": "Él _______ todo lo que le cuentan sus amigos.",
+      "answer": "cree",
+      "translation": "He believes everything his friends tell him."
+    },
+    {
+      "tense": "Present",
+      "person": "él/ella",
+      "sentence": "Mi abuela _______ que la honestidad es importante.",
+      "answer": "cree",
+      "translation": "My grandmother believes that honesty is important."
+    },
+    {
+      "tense": "Present",
+      "person": "nosotros",
+      "sentence": "Nosotros _______ que podemos ganar el partido.",
+      "answer": "creemos",
+      "translation": "We believe that we can win the game."
+    },
+    {
+      "tense": "Present",
+      "person": "nosotros",
+      "sentence": "Nosotros no _______ en esos rumores falsos.",
+      "answer": "creemos",
+      "translation": "We do not believe in those false rumors."
+    },
+    {
+      "tense": "Present",
+      "person": "nosotros",
+      "sentence": "Siempre _______ que el trabajo duro tiene recompensa.",
+      "answer": "creemos",
+      "translation": "We always believe that hard work has a reward."
+    },
+    {
+      "tense": "Present",
+      "person": "ellos/ellas",
+      "sentence": "Ellos _______ que la película termina pronto.",
+      "answer": "creen",
+      "translation": "They believe that the movie ends soon."
+    },
+    {
+      "tense": "Present",
+      "person": "ellos/ellas",
+      "sentence": "Mis padres _______ que debemos estudiar más.",
+      "answer": "creen",
+      "translation": "My parents believe that we should study more."
+    },
+    {
+      "tense": "Present",
+      "person": "ellos/ellas",
+      "sentence": "Ellas _______ firmemente en la justicia.",
+      "answer": "creen",
+      "translation": "They firmly believe in justice."
+    },
+    {
+      "tense": "Preterite",
+      "person": "yo",
+      "sentence": "Ayer yo _______ que era lunes.",
+      "answer": "creí",
+      "translation": "Yesterday I believed it was Monday."
+    },
+    {
+      "tense": "Preterite",
+      "person": "yo",
+      "sentence": "Por un momento yo _______ que estabas en casa.",
+      "answer": "creí",
+      "translation": "For a moment I believed that you were home."
+    },
+    {
+      "tense": "Preterite",
+      "person": "yo",
+      "sentence": "Yo _______ que la reunión era a las cinco.",
+      "answer": "creí",
+      "translation": "I believed the meeting was at five."
+    },
+    {
+      "tense": "Preterite",
+      "person": "tú",
+      "sentence": "¿Tú _______ que la noticia era real?",
+      "answer": "creíste",
+      "translation": "Did you believe that the news was real?"
+    },
+    {
+      "tense": "Preterite",
+      "person": "tú",
+      "sentence": "Al principio tú _______ que era una broma.",
+      "answer": "creíste",
+      "translation": "At first you believed it was a joke."
+    },
+    {
+      "tense": "Preterite",
+      "person": "tú",
+      "sentence": "¿Por qué _______ que él te mentía?",
+      "answer": "creíste",
+      "translation": "Why did you believe that he was lying to you?"
+    },
+    {
+      "tense": "Preterite",
+      "person": "él/ella",
+      "sentence": "Él _______ que nadie lo estaba mirando.",
+      "answer": "creyó",
+      "translation": "He believed that nobody was watching him."
+    },
+    {
+      "tense": "Preterite",
+      "person": "él/ella",
+      "sentence": "Ella _______ todo lo que dijo el vendedor.",
+      "answer": "creyó",
+      "translation": "She believed everything the salesman said."
+    },
+    {
+      "tense": "Preterite",
+      "person": "él/ella",
+      "sentence": "El niño _______ que el regalo era para él.",
+      "answer": "creyó",
+      "translation": "The boy believed the gift was for him."
+    },
+    {
+      "tense": "Preterite",
+      "person": "nosotros",
+      "sentence": "Nosotros _______ que la fiesta terminaba tarde.",
+      "answer": "creímos",
+      "translation": "We believed that the party ended late."
+    },
+    {
+      "tense": "Preterite",
+      "person": "nosotros",
+      "sentence": "Al final, nosotros _______ que era una buena idea.",
+      "answer": "creímos",
+      "translation": "In the end, we believed it was a good idea."
+    },
+    {
+      "tense": "Preterite",
+      "person": "nosotros",
+      "sentence": "Nosotros _______ que el examen sería más difícil.",
+      "answer": "creímos",
+      "translation": "We believed the exam would be more difficult."
+    },
+    {
+      "tense": "Preterite",
+      "person": "ellos/ellas",
+      "sentence": "Ellos _______ que habíamos llegado a tiempo.",
+      "answer": "creyeron",
+      "translation": "They believed that we had arrived on time."
+    },
+    {
+      "tense": "Preterite",
+      "person": "ellos/ellas",
+      "sentence": "Mis amigos _______ que la tienda estaba cerrada.",
+      "answer": "creyeron",
+      "translation": "My friends believed that the store was closed."
+    },
+    {
+      "tense": "Preterite",
+      "person": "ellos/ellas",
+      "sentence": "Ellas _______ en su plan hasta el final.",
+      "answer": "creyeron",
+      "translation": "They believed in his plan until the end."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "yo",
+      "sentence": "Antes yo _______ que viajar era caro.",
+      "answer": "creía",
+      "translation": "Before, I believed that traveling was expensive."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "yo",
+      "sentence": "Yo _______ que vivías en España.",
+      "answer": "creía",
+      "translation": "I believed that you lived in Spain."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "yo",
+      "sentence": "De niño yo _______ en los cuentos de hadas.",
+      "answer": "creía",
+      "translation": "As a child I believed in fairy tales."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "tú",
+      "sentence": "¿Tú _______ que esa calle era segura?",
+      "answer": "creías",
+      "translation": "Did you believe that street was safe?"
+    },
+    {
+      "tense": "Imperfect",
+      "person": "tú",
+      "sentence": "Siempre _______ que tenías razón.",
+      "answer": "creías",
+      "translation": "You always believed that you were right."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "tú",
+      "sentence": "Cuando eras pequeño, ¿_______ en los superhéroes?",
+      "answer": "creías",
+      "translation": "When you were small, did you believe in superheroes?"
+    },
+    {
+      "tense": "Imperfect",
+      "person": "él/ella",
+      "sentence": "Ella _______ que la prueba era ayer.",
+      "answer": "creía",
+      "translation": "She believed that the test was yesterday."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "él/ella",
+      "sentence": "Él _______ que todos sus amigos vendrían.",
+      "answer": "creía",
+      "translation": "He believed that all his friends would come."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "él/ella",
+      "sentence": "Mi hermano _______ que el invierno duraría meses.",
+      "answer": "creía",
+      "translation": "My brother believed that winter would last months."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "nosotros",
+      "sentence": "Nosotros _______ que la reunión empezaba a las diez.",
+      "answer": "creíamos",
+      "translation": "We believed that the meeting started at ten."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "nosotros",
+      "sentence": "Siempre _______ que ellos volverían pronto.",
+      "answer": "creíamos",
+      "translation": "We always believed that they would come back soon."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "nosotros",
+      "sentence": "Nosotros _______ que éramos los mejores amigos.",
+      "answer": "creíamos",
+      "translation": "We believed that we were best friends."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "ellos/ellas",
+      "sentence": "Ellos _______ que todo iba a salir bien.",
+      "answer": "creían",
+      "translation": "They believed that everything was going to go well."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "ellos/ellas",
+      "sentence": "Mis abuelos _______ que el mundo era diferente antes.",
+      "answer": "creían",
+      "translation": "My grandparents believed that the world was different before."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "ellos/ellas",
+      "sentence": "Ellas _______ que tenían suficiente dinero.",
+      "answer": "creían",
+      "translation": "They believed that they had enough money."
+    },
+    {
+      "tense": "Conditional",
+      "person": "yo",
+      "sentence": "Yo no _______ esa noticia aunque me lo digas.",
+      "answer": "creería",
+      "translation": "I would not believe that news even if you told me."
+    },
+    {
+      "tense": "Conditional",
+      "person": "yo",
+      "sentence": "Yo _______ que es mejor esperar un poco.",
+      "answer": "creería",
+      "translation": "I would believe that it is better to wait a bit."
+    },
+    {
+      "tense": "Conditional",
+      "person": "yo",
+      "sentence": "¿Tú qué _______ si estuvieras en mi lugar?",
+      "answer": "creerías",
+      "translation": "What would you believe if you were in my place?"
+    },
+    {
+      "tense": "Conditional",
+      "person": "tú",
+      "sentence": "Tú no _______ lo difícil que es sin ayuda.",
+      "answer": "creerías",
+      "translation": "You would not believe how difficult it is without help."
+    },
+    {
+      "tense": "Conditional",
+      "person": "tú",
+      "sentence": "¿_______ que él dice la verdad si lo conocieras?",
+      "answer": "Creerías",
+      "translation": "Would you believe that he tells the truth if you knew him?"
+    },
+    {
+      "tense": "Conditional",
+      "person": "él/ella",
+      "sentence": "Él _______ en tu historia si tuvieras pruebas.",
+      "answer": "creería",
+      "translation": "He would believe in your story if you had proof."
+    },
+    {
+      "tense": "Conditional",
+      "person": "él/ella",
+      "sentence": "Ella _______ que es necesario cambiar el plan.",
+      "answer": "creería",
+      "translation": "She would believe that it is necessary to change the plan."
+    },
+    {
+      "tense": "Conditional",
+      "person": "él/ella",
+      "sentence": "Cualquiera _______ que es un experto por cómo habla.",
+      "answer": "creería",
+      "translation": "Anyone would believe he is an expert by how he talks."
+    },
+    {
+      "tense": "Conditional",
+      "person": "nosotros",
+      "sentence": "Nosotros _______ que es posible si trabajamos juntos.",
+      "answer": "creeríamos",
+      "translation": "We would believe that it is possible if we work together."
+    },
+    {
+      "tense": "Conditional",
+      "person": "nosotros",
+      "sentence": "Nosotros _______ en tu inocencia siempre.",
+      "answer": "creeríamos",
+      "translation": "We would always believe in your innocence."
+    },
+    {
+      "tense": "Conditional",
+      "person": "nosotros",
+      "sentence": "Nosotros _______ que este proyecto será un éxito.",
+      "answer": "creeríamos",
+      "translation": "We would believe that this project will be a success."
+    },
+    {
+      "tense": "Conditional",
+      "person": "ellos/ellas",
+      "sentence": "Ellos _______ que es una broma si no ven fotos.",
+      "answer": "creerían",
+      "translation": "They would believe it is a joke if they don't see photos."
+    },
+    {
+      "tense": "Conditional",
+      "person": "ellos/ellas",
+      "sentence": "Muchos _______ en su proyecto si lo explica mejor.",
+      "answer": "creerían",
+      "translation": "Many would believe in his project if he explains it better."
+    },
+    {
+      "tense": "Conditional",
+      "person": "ellos/ellas",
+      "sentence": "Mis amigos _______ que la ciudad es muy bonita.",
+      "answer": "creerían",
+      "translation": "My friends would believe that the city is very pretty."
+    },
+    {
+      "tense": "Future",
+      "person": "yo",
+      "sentence": "Yo _______ que todo mejorará con el tiempo.",
+      "answer": "creeré",
+      "translation": "I will believe that everything will improve with time."
+    },
+    {
+      "tense": "Future",
+      "person": "yo",
+      "sentence": "Solo entonces yo _______ en sus promesas.",
+      "answer": "creeré",
+      "translation": "Only then will I believe in his promises."
+    },
+    {
+      "tense": "Future",
+      "person": "yo",
+      "sentence": "Yo _______ que ese hombre es honesto hasta que mienta.",
+      "answer": "creeré",
+      "translation": "I will believe that man is honest until he lies."
+    },
+    {
+      "tense": "Future",
+      "person": "tú",
+      "sentence": "¿Tú _______ que el cambio es positivo algún día?",
+      "answer": "creerás",
+      "translation": "Will you believe that the change is positive one day?"
+    },
+    {
+      "tense": "Future",
+      "person": "tú",
+      "sentence": "Tú _______ lo que quieras, pero yo tengo fe.",
+      "answer": "creerás",
+      "translation": "You will believe whatever you want, but I have faith."
+    },
+    {
+      "tense": "Future",
+      "person": "tú",
+      "sentence": "¿_______ que él vendrá a tiempo mañana?",
+      "answer": "Creerás",
+      "translation": "Will you believe that he will arrive on time tomorrow?"
+    },
+    {
+      "tense": "Future",
+      "person": "él/ella",
+      "sentence": "Él _______ en el proyecto cuando vea los resultados.",
+      "answer": "creerá",
+      "translation": "He will believe in the project when he sees the results."
+    },
+    {
+      "tense": "Future",
+      "person": "él/ella",
+      "sentence": "Ella _______ que el trabajo está terminado mañana.",
+      "answer": "creerá",
+      "translation": "She will believe that the work is finished tomorrow."
+    },
+    {
+      "tense": "Future",
+      "person": "él/ella",
+      "sentence": "El público _______ que la actuación fue excelente.",
+      "answer": "creerá",
+      "translation": "The audience will believe that the performance was excellent."
+    },
+    {
+      "tense": "Future",
+      "person": "nosotros",
+      "sentence": "Nosotros _______ que la situación cambiará pronto.",
+      "answer": "creeremos",
+      "translation": "We will believe that the situation will change soon."
+    },
+    {
+      "tense": "Future",
+      "person": "nosotros",
+      "sentence": "Nosotros _______ en sus palabras si demuestra honestidad.",
+      "answer": "creeremos",
+      "translation": "We will believe in his words if he demonstrates honesty."
+    },
+    {
+      "tense": "Future",
+      "person": "nosotros",
+      "sentence": "Nosotros _______ que este es el camino correcto.",
+      "answer": "creeremos",
+      "translation": "We will believe that this is the right path."
+    },
+    {
+      "tense": "Future",
+      "person": "ellos/ellas",
+      "sentence": "Ellos _______ que la verdad siempre sale a la luz.",
+      "answer": "creerán",
+      "translation": "They will believe that the truth always comes to light."
+    },
+    {
+      "tense": "Future",
+      "person": "ellos/ellas",
+      "sentence": "Mis hermanos _______ que los regalos llegaron tarde.",
+      "answer": "creerán",
+      "translation": "My brothers will believe that the gifts arrived late."
+    },
+    {
+      "tense": "Future",
+      "person": "ellos/ellas",
+      "sentence": "Todos _______ que tú hiciste un buen trabajo.",
+      "answer": "creerán",
+      "translation": "Everyone will believe that you did a good job."
+    }
+  ]
+}

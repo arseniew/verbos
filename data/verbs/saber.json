@@ -1,0 +1,109 @@
+{
+  "exercises": [
+    {
+      "tense": "Present",
+      "person": "yo",
+      "sentence": "Yo __________ que la respuesta es correcta.",
+      "answer": "sé",
+      "translation": "I know that the answer is correct."
+    },
+    {
+      "tense": "Present",
+      "person": "yo",
+      "sentence": "No __________ por qué no ha llegado todavía.",
+      "answer": "sé",
+      "translation": "I don't know why he hasn't arrived yet."
+    },
+    {
+      "tense": "Present",
+      "person": "yo",
+      "sentence": "Yo __________ usar este programa de computadora.",
+      "answer": "sé",
+      "translation": "I know how to use this computer program."
+    },
+    {
+      "tense": "Preterite",
+      "person": "yo",
+      "sentence": "Ayer yo __________ la verdad sobre el accidente.",
+      "answer": "supe",
+      "translation": "Yesterday I found out the truth about the accident."
+    },
+    {
+      "tense": "Preterite",
+      "person": "yo",
+      "sentence": "En ese momento, yo __________ que todo iba a estar bien.",
+      "answer": "supe",
+      "translation": "At that moment, I realized that everything was going to be fine."
+    },
+    {
+      "tense": "Preterite",
+      "person": "yo",
+      "sentence": "Por fin __________ el secreto de mi abuela.",
+      "answer": "supe",
+      "translation": "Finally I found out my grandmother's secret."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "yo",
+      "sentence": "Antes yo __________ hablar un poco de francés.",
+      "answer": "sabía",
+      "translation": "I used to know how to speak a little French."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "yo",
+      "sentence": "Yo __________ que él vendría a la fiesta.",
+      "answer": "sabía",
+      "translation": "I knew that he would come to the party."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "yo",
+      "sentence": "Siempre __________ dónde encontrar mis llaves.",
+      "answer": "sabía",
+      "translation": "I always knew where to find my keys."
+    },
+    {
+      "tense": "Conditional",
+      "person": "yo",
+      "sentence": "Yo __________ qué hacer si hubiera una emergencia.",
+      "answer": "sabría",
+      "translation": "I would know what to do if there were an emergency."
+    },
+    {
+      "tense": "Conditional",
+      "person": "yo",
+      "sentence": "Si estudiara más, yo __________ todas las respuestas.",
+      "answer": "sabría",
+      "translation": "If I studied more, I would know all the answers."
+    },
+    {
+      "tense": "Conditional",
+      "person": "yo",
+      "sentence": "Yo __________ apreciar tu ayuda si me la ofrecieras.",
+      "answer": "sabría",
+      "translation": "I would know how to appreciate your help if you offered it to me."
+    },
+    {
+      "tense": "Future",
+      "person": "yo",
+      "sentence": "Mañana yo __________ los resultados del examen.",
+      "answer": "sabré",
+      "translation": "Tomorrow I will know the results of the exam."
+    },
+    {
+      "tense": "Future",
+      "person": "yo",
+      "sentence": "Pronto __________ quién ganó la competencia.",
+      "answer": "sabré",
+      "translation": "Soon I will know who won the competition."
+    },
+    {
+      "tense": "Future",
+      "person": "yo",
+      "sentence": "Algún día __________ toda la verdad sobre este asunto.",
+      "answer": "sabré",
+      "translation": "Someday I will know the whole truth about this matter."
+    }
+  ]
+}

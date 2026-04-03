@@ -1,0 +1,109 @@
+{
+  "exercises": [
+    {
+      "tense": "Present",
+      "person": "yo",
+      "sentence": "Yo ______ tomar un café con mis amigos esta tarde.",
+      "answer": "quiero",
+      "translation": "I want to have a coffee with my friends this afternoon."
+    },
+    {
+      "tense": "Present",
+      "person": "yo",
+      "sentence": "Aunque es tarde, yo ______ terminar este libro hoy.",
+      "answer": "quiero",
+      "translation": "Although it is late, I want to finish this book today."
+    },
+    {
+      "tense": "Present",
+      "person": "yo",
+      "sentence": "Yo ______ aprender a tocar la guitarra este verano.",
+      "answer": "quiero",
+      "translation": "I want to learn to play the guitar this summer."
+    },
+    {
+      "tense": "Preterite",
+      "person": "yo",
+      "sentence": "Ayer, yo ______ comprar pan, pero la tienda estaba cerrada.",
+      "answer": "quise",
+      "translation": "Yesterday, I tried to buy bread, but the store was closed."
+    },
+    {
+      "tense": "Preterite",
+      "person": "yo",
+      "sentence": "Yo ______ estudiar mucho anoche para el examen final.",
+      "answer": "quise",
+      "translation": "I tried to study a lot last night for the final exam."
+    },
+    {
+      "tense": "Preterite",
+      "person": "yo",
+      "sentence": "Yo ______ ver la película, pero me quedé dormido.",
+      "answer": "quise",
+      "translation": "I tried to watch the movie, but I fell asleep."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "yo",
+      "sentence": "Cuando era niño, yo siempre ______ jugar en el parque.",
+      "answer": "quería",
+      "translation": "When I was a child, I always wanted to play in the park."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "yo",
+      "sentence": "Yo ______ ser astronauta cuando era pequeño.",
+      "answer": "quería",
+      "translation": "I wanted to be an astronaut when I was little."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "yo",
+      "sentence": "Antes, yo ______ vivir en una ciudad grande.",
+      "answer": "quería",
+      "translation": "Before, I wanted to live in a big city."
+    },
+    {
+      "tense": "Conditional",
+      "person": "yo",
+      "sentence": "Yo ______ ir a España si tuviera suficiente dinero.",
+      "answer": "querría",
+      "translation": "I would want to go to Spain if I had enough money."
+    },
+    {
+      "tense": "Conditional",
+      "person": "yo",
+      "sentence": "Yo ______ aprender francés si tuviera más tiempo libre.",
+      "answer": "querría",
+      "translation": "I would want to learn French if I had more free time."
+    },
+    {
+      "tense": "Conditional",
+      "person": "yo",
+      "sentence": "Yo ______ ayudarte, pero no sé cómo hacerlo.",
+      "answer": "querría",
+      "translation": "I would like to help you, but I do not know how to do it."
+    },
+    {
+      "tense": "Future",
+      "person": "yo",
+      "sentence": "El próximo año, yo ______ viajar a muchos países diferentes.",
+      "answer": "querré",
+      "translation": "Next year, I will want to travel to many different countries."
+    },
+    {
+      "tense": "Future",
+      "person": "yo",
+      "sentence": "Algún día, yo ______ tener una casa cerca del mar.",
+      "answer": "querré",
+      "translation": "Someday, I will want to have a house near the sea."
+    },
+    {
+      "tense": "Future",
+      "person": "yo",
+      "sentence": "Cuando termine la carrera, yo ______ buscar un buen trabajo.",
+      "answer": "querré",
+      "translation": "When I finish my degree, I will want to look for a good job."
+    }
+  ]
+}

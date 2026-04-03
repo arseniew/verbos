@@ -1,0 +1,109 @@
+{
+  "exercises": [
+    {
+      "tense": "Present",
+      "person": "yo",
+      "sentence": "Yo ______ terminar mi tarea antes de salir a jugar.",
+      "answer": "debo",
+      "translation": "I must finish my homework before going out to play."
+    },
+    {
+      "tense": "Present",
+      "person": "yo",
+      "sentence": "Yo ______ ser más amable con mis vecinos.",
+      "answer": "debo",
+      "translation": "I should be kinder to my neighbors."
+    },
+    {
+      "tense": "Present",
+      "person": "yo",
+      "sentence": "Yo ______ ir al gimnasio todos los días.",
+      "answer": "debo",
+      "translation": "I must go to the gym every day."
+    },
+    {
+      "tense": "Preterite",
+      "person": "yo",
+      "sentence": "Yo ______ devolver el libro ayer, pero se me olvidó.",
+      "answer": "debí",
+      "translation": "I should have returned the book yesterday, but I forgot."
+    },
+    {
+      "tense": "Preterite",
+      "person": "yo",
+      "sentence": "Yo ______ pagar la cuenta en cuanto llegué al restaurante.",
+      "answer": "debí",
+      "translation": "I had to pay the bill as soon as I arrived at the restaurant."
+    },
+    {
+      "tense": "Preterite",
+      "person": "yo",
+      "sentence": "Yo ______ estudiar más para el examen difícil del lunes.",
+      "answer": "debí",
+      "translation": "I should have studied more for Monday's difficult exam."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "yo",
+      "sentence": "Cuando era niño, yo ______ acostarme temprano cada noche.",
+      "answer": "debía",
+      "translation": "When I was a child, I had to go to bed early every night."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "yo",
+      "sentence": "Antes, yo ______ trabajar horas extra todos los viernes.",
+      "answer": "debía",
+      "translation": "Before, I used to have to work overtime every Friday."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "yo",
+      "sentence": "Yo ______ estudiar mucho cuando estaba en la universidad.",
+      "answer": "debía",
+      "translation": "I had to study a lot when I was at the university."
+    },
+    {
+      "tense": "Conditional",
+      "person": "yo",
+      "sentence": "Yo ______ comprar un regalo para tu cumpleaños, pero no tengo dinero.",
+      "answer": "debería",
+      "translation": "I should buy a gift for your birthday, but I don't have money."
+    },
+    {
+      "tense": "Conditional",
+      "person": "yo",
+      "sentence": "Yo ______ decirte la verdad sobre lo que pasó.",
+      "answer": "debería",
+      "translation": "I should tell you the truth about what happened."
+    },
+    {
+      "tense": "Conditional",
+      "person": "yo",
+      "sentence": "Yo ______ descansar más si quiero recuperar mi salud.",
+      "answer": "debería",
+      "translation": "I should rest more if I want to recover my health."
+    },
+    {
+      "tense": "Future",
+      "person": "yo",
+      "sentence": "Mañana yo ______ entregar el proyecto final al profesor.",
+      "answer": "deberé",
+      "translation": "Tomorrow I will have to hand in the final project to the professor."
+    },
+    {
+      "tense": "Future",
+      "person": "yo",
+      "sentence": "Pronto yo ______ buscar un nuevo apartamento más cerca del trabajo.",
+      "answer": "deberé",
+      "translation": "Soon I will have to look for a new apartment closer to work."
+    },
+    {
+      "tense": "Future",
+      "person": "yo",
+      "sentence": "Si sigo así, yo ______ estudiar mucho más para aprobar.",
+      "answer": "deberé",
+      "translation": "If I continue like this, I will have to study much more to pass."
+    }
+  ]
+}

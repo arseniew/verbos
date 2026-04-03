@@ -1,0 +1,214 @@
+{
+  "exercises": [
+    {
+      "tense": "Present",
+      "person": "yo",
+      "sentence": "Cada mañana, yo ____ ejercicio en el parque.",
+      "answer": "hago",
+      "translation": "Every morning, I do exercise in the park."
+    },
+    {
+      "tense": "Present",
+      "person": "yo",
+      "sentence": "Yo ____ mi tarea antes de ver la televisión.",
+      "answer": "hago",
+      "translation": "I do my homework before watching television."
+    },
+    {
+      "tense": "Present",
+      "person": "yo",
+      "sentence": "Yo ____ el desayuno para toda mi familia.",
+      "answer": "hago",
+      "translation": "I make breakfast for my whole family."
+    },
+    {
+      "tense": "Present",
+      "person": "tú",
+      "sentence": "¿Por qué ____ tú tanto ruido en tu cuarto?",
+      "answer": "haces",
+      "translation": "Why are you making so much noise in your room?"
+    },
+    {
+      "tense": "Present",
+      "person": "tú",
+      "sentence": "¿____ tú las maletas para el viaje mañana?",
+      "answer": "Haces",
+      "translation": "Are you packing the suitcases for the trip tomorrow?"
+    },
+    {
+      "tense": "Present",
+      "person": "tú",
+      "sentence": "Tú ____ muchas preguntas interesantes en clase.",
+      "answer": "haces",
+      "translation": "You ask many interesting questions in class."
+    },
+    {
+      "tense": "Preterite",
+      "person": "yo",
+      "sentence": "Ayer yo ____ una tarta deliciosa para mi mamá.",
+      "answer": "hice",
+      "translation": "Yesterday I made a delicious cake for my mom."
+    },
+    {
+      "tense": "Preterite",
+      "person": "yo",
+      "sentence": "Yo ____ una llamada importante esta tarde.",
+      "answer": "hice",
+      "translation": "I made an important call this afternoon."
+    },
+    {
+      "tense": "Preterite",
+      "person": "yo",
+      "sentence": "Yo ____ todo lo posible para ayudar a mi amigo.",
+      "answer": "hice",
+      "translation": "I did everything possible to help my friend."
+    },
+    {
+      "tense": "Preterite",
+      "person": "tú",
+      "sentence": "¿____ tú la cama esta mañana antes de salir?",
+      "answer": "Hiciste",
+      "translation": "Did you make the bed this morning before leaving?"
+    },
+    {
+      "tense": "Preterite",
+      "person": "tú",
+      "sentence": "Tú ____ un trabajo excelente en el proyecto final.",
+      "answer": "hiciste",
+      "translation": "You did an excellent job on the final project."
+    },
+    {
+      "tense": "Preterite",
+      "person": "tú",
+      "sentence": "¿Qué ____ tú durante tus vacaciones en España?",
+      "answer": "hiciste",
+      "translation": "What did you do during your vacation in Spain?"
+    },
+    {
+      "tense": "Imperfect",
+      "person": "yo",
+      "sentence": "Cuando era niño, yo siempre ____ castillos de arena.",
+      "answer": "hacía",
+      "translation": "When I was a child, I always made sandcastles."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "yo",
+      "sentence": "Yo ____ mis deberes mientras escuchaba música clásica.",
+      "answer": "hacía",
+      "translation": "I used to do my homework while I listened to classical music."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "yo",
+      "sentence": "Yo ____ deporte todos los días cuando vivía en México.",
+      "answer": "hacía",
+      "translation": "I did sports every day when I lived in Mexico."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "tú",
+      "sentence": "¿____ tú mucha gimnasia cuando estabas en la escuela?",
+      "answer": "Hacías",
+      "translation": "Did you do a lot of gymnastics when you were in school?"
+    },
+    {
+      "tense": "Imperfect",
+      "person": "tú",
+      "sentence": "Tú ____ las compras del supermercado cada sábado.",
+      "answer": "hacías",
+      "translation": "You used to do the supermarket shopping every Saturday."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "tú",
+      "sentence": "Tú ____ muecas graciosas para hacerme reír.",
+      "answer": "hacías",
+      "translation": "You used to make funny faces to make me laugh."
+    },
+    {
+      "tense": "Conditional",
+      "person": "yo",
+      "sentence": "Yo ____ un viaje por el mundo si tuviera dinero.",
+      "answer": "haría",
+      "translation": "I would take a trip around the world if I had money."
+    },
+    {
+      "tense": "Conditional",
+      "person": "yo",
+      "sentence": "Yo ____ cualquier cosa por mi mejor amigo.",
+      "answer": "haría",
+      "translation": "I would do anything for my best friend."
+    },
+    {
+      "tense": "Conditional",
+      "person": "yo",
+      "sentence": "Yo ____ más ejercicio si tuviera más tiempo libre.",
+      "answer": "haría",
+      "translation": "I would do more exercise if I had more free time."
+    },
+    {
+      "tense": "Conditional",
+      "person": "tú",
+      "sentence": "¿____ tú un cambio en tu carrera profesional?",
+      "answer": "Harías",
+      "translation": "Would you make a change in your professional career?"
+    },
+    {
+      "tense": "Conditional",
+      "person": "tú",
+      "sentence": "¿____ tú una fiesta si fuera tu cumpleaños hoy?",
+      "answer": "Harías",
+      "translation": "Would you have a party if it were your birthday today?"
+    },
+    {
+      "tense": "Conditional",
+      "person": "tú",
+      "sentence": "Tú ____ bien en estudiar un poco más cada día.",
+      "answer": "harías",
+      "translation": "You would do well to study a little more each day."
+    },
+    {
+      "tense": "Future",
+      "person": "yo",
+      "sentence": "Mañana yo ____ el pastel de chocolate para la fiesta.",
+      "answer": "haré",
+      "translation": "Tomorrow I will make the chocolate cake for the party."
+    },
+    {
+      "tense": "Future",
+      "person": "yo",
+      "sentence": "Yo ____ las reservaciones del hotel esta misma tarde.",
+      "answer": "haré",
+      "translation": "I will make the hotel reservations this very afternoon."
+    },
+    {
+      "tense": "Future",
+      "person": "yo",
+      "sentence": "Yo ____ todo lo que pueda para solucionar este problema.",
+      "answer": "haré",
+      "translation": "I will do everything I can to solve this problem."
+    },
+    {
+      "tense": "Future",
+      "person": "tú",
+      "sentence": "¿____ tú la cena esta noche o salimos a comer?",
+      "answer": "Harás",
+      "translation": "Will you make dinner tonight or shall we go out to eat?"
+    },
+    {
+      "tense": "Future",
+      "person": "tú",
+      "sentence": "Tú ____ muchos amigos en tu nuevo curso de español.",
+      "answer": "harás",
+      "translation": "You will make many friends in your new Spanish course."
+    },
+    {
+      "tense": "Future",
+      "person": "tú",
+      "sentence": "¿____ tú las maletas antes de ir al aeropuerto?",
+      "answer": "Harás",
+      "translation": "Will you pack the suitcases before going to the airport?"
+    }
+  ]
+}

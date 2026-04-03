@@ -1,0 +1,109 @@
+{
+  "exercises": [
+    {
+      "tense": "Present",
+      "person": "yo",
+      "sentence": "Todos los lunes, yo ___ al gimnasio para hacer ejercicio.",
+      "answer": "voy",
+      "translation": "Every Monday, I go to the gym to exercise."
+    },
+    {
+      "tense": "Present",
+      "person": "yo",
+      "sentence": "Normalmente, yo ___ a la oficina en bicicleta.",
+      "answer": "voy",
+      "translation": "Normally, I go to the office by bike."
+    },
+    {
+      "tense": "Present",
+      "person": "yo",
+      "sentence": "Cada verano, yo ___ de vacaciones a la playa con mi familia.",
+      "answer": "voy",
+      "translation": "Every summer, I go on vacation to the beach with my family."
+    },
+    {
+      "tense": "Preterite",
+      "person": "yo",
+      "sentence": "Ayer, yo ___ al supermercado a comprar comida para la cena.",
+      "answer": "fui",
+      "translation": "Yesterday, I went to the supermarket to buy food for dinner."
+    },
+    {
+      "tense": "Preterite",
+      "person": "yo",
+      "sentence": "La semana pasada, yo ___ a una entrevista de trabajo muy importante.",
+      "answer": "fui",
+      "translation": "Last week, I went to a very important job interview."
+    },
+    {
+      "tense": "Preterite",
+      "person": "yo",
+      "sentence": "Hace dos años, yo ___ a España para visitar a mis abuelos.",
+      "answer": "fui",
+      "translation": "Two years ago, I went to Spain to visit my grandparents."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "yo",
+      "sentence": "Cuando era pequeño, yo ___ al parque todos los días después de clases.",
+      "answer": "iba",
+      "translation": "When I was little, I used to go to the park every day after school."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "yo",
+      "sentence": "Yo siempre ___ a ver a mi abuela los domingos por la tarde.",
+      "answer": "iba",
+      "translation": "I always used to go see my grandmother on Sunday afternoons."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "yo",
+      "sentence": "Cada verano, yo ___ a un campamento de natación con mis amigos.",
+      "answer": "iba",
+      "translation": "Every summer, I used to go to a swimming camp with my friends."
+    },
+    {
+      "tense": "Conditional",
+      "person": "yo",
+      "sentence": "Si tuviera más tiempo libre, yo ___ a aprender un nuevo idioma.",
+      "answer": "iría",
+      "translation": "If I had more free time, I would go learn a new language."
+    },
+    {
+      "tense": "Conditional",
+      "person": "yo",
+      "sentence": "Yo ___ a la fiesta esta noche si no tuviera tanto trabajo pendiente.",
+      "answer": "iría",
+      "translation": "I would go to the party tonight if I didn't have so much pending work."
+    },
+    {
+      "tense": "Conditional",
+      "person": "yo",
+      "sentence": "En tu situación, yo ___ a consultar con un abogado inmediatamente.",
+      "answer": "iría",
+      "translation": "In your situation, I would go consult with a lawyer immediately."
+    },
+    {
+      "tense": "Future",
+      "person": "yo",
+      "sentence": "Mañana, yo ___ a la biblioteca para estudiar para mi examen.",
+      "answer": "iré",
+      "translation": "Tomorrow, I will go to the library to study for my exam."
+    },
+    {
+      "tense": "Future",
+      "person": "yo",
+      "sentence": "Pronto, yo ___ a visitar a mis amigos que viven en otro país.",
+      "answer": "iré",
+      "translation": "Soon, I will go visit my friends who live in another country."
+    },
+    {
+      "tense": "Future",
+      "person": "yo",
+      "sentence": "La próxima semana, yo ___ a la oficina de correos para enviar este paquete.",
+      "answer": "iré",
+      "translation": "Next week, I will go to the post office to send this package."
+    }
+  ]
+}

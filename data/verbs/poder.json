@@ -1,0 +1,319 @@
+{
+  "exercises": [
+    {
+      "tense": "Present",
+      "person": "yo",
+      "sentence": "Hoy no ___ ir al cine porque tengo mucho trabajo.",
+      "answer": "puedo",
+      "translation": "Today I cannot go to the cinema because I have a lot of work."
+    },
+    {
+      "tense": "Present",
+      "person": "yo",
+      "sentence": "Creo que ___ ayudarte con tu tarea de matemáticas.",
+      "answer": "puedo",
+      "translation": "I think I can help you with your math homework."
+    },
+    {
+      "tense": "Present",
+      "person": "yo",
+      "sentence": "___ terminar este libro antes de que termine el mes.",
+      "answer": "Puedo",
+      "translation": "I can finish this book before the month ends."
+    },
+    {
+      "tense": "Present",
+      "person": "tú",
+      "sentence": "¿___ venir a mi fiesta el próximo sábado?",
+      "answer": "Puedes",
+      "translation": "Can you come to my party next Saturday?"
+    },
+    {
+      "tense": "Present",
+      "person": "tú",
+      "sentence": "Si te concentras, ___ resolver este problema fácilmente.",
+      "answer": "puedes",
+      "translation": "If you concentrate, you can solve this problem easily."
+    },
+    {
+      "tense": "Present",
+      "person": "tú",
+      "sentence": "___ llamarme cuando llegues a tu casa.",
+      "answer": "Puedes",
+      "translation": "You can call me when you arrive home."
+    },
+    {
+      "tense": "Present",
+      "person": "él/ella/usted",
+      "sentence": "Mi hermano ___ nadar muy rápido en la piscina.",
+      "answer": "puede",
+      "translation": "My brother can swim very fast in the pool."
+    },
+    {
+      "tense": "Present",
+      "person": "él/ella/usted",
+      "sentence": "Ella ___ hablar tres idiomas perfectamente.",
+      "answer": "puede",
+      "translation": "She can speak three languages perfectly."
+    },
+    {
+      "tense": "Present",
+      "person": "él/ella/usted",
+      "sentence": "Usted ___ estacionar el coche en este lugar.",
+      "answer": "puede",
+      "translation": "You can park the car in this place."
+    },
+    {
+      "tense": "Preterite",
+      "person": "yo",
+      "sentence": "Ayer ___ terminar todo el informe a tiempo.",
+      "answer": "pude",
+      "translation": "Yesterday I managed to finish the whole report on time."
+    },
+    {
+      "tense": "Preterite",
+      "person": "yo",
+      "sentence": "No ___ encontrar mis llaves en toda la mañana.",
+      "answer": "pude",
+      "translation": "I could not find my keys all morning."
+    },
+    {
+      "tense": "Preterite",
+      "person": "yo",
+      "sentence": "Finalmente ___ comprar los boletos para el concierto.",
+      "answer": "pude",
+      "translation": "Finally, I managed to buy the tickets for the concert."
+    },
+    {
+      "tense": "Preterite",
+      "person": "tú",
+      "sentence": "¿___ hacer la tarea anoche o tuviste problemas?",
+      "answer": "Pudiste",
+      "translation": "Were you able to do the homework last night or did you have problems?"
+    },
+    {
+      "tense": "Preterite",
+      "person": "tú",
+      "sentence": "___ ver la película completa a pesar del ruido.",
+      "answer": "Pudiste",
+      "translation": "You managed to watch the full movie despite the noise."
+    },
+    {
+      "tense": "Preterite",
+      "person": "tú",
+      "sentence": "¿Cómo ___ encontrar esa dirección tan difícil?",
+      "answer": "pudiste",
+      "translation": "How were you able to find that difficult address?"
+    },
+    {
+      "tense": "Preterite",
+      "person": "él/ella/usted",
+      "sentence": "Ella ___ resolver el acertijo en pocos minutos.",
+      "answer": "pudo",
+      "translation": "She was able to solve the riddle in a few minutes."
+    },
+    {
+      "tense": "Preterite",
+      "person": "él/ella/usted",
+      "sentence": "El equipo ___ ganar el partido final el domingo.",
+      "answer": "pudo",
+      "translation": "The team managed to win the final match on Sunday."
+    },
+    {
+      "tense": "Preterite",
+      "person": "él/ella/usted",
+      "sentence": "Él ___ viajar a Europa el verano pasado.",
+      "answer": "pudo",
+      "translation": "He was able to travel to Europe last summer."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "yo",
+      "sentence": "Cuando era joven, ___ correr diez kilómetros sin cansarme.",
+      "answer": "podía",
+      "translation": "When I was young, I could run ten kilometers without getting tired."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "yo",
+      "sentence": "___ ver el mar desde la ventana de mi habitación antigua.",
+      "answer": "Podía",
+      "translation": "I could see the sea from the window of my old room."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "yo",
+      "sentence": "Antes ___ entender bien las clases de francés.",
+      "answer": "podía",
+      "translation": "I used to be able to understand French classes well."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "tú",
+      "sentence": "Cuando vivías allí, ___ ir caminando a la escuela.",
+      "answer": "podías",
+      "translation": "When you lived there, you could walk to school."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "tú",
+      "sentence": "¿___ entender lo que decía el profesor en aquella época?",
+      "answer": "Podías",
+      "translation": "Could you understand what the teacher was saying back then?"
+    },
+    {
+      "tense": "Imperfect",
+      "person": "tú",
+      "sentence": "Siempre ___ contar con tus amigos en ese entonces.",
+      "answer": "podías",
+      "translation": "You could always count on your friends back then."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "él/ella/usted",
+      "sentence": "Ella ___ bailar por horas sin detenerse antes de su lesión.",
+      "answer": "podía",
+      "translation": "She could dance for hours without stopping before her injury."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "él/ella/usted",
+      "sentence": "Mi abuelo ___ reparar cualquier aparato electrónico.",
+      "answer": "podía",
+      "translation": "My grandfather could fix any electronic device."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "él/ella/usted",
+      "sentence": "Él ___ leer sin gafas cuando era más joven.",
+      "answer": "podía",
+      "translation": "He could read without glasses when he was younger."
+    },
+    {
+      "tense": "Conditional",
+      "person": "yo",
+      "sentence": "Si tuviera más tiempo, ___ viajar a Japón.",
+      "answer": "podría",
+      "translation": "If I had more time, I could travel to Japan."
+    },
+    {
+      "tense": "Conditional",
+      "person": "yo",
+      "sentence": "___ hacer el trabajo mejor si tuviera las herramientas adecuadas.",
+      "answer": "Podría",
+      "translation": "I could do the work better if I had the right tools."
+    },
+    {
+      "tense": "Conditional",
+      "person": "yo",
+      "sentence": "Creo que ___ terminar esto si alguien me ayuda.",
+      "answer": "podría",
+      "translation": "I think I could finish this if someone helps me."
+    },
+    {
+      "tense": "Conditional",
+      "person": "tú",
+      "sentence": "¿___ venir a visitarme el próximo fin de semana?",
+      "answer": "Podrías",
+      "translation": "Could you come to visit me next weekend?"
+    },
+    {
+      "tense": "Conditional",
+      "person": "tú",
+      "sentence": "___ mejorar tu nota si estudias un poco más.",
+      "answer": "Podrías",
+      "translation": "You could improve your grade if you study a little more."
+    },
+    {
+      "tense": "Conditional",
+      "person": "tú",
+      "sentence": "¿___ decirme qué hora es, por favor?",
+      "answer": "Podrías",
+      "translation": "Could you tell me what time it is, please?"
+    },
+    {
+      "tense": "Conditional",
+      "person": "él/ella/usted",
+      "sentence": "Él ___ ser un gran músico si practicara más.",
+      "answer": "podría",
+      "translation": "He could be a great musician if he practiced more."
+    },
+    {
+      "tense": "Conditional",
+      "person": "él/ella/usted",
+      "sentence": "Ella ___ resolver el problema si se lo pides.",
+      "answer": "podría",
+      "translation": "She could solve the problem if you ask her."
+    },
+    {
+      "tense": "Conditional",
+      "person": "él/ella/usted",
+      "sentence": "Usted ___ obtener mejores resultados con esta estrategia.",
+      "answer": "podría",
+      "translation": "You could obtain better results with this strategy."
+    },
+    {
+      "tense": "Future",
+      "person": "yo",
+      "sentence": "Mañana ___ terminar el informe después del almuerzo.",
+      "answer": "podré",
+      "translation": "Tomorrow I will be able to finish the report after lunch."
+    },
+    {
+      "tense": "Future",
+      "person": "yo",
+      "sentence": "Espero que pronto ___ visitar a mi familia en México.",
+      "answer": "podré",
+      "translation": "I hope that soon I will be able to visit my family in Mexico."
+    },
+    {
+      "tense": "Future",
+      "person": "yo",
+      "sentence": "___ llamar a mis amigos cuando tenga señal.",
+      "answer": "Podré",
+      "translation": "I will be able to call my friends when I have signal."
+    },
+    {
+      "tense": "Future",
+      "person": "tú",
+      "sentence": "Cuando termines tus estudios, ___ buscar un buen empleo.",
+      "answer": "podrás",
+      "translation": "When you finish your studies, you will be able to look for a good job."
+    },
+    {
+      "tense": "Future",
+      "person": "tú",
+      "sentence": "Si te esfuerzas, ___ alcanzar todos tus sueños.",
+      "answer": "podrás",
+      "translation": "If you strive, you will be able to reach all your dreams."
+    },
+    {
+      "tense": "Future",
+      "person": "tú",
+      "sentence": "¿___ venir a la reunión el viernes por la tarde?",
+      "answer": "Podrás",
+      "translation": "Will you be able to come to the meeting on Friday afternoon?"
+    },
+    {
+      "tense": "Future",
+      "person": "él/ella/usted",
+      "sentence": "El próximo año ella ___ viajar por todo el mundo.",
+      "answer": "podrá",
+      "translation": "Next year she will be able to travel around the world."
+    },
+    {
+      "tense": "Future",
+      "person": "él/ella/usted",
+      "sentence": "Él ___ terminar la carrera muy pronto.",
+      "answer": "podrá",
+      "translation": "He will be able to finish his degree very soon."
+    },
+    {
+      "tense": "Future",
+      "person": "él/ella/usted",
+      "sentence": "Usted ___ ver los resultados en el sitio web oficial.",
+      "answer": "podrá",
+      "translation": "You will be able to see the results on the official website."
+    }
+  ]
+}

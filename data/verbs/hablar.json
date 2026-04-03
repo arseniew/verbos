@@ -1,0 +1,319 @@
+{
+  "exercises": [
+    {
+      "tense": "Present",
+      "person": "yo",
+      "sentence": "Todos los días, yo _______ con mi madre por teléfono.",
+      "answer": "hablo",
+      "translation": "Every day, I speak with my mother on the phone."
+    },
+    {
+      "tense": "Present",
+      "person": "yo",
+      "sentence": "Yo _______ español en mi clase de idiomas.",
+      "answer": "hablo",
+      "translation": "I speak Spanish in my language class."
+    },
+    {
+      "tense": "Present",
+      "person": "yo",
+      "sentence": "Generalmente, yo _______ de mis problemas con mis amigos.",
+      "answer": "hablo",
+      "translation": "Generally, I talk about my problems with my friends."
+    },
+    {
+      "tense": "Present",
+      "person": "tú",
+      "sentence": "¿Por qué _______ tú siempre tan rápido cuando estás nervioso?",
+      "answer": "hablas",
+      "translation": "Why do you always speak so fast when you are nervous?"
+    },
+    {
+      "tense": "Present",
+      "person": "tú",
+      "sentence": "Sé que tú _______ varios idiomas con fluidez.",
+      "answer": "hablas",
+      "translation": "I know that you speak several languages fluently."
+    },
+    {
+      "tense": "Present",
+      "person": "tú",
+      "sentence": "Si tienes una duda, _______ con el profesor ahora mismo.",
+      "answer": "hablas",
+      "translation": "If you have a doubt, you speak with the teacher right now."
+    },
+    {
+      "tense": "Present",
+      "person": "él/ella",
+      "sentence": "Ella _______ con sus compañeros durante el almuerzo.",
+      "answer": "habla",
+      "translation": "She talks with her classmates during lunch."
+    },
+    {
+      "tense": "Present",
+      "person": "él/ella",
+      "sentence": "Él _______ muy bien inglés y francés.",
+      "answer": "habla",
+      "translation": "He speaks English and French very well."
+    },
+    {
+      "tense": "Present",
+      "person": "él/ella",
+      "sentence": "Mi hermano _______ mucho sobre sus viajes recientes.",
+      "answer": "habla",
+      "translation": "My brother talks a lot about his recent trips."
+    },
+    {
+      "tense": "Preterite",
+      "person": "yo",
+      "sentence": "Ayer, yo _______ con mi jefe sobre mi nuevo proyecto.",
+      "answer": "hablé",
+      "translation": "Yesterday, I spoke with my boss about my new project."
+    },
+    {
+      "tense": "Preterite",
+      "person": "yo",
+      "sentence": "Yo _______ brevemente con ella en la fiesta de anoche.",
+      "answer": "hablé",
+      "translation": "I spoke briefly with her at the party last night."
+    },
+    {
+      "tense": "Preterite",
+      "person": "yo",
+      "sentence": "Por fin, yo _______ con el técnico para arreglar el internet.",
+      "answer": "hablé",
+      "translation": "Finally, I spoke with the technician to fix the internet."
+    },
+    {
+      "tense": "Preterite",
+      "person": "tú",
+      "sentence": "¿Con quién _______ tú en la reunión de ayer?",
+      "answer": "hablaste",
+      "translation": "With whom did you speak at yesterday's meeting?"
+    },
+    {
+      "tense": "Preterite",
+      "person": "tú",
+      "sentence": "Tú _______ con el cliente antes de terminar el informe.",
+      "answer": "hablaste",
+      "translation": "You spoke with the client before finishing the report."
+    },
+    {
+      "tense": "Preterite",
+      "person": "tú",
+      "sentence": "Me contaron que tú _______ con el director sobre tu salario.",
+      "answer": "hablaste",
+      "translation": "They told me that you spoke with the director about your salary."
+    },
+    {
+      "tense": "Preterite",
+      "person": "él/ella",
+      "sentence": "Él _______ con su abuela durante una hora la semana pasada.",
+      "answer": "habló",
+      "translation": "He talked with his grandmother for an hour last week."
+    },
+    {
+      "tense": "Preterite",
+      "person": "él/ella",
+      "sentence": "Ella _______ sobre la importancia de reciclar en la conferencia.",
+      "answer": "habló",
+      "translation": "She spoke about the importance of recycling at the conference."
+    },
+    {
+      "tense": "Preterite",
+      "person": "él/ella",
+      "sentence": "El testigo _______ con la policía después del accidente.",
+      "answer": "habló",
+      "translation": "The witness spoke with the police after the accident."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "yo",
+      "sentence": "Cuando era niño, yo _______ mucho con mis amigos de la escuela.",
+      "answer": "hablaba",
+      "translation": "When I was a child, I used to talk a lot with my school friends."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "yo",
+      "sentence": "Yo _______ por teléfono mientras caminaba al trabajo todos los días.",
+      "answer": "hablaba",
+      "translation": "I used to talk on the phone while walking to work every day."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "yo",
+      "sentence": "Siempre _______ con mi vecino cuando lo veía en el parque.",
+      "answer": "hablaba",
+      "translation": "I always used to talk with my neighbor when I saw him at the park."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "tú",
+      "sentence": "Antes, tú _______ con mucha frecuencia con tu hermano.",
+      "answer": "hablabas",
+      "translation": "Before, you used to talk very frequently with your brother."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "tú",
+      "sentence": "Cuando vivías en España, ¿_______ tú mucho en español?",
+      "answer": "hablabas",
+      "translation": "When you lived in Spain, did you use to speak a lot in Spanish?"
+    },
+    {
+      "tense": "Imperfect",
+      "person": "tú",
+      "sentence": "Tú _______ constantemente sobre tus planes de vacaciones cuando éramos jóvenes.",
+      "answer": "hablabas",
+      "translation": "You used to talk constantly about your vacation plans when we were young."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "él/ella",
+      "sentence": "Mi abuelo _______ de sus aventuras cuando era joven.",
+      "answer": "hablaba",
+      "translation": "My grandfather used to talk about his adventures when he was young."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "él/ella",
+      "sentence": "Ella _______ suavemente cuando leía cuentos para dormir.",
+      "answer": "hablaba",
+      "translation": "She used to speak softly when she read bedtime stories."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "él/ella",
+      "sentence": "Él _______ con entusiasmo sobre su trabajo todos los días.",
+      "answer": "hablaba",
+      "translation": "He used to talk with enthusiasm about his job every day."
+    },
+    {
+      "tense": "Conditional",
+      "person": "yo",
+      "sentence": "Yo _______ con él si tuviera su número de teléfono.",
+      "answer": "hablaría",
+      "translation": "I would speak with him if I had his phone number."
+    },
+    {
+      "tense": "Conditional",
+      "person": "yo",
+      "sentence": "En tu situación, yo _______ claramente con el supervisor.",
+      "answer": "hablaría",
+      "translation": "In your situation, I would speak clearly with the supervisor."
+    },
+    {
+      "tense": "Conditional",
+      "person": "yo",
+      "sentence": "¿Tú crees que yo _______ mejor el idioma si practicara diario?",
+      "answer": "hablaría",
+      "translation": "Do you think I would speak the language better if I practiced daily?"
+    },
+    {
+      "tense": "Conditional",
+      "person": "tú",
+      "sentence": "¿Qué _______ tú en esa situación tan difícil?",
+      "answer": "hablarías",
+      "translation": "What would you say in that very difficult situation?"
+    },
+    {
+      "tense": "Conditional",
+      "person": "tú",
+      "sentence": "Tú _______ con calma si supieras toda la verdad.",
+      "answer": "hablarías",
+      "translation": "You would talk with calm if you knew the whole truth."
+    },
+    {
+      "tense": "Conditional",
+      "person": "tú",
+      "sentence": "Creo que tú _______ con el gerente para solucionar este problema.",
+      "answer": "hablarías",
+      "translation": "I think you would speak with the manager to solve this problem."
+    },
+    {
+      "tense": "Conditional",
+      "person": "él/ella",
+      "sentence": "Ella _______ con el médico si se sintiera peor mañana.",
+      "answer": "hablaría",
+      "translation": "She would speak with the doctor if she felt worse tomorrow."
+    },
+    {
+      "tense": "Conditional",
+      "person": "él/ella",
+      "sentence": "Él _______ con su familia para pedir consejos antes de decidir.",
+      "answer": "hablaría",
+      "translation": "He would speak with his family to ask for advice before deciding."
+    },
+    {
+      "tense": "Conditional",
+      "person": "él/ella",
+      "sentence": "Cualquier persona honesta _______ con la verdad en este juicio.",
+      "answer": "hablaría",
+      "translation": "Any honest person would speak with the truth in this trial."
+    },
+    {
+      "tense": "Future",
+      "person": "yo",
+      "sentence": "Mañana, yo _______ con el cliente sobre el nuevo contrato.",
+      "answer": "hablaré",
+      "translation": "Tomorrow, I will speak with the client about the new contract."
+    },
+    {
+      "tense": "Future",
+      "person": "yo",
+      "sentence": "Después de la clase, yo _______ con el profesor sobre mi nota.",
+      "answer": "hablaré",
+      "translation": "After class, I will talk with the teacher about my grade."
+    },
+    {
+      "tense": "Future",
+      "person": "yo",
+      "sentence": "Yo _______ contigo tan pronto como llegue a casa.",
+      "answer": "hablaré",
+      "translation": "I will talk with you as soon as I arrive home."
+    },
+    {
+      "tense": "Future",
+      "person": "tú",
+      "sentence": "Seguro que tú _______ con tus padres sobre el viaje este fin de semana.",
+      "answer": "hablarás",
+      "translation": "Surely you will speak with your parents about the trip this weekend."
+    },
+    {
+      "tense": "Future",
+      "person": "tú",
+      "sentence": "Tú _______ mejor el idioma después de practicar este verano.",
+      "answer": "hablarás",
+      "translation": "You will speak the language better after practicing this summer."
+    },
+    {
+      "tense": "Future",
+      "person": "tú",
+      "sentence": "¿_______ tú con el jefe antes de irte de vacaciones?",
+      "answer": "hablarás",
+      "translation": "Will you speak with the boss before going on vacation?"
+    },
+    {
+      "tense": "Future",
+      "person": "él/ella",
+      "sentence": "Él _______ con todos los empleados en la reunión de mañana.",
+      "answer": "hablará",
+      "translation": "He will speak with all the employees in tomorrow's meeting."
+    },
+    {
+      "tense": "Future",
+      "person": "él/ella",
+      "sentence": "Ella _______ con el director para pedir un aumento de sueldo.",
+      "answer": "hablará",
+      "translation": "She will speak with the director to ask for a raise."
+    },
+    {
+      "tense": "Future",
+      "person": "él/ella",
+      "sentence": "El experto _______ sobre el cambio climático en la conferencia.",
+      "answer": "hablará",
+      "translation": "The expert will speak about climate change at the conference."
+    }
+  ]
+}

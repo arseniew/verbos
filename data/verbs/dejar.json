@@ -1,0 +1,214 @@
+{
+  "exercises": [
+    {
+      "tense": "Present",
+      "person": "yo",
+      "sentence": "Todos los días, yo _______ las llaves sobre la mesa.",
+      "answer": "dejo",
+      "translation": "Every day, I leave the keys on the table."
+    },
+    {
+      "tense": "Present",
+      "person": "yo",
+      "sentence": "Yo _______ mi ropa en el suelo cuando llego a casa.",
+      "answer": "dejo",
+      "translation": "I leave my clothes on the floor when I get home."
+    },
+    {
+      "tense": "Present",
+      "person": "yo",
+      "sentence": "Yo siempre _______ una propina cuando voy a ese restaurante.",
+      "answer": "dejo",
+      "translation": "I always leave a tip when I go to that restaurant."
+    },
+    {
+      "tense": "Present",
+      "person": "tú",
+      "sentence": "¿Por qué _______ tu mochila en la entrada siempre?",
+      "answer": "dejas",
+      "translation": "Why do you always leave your backpack in the entryway?"
+    },
+    {
+      "tense": "Present",
+      "person": "tú",
+      "sentence": "Tú _______ a tu perro solo por muchas horas.",
+      "answer": "dejas",
+      "translation": "You leave your dog alone for many hours."
+    },
+    {
+      "tense": "Present",
+      "person": "tú",
+      "sentence": "Si tú _______ de fumar, te sentirás mucho mejor.",
+      "answer": "dejas",
+      "translation": "If you quit smoking, you will feel much better."
+    },
+    {
+      "tense": "Preterite",
+      "person": "yo",
+      "sentence": "Ayer yo _______ mi libro en la biblioteca por error.",
+      "answer": "dejé",
+      "translation": "Yesterday I left my book in the library by mistake."
+    },
+    {
+      "tense": "Preterite",
+      "person": "yo",
+      "sentence": "Yo _______ de trabajar a las cinco de la tarde.",
+      "answer": "dejé",
+      "translation": "I stopped working at five in the afternoon."
+    },
+    {
+      "tense": "Preterite",
+      "person": "yo",
+      "sentence": "Yo _______ una nota para mis padres en la cocina.",
+      "answer": "dejé",
+      "translation": "I left a note for my parents in the kitchen."
+    },
+    {
+      "tense": "Preterite",
+      "person": "tú",
+      "sentence": "¿Por qué _______ las ventanas abiertas ayer?",
+      "answer": "dejaste",
+      "translation": "Why did you leave the windows open yesterday?"
+    },
+    {
+      "tense": "Preterite",
+      "person": "tú",
+      "sentence": "Tú _______ de estudiar cuando sonó el teléfono.",
+      "answer": "dejaste",
+      "translation": "You stopped studying when the phone rang."
+    },
+    {
+      "tense": "Preterite",
+      "person": "tú",
+      "sentence": "Ayer tú _______ las luces encendidas al salir.",
+      "answer": "dejaste",
+      "translation": "Yesterday you left the lights on when leaving."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "yo",
+      "sentence": "Cuando era niño, yo siempre _______ mis juguetes afuera.",
+      "answer": "dejaba",
+      "translation": "When I was a child, I always used to leave my toys outside."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "yo",
+      "sentence": "Yo _______ que mi hermano jugara con mis cosas.",
+      "answer": "dejaba",
+      "translation": "I used to let my brother play with my things."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "yo",
+      "sentence": "Antes, yo _______ de hacer ejercicio los fines de semana.",
+      "answer": "dejaba",
+      "translation": "Before, I used to stop exercising on weekends."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "tú",
+      "sentence": "Tú _______ que tus amigos entraran sin permiso.",
+      "answer": "dejabas",
+      "translation": "You used to let your friends enter without permission."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "tú",
+      "sentence": "Tú _______ las ventanas abiertas todas las noches.",
+      "answer": "dejabas",
+      "translation": "You used to leave the windows open every night."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "tú",
+      "sentence": "Tú _______ de comer carne cuando tenías veinte años.",
+      "answer": "dejabas",
+      "translation": "You used to stop eating meat when you were twenty."
+    },
+    {
+      "tense": "Conditional",
+      "person": "yo",
+      "sentence": "Yo _______ este trabajo si encontrara algo mejor.",
+      "answer": "dejaría",
+      "translation": "I would quit this job if I found something better."
+    },
+    {
+      "tense": "Conditional",
+      "person": "yo",
+      "sentence": "Yo te _______ mis apuntes si los necesitaras.",
+      "answer": "dejaría",
+      "translation": "I would leave you my notes if you needed them."
+    },
+    {
+      "tense": "Conditional",
+      "person": "yo",
+      "sentence": "Yo nunca _______ a mi familia en una situación difícil.",
+      "answer": "dejaría",
+      "translation": "I would never leave my family in a difficult situation."
+    },
+    {
+      "tense": "Conditional",
+      "person": "tú",
+      "sentence": "¿Tú _______ de hablarle a un amigo por un error?",
+      "answer": "dejarías",
+      "translation": "Would you stop talking to a friend over a mistake?"
+    },
+    {
+      "tense": "Conditional",
+      "person": "tú",
+      "sentence": "Tú _______ tu ciudad si tuvieras una oportunidad mejor.",
+      "answer": "dejarías",
+      "translation": "Would you leave your city if you had a better opportunity?"
+    },
+    {
+      "tense": "Conditional",
+      "person": "tú",
+      "sentence": "¿Tú _______ el coche aquí si fueras tú?",
+      "answer": "dejarías",
+      "translation": "Would you leave the car here if you were you?"
+    },
+    {
+      "tense": "Future",
+      "person": "yo",
+      "sentence": "Mañana yo _______ las llaves con el portero.",
+      "answer": "dejaré",
+      "translation": "Tomorrow I will leave the keys with the doorman."
+    },
+    {
+      "tense": "Future",
+      "person": "yo",
+      "sentence": "Yo _______ de trabajar pronto para ir a la fiesta.",
+      "answer": "dejaré",
+      "translation": "I will stop working soon to go to the party."
+    },
+    {
+      "tense": "Future",
+      "person": "yo",
+      "sentence": "Yo _______ un regalo en tu escritorio antes de salir.",
+      "answer": "dejaré",
+      "translation": "I will leave a gift on your desk before leaving."
+    },
+    {
+      "tense": "Future",
+      "person": "tú",
+      "sentence": "¿Tú _______ el paquete en la recepción mañana?",
+      "answer": "dejarás",
+      "translation": "Will you leave the package at the reception tomorrow?"
+    },
+    {
+      "tense": "Future",
+      "person": "tú",
+      "sentence": "Tú _______ de fumar cuando empieces el tratamiento.",
+      "answer": "dejarás",
+      "translation": "You will stop smoking when you start the treatment."
+    },
+    {
+      "tense": "Future",
+      "person": "tú",
+      "sentence": "¿Tú _______ la puerta cerrada al irte?",
+      "answer": "dejarás",
+      "translation": "Will you leave the door closed when you leave?"
+    }
+  ]
+}

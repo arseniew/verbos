@@ -1,0 +1,319 @@
+{
+  "exercises": [
+    {
+      "tense": "Present",
+      "person": "yo",
+      "sentence": "Yo ___ en casa hoy porque estoy cansado.",
+      "answer": "quedo",
+      "translation": "I am staying at home today because I am tired."
+    },
+    {
+      "tense": "Present",
+      "person": "yo",
+      "sentence": "Siempre ___ con mis amigos en el parque los sábados.",
+      "answer": "quedo",
+      "translation": "I always meet with my friends at the park on Saturdays."
+    },
+    {
+      "tense": "Present",
+      "person": "yo",
+      "sentence": "Yo ___ a dos cuadras de la estación de tren.",
+      "answer": "quedo",
+      "translation": "I am located two blocks from the train station."
+    },
+    {
+      "tense": "Present",
+      "person": "tú",
+      "sentence": "Tú ___ muy bien con esa camisa roja.",
+      "answer": "quedas",
+      "translation": "You look very good in that red shirt."
+    },
+    {
+      "tense": "Present",
+      "person": "tú",
+      "sentence": "¿A qué hora ___ tú con ellos?",
+      "answer": "quedas",
+      "translation": "At what time are you meeting with them?"
+    },
+    {
+      "tense": "Present",
+      "person": "tú",
+      "sentence": "Tú no ___ lejos del centro de la ciudad.",
+      "answer": "quedas",
+      "translation": "You do not live far from the city center."
+    },
+    {
+      "tense": "Present",
+      "person": "él",
+      "sentence": "Él ___ en el trabajo hasta tarde esta noche.",
+      "answer": "queda",
+      "translation": "He is staying at work late tonight."
+    },
+    {
+      "tense": "Present",
+      "person": "él",
+      "sentence": "El restaurante ___ cerca de mi apartamento.",
+      "answer": "queda",
+      "translation": "The restaurant is located near my apartment."
+    },
+    {
+      "tense": "Present",
+      "person": "él",
+      "sentence": "Él ___ satisfecho con el resultado final.",
+      "answer": "queda",
+      "translation": "He is left satisfied with the final result."
+    },
+    {
+      "tense": "Preterite",
+      "person": "yo",
+      "sentence": "Yo ___ en el hotel por tres días durante el viaje.",
+      "answer": "quedé",
+      "translation": "I stayed at the hotel for three days during the trip."
+    },
+    {
+      "tense": "Preterite",
+      "person": "yo",
+      "sentence": "Yo ___ con ellos a las ocho de la noche.",
+      "answer": "quedé",
+      "translation": "I met with them at eight o'clock at night."
+    },
+    {
+      "tense": "Preterite",
+      "person": "yo",
+      "sentence": "Yo ___ muy sorprendido con la noticia de ayer.",
+      "answer": "quedé",
+      "translation": "I was very surprised with yesterday's news."
+    },
+    {
+      "tense": "Preterite",
+      "person": "tú",
+      "sentence": "Tú ___ en silencio durante toda la reunión.",
+      "answer": "quedaste",
+      "translation": "You remained silent during the whole meeting."
+    },
+    {
+      "tense": "Preterite",
+      "person": "tú",
+      "sentence": "¿En qué lugar ___ tú ayer por la tarde?",
+      "answer": "quedaste",
+      "translation": "Where did you meet yesterday afternoon?"
+    },
+    {
+      "tense": "Preterite",
+      "person": "tú",
+      "sentence": "Tú ___ con el primer lugar en la competencia.",
+      "answer": "quedaste",
+      "translation": "You ended up with first place in the competition."
+    },
+    {
+      "tense": "Preterite",
+      "person": "él",
+      "sentence": "Él ___ en la oficina para terminar el reporte.",
+      "answer": "quedó",
+      "translation": "He stayed in the office to finish the report."
+    },
+    {
+      "tense": "Preterite",
+      "person": "él",
+      "sentence": "El problema ___ resuelto después de mucho esfuerzo.",
+      "answer": "quedó",
+      "translation": "The problem remained solved after much effort."
+    },
+    {
+      "tense": "Preterite",
+      "person": "él",
+      "sentence": "Él ___ impactado al ver el accidente en la calle.",
+      "answer": "quedó",
+      "translation": "He was left shocked when seeing the accident on the street."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "yo",
+      "sentence": "Yo siempre ___ en casa de mis abuelos los veranos.",
+      "answer": "quedaba",
+      "translation": "I always used to stay at my grandparents' house in the summers."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "yo",
+      "sentence": "Yo ___ con mi mejor amigo todos los fines de semana.",
+      "answer": "quedaba",
+      "translation": "I used to meet with my best friend every weekend."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "yo",
+      "sentence": "Yo ___ a pocas calles de mi escuela antigua.",
+      "answer": "quedaba",
+      "translation": "I used to live just a few blocks from my old school."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "tú",
+      "sentence": "Tú ___ en la cama por horas los domingos.",
+      "answer": "quedabas",
+      "translation": "You used to stay in bed for hours on Sundays."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "tú",
+      "sentence": "Tú ___ siempre en la esquina de la plaza.",
+      "answer": "quedabas",
+      "translation": "You always used to meet at the corner of the plaza."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "tú",
+      "sentence": "Tú ___ muy asustado cada vez que veías una película.",
+      "answer": "quedabas",
+      "translation": "You used to be left very scared every time you watched a movie."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "él",
+      "sentence": "Él ___ en el equipo después de cada partido.",
+      "answer": "quedaba",
+      "translation": "He used to stay on the team after every match."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "él",
+      "sentence": "Él ___ con ella casi todas las tardes.",
+      "answer": "quedaba",
+      "translation": "He used to meet with her almost every afternoon."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "él",
+      "sentence": "El edificio ___ lejos de todo en aquella época.",
+      "answer": "quedaba",
+      "translation": "The building was located far from everything back then."
+    },
+    {
+      "tense": "Conditional",
+      "person": "yo",
+      "sentence": "Yo ___ en casa si tuviera tiempo libre.",
+      "answer": "quedaría",
+      "translation": "I would stay at home if I had free time."
+    },
+    {
+      "tense": "Conditional",
+      "person": "yo",
+      "sentence": "Yo ___ con mis amigos si estuviera en la ciudad.",
+      "answer": "quedaría",
+      "translation": "I would meet with my friends if I were in the city."
+    },
+    {
+      "tense": "Conditional",
+      "person": "yo",
+      "sentence": "Yo ___ muy confundido si me dijeran eso.",
+      "answer": "quedaría",
+      "translation": "I would be left very confused if they told me that."
+    },
+    {
+      "tense": "Conditional",
+      "person": "tú",
+      "sentence": "Tú ___ más tiempo si pudieras viajar.",
+      "answer": "quedarías",
+      "translation": "You would stay longer if you could travel."
+    },
+    {
+      "tense": "Conditional",
+      "person": "tú",
+      "sentence": "¿Tú ___ con él aunque fuera tarde?",
+      "answer": "quedarías",
+      "translation": "Would you meet with him even if it were late?"
+    },
+    {
+      "tense": "Conditional",
+      "person": "tú",
+      "sentence": "Tú ___ satisfecha con este nuevo trabajo.",
+      "answer": "quedarías",
+      "translation": "You would be left satisfied with this new job."
+    },
+    {
+      "tense": "Conditional",
+      "person": "él",
+      "sentence": "Él ___ con nosotros si el jefe lo permitiera.",
+      "answer": "quedaría",
+      "translation": "He would stay with us if the boss allowed it."
+    },
+    {
+      "tense": "Conditional",
+      "person": "él",
+      "sentence": "Él ___ con ella en el cine a las siete.",
+      "answer": "quedaría",
+      "translation": "He would meet with her at the cinema at seven."
+    },
+    {
+      "tense": "Conditional",
+      "person": "él",
+      "sentence": "Él ___ sorprendido si ganara la lotería.",
+      "answer": "quedaría",
+      "translation": "He would be left surprised if he won the lottery."
+    },
+    {
+      "tense": "Future",
+      "person": "yo",
+      "sentence": "Yo ___ en este hotel durante todas mis vacaciones.",
+      "answer": "quedaré",
+      "translation": "I will stay in this hotel during all my vacations."
+    },
+    {
+      "tense": "Future",
+      "person": "yo",
+      "sentence": "Yo ___ con mis primos para almorzar el domingo.",
+      "answer": "quedaré",
+      "translation": "I will meet with my cousins for lunch on Sunday."
+    },
+    {
+      "tense": "Future",
+      "person": "yo",
+      "sentence": "Yo ___ muy feliz cuando termine mi proyecto.",
+      "answer": "quedaré",
+      "translation": "I will be left very happy when I finish my project."
+    },
+    {
+      "tense": "Future",
+      "person": "tú",
+      "sentence": "Tú ___ en la universidad hasta la noche hoy.",
+      "answer": "quedarás",
+      "translation": "You will stay at the university until tonight."
+    },
+    {
+      "tense": "Future",
+      "person": "tú",
+      "sentence": "Tú ___ conmigo frente a la biblioteca pronto.",
+      "answer": "quedarás",
+      "translation": "You will meet with me in front of the library soon."
+    },
+    {
+      "tense": "Future",
+      "person": "tú",
+      "sentence": "Tú ___ asombrado con el regalo de cumpleaños.",
+      "answer": "quedarás",
+      "translation": "You will be left amazed with the birthday present."
+    },
+    {
+      "tense": "Future",
+      "person": "él",
+      "sentence": "Él ___ en su oficina terminando el trabajo.",
+      "answer": "quedará",
+      "translation": "He will stay in his office finishing the work."
+    },
+    {
+      "tense": "Future",
+      "person": "él",
+      "sentence": "Él ___ conmigo a las cinco en punto.",
+      "answer": "quedará",
+      "translation": "He will meet with me at five o'clock sharp."
+    },
+    {
+      "tense": "Future",
+      "person": "él",
+      "sentence": "El problema ___ resuelto para el viernes.",
+      "answer": "quedará",
+      "translation": "The problem will be left solved by Friday."
+    }
+  ]
+}

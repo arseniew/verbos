@@ -1,0 +1,319 @@
+{
+  "exercises": [
+    {
+      "tense": "Present",
+      "person": "yo",
+      "sentence": "Todos los días, yo ___ un paseo por el parque con mi perro.",
+      "answer": "doy",
+      "translation": "Every day, I take a walk through the park with my dog."
+    },
+    {
+      "tense": "Present",
+      "person": "yo",
+      "sentence": "Yo ___ gracias a mis amigos por su ayuda constante.",
+      "answer": "doy",
+      "translation": "I give thanks to my friends for their constant help."
+    },
+    {
+      "tense": "Present",
+      "person": "yo",
+      "sentence": "A veces, yo ___ mi opinión sobre los temas políticos.",
+      "answer": "doy",
+      "translation": "Sometimes, I give my opinion on political topics."
+    },
+    {
+      "tense": "Present",
+      "person": "tú",
+      "sentence": "¿Por qué ___ tú tantas explicaciones a esa persona?",
+      "answer": "das",
+      "translation": "Why do you give so many explanations to that person?"
+    },
+    {
+      "tense": "Present",
+      "person": "tú",
+      "sentence": "Tú ___ un regalo especial a tu madre por su cumpleaños.",
+      "answer": "das",
+      "translation": "You give a special gift to your mother for her birthday."
+    },
+    {
+      "tense": "Present",
+      "person": "tú",
+      "sentence": "Si ___ tú todo tu esfuerzo, obtendrás buenos resultados.",
+      "answer": "das",
+      "translation": "If you give all your effort, you will get good results."
+    },
+    {
+      "tense": "Present",
+      "person": "él/ella/usted",
+      "sentence": "Mi abuelo siempre me ___ buenos consejos sobre la vida.",
+      "answer": "da",
+      "translation": "My grandfather always gives me good advice about life."
+    },
+    {
+      "tense": "Present",
+      "person": "él/ella/usted",
+      "sentence": "Ella ___ una fiesta grande para celebrar su graduación.",
+      "answer": "da",
+      "translation": "She is throwing a big party to celebrate her graduation."
+    },
+    {
+      "tense": "Present",
+      "person": "él/ella/usted",
+      "sentence": "Usted ___ una impresión muy profesional en la entrevista.",
+      "answer": "da",
+      "translation": "You give a very professional impression in the interview."
+    },
+    {
+      "tense": "Preterite",
+      "person": "yo",
+      "sentence": "Ayer, yo ___ mi número de teléfono al cliente nuevo.",
+      "answer": "di",
+      "translation": "Yesterday, I gave my phone number to the new client."
+    },
+    {
+      "tense": "Preterite",
+      "person": "yo",
+      "sentence": "Yo ___ el primer paso para solucionar el problema.",
+      "answer": "di",
+      "translation": "I took the first step to solve the problem."
+    },
+    {
+      "tense": "Preterite",
+      "person": "yo",
+      "sentence": "La semana pasada, yo ___ una vuelta completa a la manzana.",
+      "answer": "di",
+      "translation": "Last week, I took a complete walk around the block."
+    },
+    {
+      "tense": "Preterite",
+      "person": "tú",
+      "sentence": "¿Por qué ___ tú esa respuesta tan grosera ayer?",
+      "answer": "diste",
+      "translation": "Why did you give that rude answer yesterday?"
+    },
+    {
+      "tense": "Preterite",
+      "person": "tú",
+      "sentence": "Tú ___ un abrazo fuerte a tu hermano antes de viajar.",
+      "answer": "diste",
+      "translation": "You gave a big hug to your brother before traveling."
+    },
+    {
+      "tense": "Preterite",
+      "person": "tú",
+      "sentence": "Tú ___ el informe al jefe justo a tiempo.",
+      "answer": "diste",
+      "translation": "You gave the report to the boss right on time."
+    },
+    {
+      "tense": "Preterite",
+      "person": "él/ella/usted",
+      "sentence": "Él ___ dinero a la organización benéfica el mes pasado.",
+      "answer": "dio",
+      "translation": "He gave money to the charity organization last month."
+    },
+    {
+      "tense": "Preterite",
+      "person": "él/ella/usted",
+      "sentence": "Ella ___ un discurso increíble en la ceremonia escolar.",
+      "answer": "dio",
+      "translation": "She gave an incredible speech at the school ceremony."
+    },
+    {
+      "tense": "Preterite",
+      "person": "él/ella/usted",
+      "sentence": "Usted ___ una clase magistral sobre historia ayer.",
+      "answer": "dio",
+      "translation": "You gave a masterclass on history yesterday."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "yo",
+      "sentence": "Cuando era niño, yo ___ de comer a los patos del estanque.",
+      "answer": "daba",
+      "translation": "When I was a child, I used to feed the ducks in the pond."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "yo",
+      "sentence": "Antes, yo ___ clases de piano todos los sábados.",
+      "answer": "daba",
+      "translation": "Before, I used to give piano lessons every Saturday."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "yo",
+      "sentence": "Yo ___ muchos regalos a mis amigos cuando tenía dinero.",
+      "answer": "daba",
+      "translation": "I used to give many gifts to my friends when I had money."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "tú",
+      "sentence": "Tú ___ saltos de alegría cada vez que veías a tu perro.",
+      "answer": "dabas",
+      "translation": "You used to jump for joy every time you saw your dog."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "tú",
+      "sentence": "Tú ___ información falsa a tus compañeros a propósito.",
+      "answer": "dabas",
+      "translation": "You used to give false information to your classmates on purpose."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "tú",
+      "sentence": "¿Por qué ___ tú tantas vueltas antes de decidirte?",
+      "answer": "dabas",
+      "translation": "Why did you used to pace around so much before deciding?"
+    },
+    {
+      "tense": "Imperfect",
+      "person": "él/ella/usted",
+      "sentence": "Él ___ siempre una vuelta en coche después de cenar.",
+      "answer": "daba",
+      "translation": "He always used to go for a drive after dinner."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "él/ella/usted",
+      "sentence": "Ella ___ mucha importancia a las tradiciones familiares.",
+      "answer": "daba",
+      "translation": "She used to place a lot of importance on family traditions."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "él/ella/usted",
+      "sentence": "Usted ___ una impresión muy amable a todos sus empleados.",
+      "answer": "daba",
+      "translation": "You used to give a very kind impression to all your employees."
+    },
+    {
+      "tense": "Conditional",
+      "person": "yo",
+      "sentence": "Yo ___ todo mi dinero si pudiera ayudar a los pobres.",
+      "answer": "daría",
+      "translation": "I would give all my money if I could help the poor."
+    },
+    {
+      "tense": "Conditional",
+      "person": "yo",
+      "sentence": "Yo ___ una respuesta clara si supiera toda la verdad.",
+      "answer": "daría",
+      "translation": "I would give a clear answer if I knew the whole truth."
+    },
+    {
+      "tense": "Conditional",
+      "person": "yo",
+      "sentence": "Yo ___ mi vida por proteger a mi familia.",
+      "answer": "daría",
+      "translation": "I would give my life to protect my family."
+    },
+    {
+      "tense": "Conditional",
+      "person": "tú",
+      "sentence": "¿Qué ___ tú a cambio de un deseo cumplido?",
+      "answer": "darías",
+      "translation": "What would you give in exchange for a fulfilled wish?"
+    },
+    {
+      "tense": "Conditional",
+      "person": "tú",
+      "sentence": "Tú ___ una mejor imagen si te vistieras formalmente.",
+      "answer": "darías",
+      "translation": "You would give a better image if you dressed formally."
+    },
+    {
+      "tense": "Conditional",
+      "person": "tú",
+      "sentence": "¿___ tú otra oportunidad a esa persona después de todo?",
+      "answer": "darías",
+      "translation": "Would you give that person another chance after everything?"
+    },
+    {
+      "tense": "Conditional",
+      "person": "él/ella/usted",
+      "sentence": "Él ___ un premio al mejor estudiante de la clase.",
+      "answer": "daría",
+      "translation": "He would give a prize to the best student in the class."
+    },
+    {
+      "tense": "Conditional",
+      "person": "él/ella/usted",
+      "sentence": "Ella ___ su opinión si alguien se la pidiera.",
+      "answer": "daría",
+      "translation": "She would give her opinion if someone asked her for it."
+    },
+    {
+      "tense": "Conditional",
+      "person": "él/ella/usted",
+      "sentence": "Usted ___ una charla muy interesante sobre este tema.",
+      "answer": "daría",
+      "translation": "You would give a very interesting talk on this topic."
+    },
+    {
+      "tense": "Future",
+      "person": "yo",
+      "sentence": "Mañana, yo ___ el examen final de la universidad.",
+      "answer": "daré",
+      "translation": "Tomorrow, I will take the final university exam."
+    },
+    {
+      "tense": "Future",
+      "person": "yo",
+      "sentence": "Yo te ___ una noticia muy importante cuando te vea.",
+      "answer": "daré",
+      "translation": "I will give you some very important news when I see you."
+    },
+    {
+      "tense": "Future",
+      "person": "yo",
+      "sentence": "Después del trabajo, yo ___ una vuelta por el centro.",
+      "answer": "daré",
+      "translation": "After work, I will take a walk through the center."
+    },
+    {
+      "tense": "Future",
+      "person": "tú",
+      "sentence": "Tú ___ el primer discurso en la conferencia.",
+      "answer": "darás",
+      "translation": "You will give the first speech at the conference."
+    },
+    {
+      "tense": "Future",
+      "person": "tú",
+      "sentence": "¿___ tú el regalo a tu hermana este fin de semana?",
+      "answer": "darás",
+      "translation": "Will you give the gift to your sister this weekend?"
+    },
+    {
+      "tense": "Future",
+      "person": "tú",
+      "sentence": "Tú ___ una buena impresión en tu nueva oficina.",
+      "answer": "darás",
+      "translation": "You will give a good impression in your new office."
+    },
+    {
+      "tense": "Future",
+      "person": "él/ella/usted",
+      "sentence": "Él ___ su opinión en la reunión de la próxima semana.",
+      "answer": "dará",
+      "translation": "He will give his opinion in the meeting next week."
+    },
+    {
+      "tense": "Future",
+      "person": "él/ella/usted",
+      "sentence": "Ella ___ una fiesta inolvidable para su aniversario.",
+      "answer": "dará",
+      "translation": "She will throw an unforgettable party for her anniversary."
+    },
+    {
+      "tense": "Future",
+      "person": "él/ella/usted",
+      "sentence": "Usted ___ una clase sobre el uso correcto del lenguaje.",
+      "answer": "dará",
+      "translation": "You will give a class on the correct use of the language."
+    }
+  ]
+}

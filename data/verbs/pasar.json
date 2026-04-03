@@ -1,0 +1,109 @@
+{
+  "exercises": [
+    {
+      "tense": "Present",
+      "person": "yo",
+      "sentence": "Cada mañana, yo ____ por el parque para ir al trabajo.",
+      "answer": "paso",
+      "translation": "Every morning, I pass by the park to go to work."
+    },
+    {
+      "tense": "Present",
+      "person": "yo",
+      "sentence": "Yo ____ mucho tiempo leyendo libros interesantes.",
+      "answer": "paso",
+      "translation": "I spend a lot of time reading interesting books."
+    },
+    {
+      "tense": "Present",
+      "person": "yo",
+      "sentence": "Cuando ____ por tu casa, siempre te saludo.",
+      "answer": "paso",
+      "translation": "When I pass by your house, I always greet you."
+    },
+    {
+      "tense": "Preterite",
+      "person": "yo",
+      "sentence": "Ayer yo ____ una tarde increíble con mis amigos en la playa.",
+      "answer": "pasé",
+      "translation": "Yesterday I spent an incredible afternoon with my friends at the beach."
+    },
+    {
+      "tense": "Preterite",
+      "person": "yo",
+      "sentence": "Yo ____ por el examen sin ninguna dificultad.",
+      "answer": "pasé",
+      "translation": "I passed the exam without any difficulty."
+    },
+    {
+      "tense": "Preterite",
+      "person": "yo",
+      "sentence": "El año pasado, yo ____ mis vacaciones en México.",
+      "answer": "pasé",
+      "translation": "Last year, I spent my vacation in Mexico."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "yo",
+      "sentence": "Cuando era niño, yo ____ horas jugando en el jardín.",
+      "answer": "pasaba",
+      "translation": "When I was a child, I used to spend hours playing in the garden."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "yo",
+      "sentence": "Siempre que yo ____ por esa calle, veía muchas flores.",
+      "answer": "pasaba",
+      "translation": "Whenever I used to pass by that street, I saw many flowers."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "yo",
+      "sentence": "Yo ____ mucho calor durante los veranos en mi ciudad natal.",
+      "answer": "pasaba",
+      "translation": "I used to be very hot during the summers in my hometown."
+    },
+    {
+      "tense": "Conditional",
+      "person": "yo",
+      "sentence": "Yo ____ más tiempo contigo si tuviera vacaciones.",
+      "answer": "pasaría",
+      "translation": "I would spend more time with you if I had vacation."
+    },
+    {
+      "tense": "Conditional",
+      "person": "yo",
+      "sentence": "Si pudiera viajar, yo ____ todo el verano en España.",
+      "answer": "pasaría",
+      "translation": "If I could travel, I would spend the whole summer in Spain."
+    },
+    {
+      "tense": "Conditional",
+      "person": "yo",
+      "sentence": "Yo ____ por tu casa mañana si tengo tiempo.",
+      "answer": "pasaría",
+      "translation": "I would pass by your house tomorrow if I have time."
+    },
+    {
+      "tense": "Future",
+      "person": "yo",
+      "sentence": "Mañana yo ____ a buscarte a las ocho de la noche.",
+      "answer": "pasaré",
+      "translation": "Tomorrow I will pass by to pick you up at eight at night."
+    },
+    {
+      "tense": "Future",
+      "person": "yo",
+      "sentence": "Yo ____ el resto de mi vida tratando de ser mejor persona.",
+      "answer": "pasaré",
+      "translation": "I will spend the rest of my life trying to be a better person."
+    },
+    {
+      "tense": "Future",
+      "person": "yo",
+      "sentence": "Pronto yo ____ por la oficina para dejarte los documentos.",
+      "answer": "pasaré",
+      "translation": "Soon I will pass by the office to leave you the documents."
+    }
+  ]
+}

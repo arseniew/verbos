@@ -1,0 +1,319 @@
+{
+  "exercises": [
+    {
+      "tense": "Present",
+      "person": "yo",
+      "sentence": "Hoy yo ________ muy feliz por las buenas noticias.",
+      "answer": "estoy",
+      "translation": "Today I am very happy because of the good news."
+    },
+    {
+      "tense": "Present",
+      "person": "yo",
+      "sentence": "En este momento, yo ________ trabajando en mi oficina.",
+      "answer": "estoy",
+      "translation": "At this moment, I am working in my office."
+    },
+    {
+      "tense": "Present",
+      "person": "yo",
+      "sentence": "Yo ________ seguro de que llegaremos a tiempo.",
+      "answer": "estoy",
+      "translation": "I am sure that we will arrive on time."
+    },
+    {
+      "tense": "Present",
+      "person": "tú",
+      "sentence": "¿Cómo ________ tú hoy, mi amigo?",
+      "answer": "estás",
+      "translation": "How are you today, my friend?"
+    },
+    {
+      "tense": "Present",
+      "person": "tú",
+      "sentence": "Tú ________ muy cansado porque dormiste poco.",
+      "answer": "estás",
+      "translation": "You are very tired because you slept little."
+    },
+    {
+      "tense": "Present",
+      "person": "tú",
+      "sentence": "¿Por qué ________ tú tan callado en la cena?",
+      "answer": "estás",
+      "translation": "Why are you so quiet at dinner?"
+    },
+    {
+      "tense": "Present",
+      "person": "él/ella",
+      "sentence": "Ella ________ en la biblioteca estudiando para el examen.",
+      "answer": "está",
+      "translation": "She is in the library studying for the exam."
+    },
+    {
+      "tense": "Present",
+      "person": "él/ella",
+      "sentence": "Él ________ muy emocionado por su viaje a España.",
+      "answer": "está",
+      "translation": "He is very excited about his trip to Spain."
+    },
+    {
+      "tense": "Present",
+      "person": "él/ella",
+      "sentence": "La comida ________ deliciosa, muchas gracias.",
+      "answer": "está",
+      "translation": "The food is delicious, thank you very much."
+    },
+    {
+      "tense": "Preterite",
+      "person": "yo",
+      "sentence": "Ayer yo ________ en el centro comercial durante tres horas.",
+      "answer": "estuve",
+      "translation": "Yesterday I was at the mall for three hours."
+    },
+    {
+      "tense": "Preterite",
+      "person": "yo",
+      "sentence": "Yo ________ enfermo la semana pasada y no pude salir.",
+      "answer": "estuve",
+      "translation": "I was sick last week and I couldn't go out."
+    },
+    {
+      "tense": "Preterite",
+      "person": "yo",
+      "sentence": "La clase de historia ________ muy larga y aburrida.",
+      "answer": "estuvo",
+      "translation": "The history class was very long and boring."
+    },
+    {
+      "tense": "Preterite",
+      "person": "tú",
+      "sentence": "¿Dónde ________ tú ayer a las cinco de la tarde?",
+      "answer": "estuviste",
+      "translation": "Where were you yesterday at five in the afternoon?"
+    },
+    {
+      "tense": "Preterite",
+      "person": "tú",
+      "sentence": "Tú ________ muy atento durante toda la presentación.",
+      "answer": "estuviste",
+      "translation": "You were very attentive during the entire presentation."
+    },
+    {
+      "tense": "Preterite",
+      "person": "tú",
+      "sentence": "Cuando ________ en París, ¿visitaste la Torre Eiffel?",
+      "answer": "estuviste",
+      "translation": "When you were in Paris, did you visit the Eiffel Tower?"
+    },
+    {
+      "tense": "Preterite",
+      "person": "él/ella",
+      "sentence": "Ella ________ muy ocupada todo el día ayer.",
+      "answer": "estuvo",
+      "translation": "She was very busy all day yesterday."
+    },
+    {
+      "tense": "Preterite",
+      "person": "él/ella",
+      "sentence": "Él ________ presente en la reunión de padres.",
+      "answer": "estuvo",
+      "translation": "He was present at the parents' meeting."
+    },
+    {
+      "tense": "Preterite",
+      "person": "él/ella",
+      "sentence": "El perro ________ nervioso por el ruido de los fuegos artificiales.",
+      "answer": "estuvo",
+      "translation": "The dog was nervous because of the noise of the fireworks."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "yo",
+      "sentence": "Cuando era niño, yo ________ siempre jugando en el parque.",
+      "answer": "estaba",
+      "translation": "When I was a child, I was always playing in the park."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "yo",
+      "sentence": "Yo ________ leyendo un libro cuando llamaste por teléfono.",
+      "answer": "estaba",
+      "translation": "I was reading a book when you called on the phone."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "yo",
+      "sentence": "Antes yo ________ muy nervioso antes de hablar en público.",
+      "answer": "estaba",
+      "translation": "Before, I used to be very nervous before speaking in public."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "tú",
+      "sentence": "¿Qué ________ tú haciendo cuando empezó a llover?",
+      "answer": "estabas",
+      "translation": "What were you doing when it started to rain?"
+    },
+    {
+      "tense": "Imperfect",
+      "person": "tú",
+      "sentence": "Tú ________ muy distraído durante la clase de matemáticas.",
+      "answer": "estabas",
+      "translation": "You were very distracted during the math class."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "tú",
+      "sentence": "Siempre ________ feliz cuando visitabas a tus abuelos.",
+      "answer": "estabas",
+      "translation": "You were always happy when you visited your grandparents."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "él/ella",
+      "sentence": "Ella ________ cocinando cuando sus amigos llegaron a casa.",
+      "answer": "estaba",
+      "translation": "She was cooking when her friends arrived home."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "él/ella",
+      "sentence": "Él ________ muy triste porque perdió su juguete favorito.",
+      "answer": "estaba",
+      "translation": "He was very sad because he lost his favorite toy."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "él/ella",
+      "sentence": "El cielo ________ despejado todas las mañanas de verano.",
+      "answer": "estaba",
+      "translation": "The sky was clear every summer morning."
+    },
+    {
+      "tense": "Conditional",
+      "person": "yo",
+      "sentence": "Si pudiera, yo ________ en una playa tropical ahora mismo.",
+      "answer": "estaría",
+      "translation": "If I could, I would be on a tropical beach right now."
+    },
+    {
+      "tense": "Conditional",
+      "person": "yo",
+      "sentence": "Yo ________ dispuesto a ayudarte si me lo pides con tiempo.",
+      "answer": "estaría",
+      "translation": "I would be willing to help you if you ask me in time."
+    },
+    {
+      "tense": "Conditional",
+      "person": "yo",
+      "sentence": "Sin tu ayuda, yo ________ perdido en esta ciudad desconocida.",
+      "answer": "estaría",
+      "translation": "Without your help, I would be lost in this unknown city."
+    },
+    {
+      "tense": "Conditional",
+      "person": "tú",
+      "sentence": "¿________ tú feliz si vivieras en otro país?",
+      "answer": "estarías",
+      "translation": "Would you be happy if you lived in another country?"
+    },
+    {
+      "tense": "Conditional",
+      "person": "tú",
+      "sentence": "Tú ________ mucho mejor si descansaras un poco más.",
+      "answer": "estarías",
+      "translation": "You would be much better if you rested a little more."
+    },
+    {
+      "tense": "Conditional",
+      "person": "tú",
+      "sentence": "¿________ tú de acuerdo con nuestra nueva propuesta?",
+      "answer": "estarías",
+      "translation": "Would you be in agreement with our new proposal?"
+    },
+    {
+      "tense": "Conditional",
+      "person": "él/ella",
+      "sentence": "Él ________ más tranquilo si supiera la verdad.",
+      "answer": "estaría",
+      "translation": "He would be calmer if he knew the truth."
+    },
+    {
+      "tense": "Conditional",
+      "person": "él/ella",
+      "sentence": "Ella ________ agradecida si le dieras las gracias.",
+      "answer": "estaría",
+      "translation": "She would be grateful if you thanked her."
+    },
+    {
+      "tense": "Conditional",
+      "person": "él/ella",
+      "sentence": "El resultado ________ listo mañana si terminamos el trabajo hoy.",
+      "answer": "estaría",
+      "translation": "The result would be ready tomorrow if we finish the work today."
+    },
+    {
+      "tense": "Future",
+      "person": "yo",
+      "sentence": "Mañana yo ________ muy ocupado con los nuevos proyectos.",
+      "answer": "estaré",
+      "translation": "Tomorrow I will be very busy with the new projects."
+    },
+    {
+      "tense": "Future",
+      "person": "yo",
+      "sentence": "Pronto yo ________ en mi casa descansando después del viaje.",
+      "answer": "estaré",
+      "translation": "Soon I will be at my house resting after the trip."
+    },
+    {
+      "tense": "Future",
+      "person": "yo",
+      "sentence": "No te preocupes, yo ________ a tu lado siempre.",
+      "answer": "estaré",
+      "translation": "Don't worry, I will be by your side always."
+    },
+    {
+      "tense": "Future",
+      "person": "tú",
+      "sentence": "¿________ tú listo para la fiesta este fin de semana?",
+      "answer": "estarás",
+      "translation": "Will you be ready for the party this weekend?"
+    },
+    {
+      "tense": "Future",
+      "person": "tú",
+      "sentence": "Tú ________ muy contento cuando veas el regalo.",
+      "answer": "estarás",
+      "translation": "You will be very happy when you see the gift."
+    },
+    {
+      "tense": "Future",
+      "person": "tú",
+      "sentence": "Seguro que ________ muy cansado después de la maratón.",
+      "answer": "estarás",
+      "translation": "Surely you will be very tired after the marathon."
+    },
+    {
+      "tense": "Future",
+      "person": "él/ella",
+      "sentence": "Ella ________ muy orgullosa de sus notas finales.",
+      "answer": "estará",
+      "translation": "She will be very proud of her final grades."
+    },
+    {
+      "tense": "Future",
+      "person": "él/ella",
+      "sentence": "Él ________ en la oficina hasta las seis de la tarde.",
+      "answer": "estará",
+      "translation": "He will be at the office until six in the afternoon."
+    },
+    {
+      "tense": "Future",
+      "person": "él/ella",
+      "sentence": "El clima ________ perfecto para una excursión este sábado.",
+      "answer": "estará",
+      "translation": "The weather will be perfect for an excursion this Saturday."
+    }
+  ]
+}

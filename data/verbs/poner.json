@@ -1,0 +1,529 @@
+{
+  "exercises": [
+    {
+      "tense": "Present",
+      "person": "yo",
+      "sentence": "Cada mañana, yo (poner) la mesa para el desayuno.",
+      "answer": "pongo",
+      "translation": "Every morning, I set the table for breakfast."
+    },
+    {
+      "tense": "Present",
+      "person": "yo",
+      "sentence": "Yo siempre (poner) mis llaves en el mismo lugar al llegar a casa.",
+      "answer": "pongo",
+      "translation": "I always put my keys in the same place when I get home."
+    },
+    {
+      "tense": "Present",
+      "person": "yo",
+      "sentence": "Yo (poner) mucha sal en la sopa porque me gusta el sabor fuerte.",
+      "answer": "pongo",
+      "translation": "I put a lot of salt in the soup because I like the strong flavor."
+    },
+    {
+      "tense": "Present",
+      "person": "tú",
+      "sentence": "¿Por qué (poner) esa música tan alta en tu habitación?",
+      "answer": "pones",
+      "translation": "Why are you playing that music so loud in your room?"
+    },
+    {
+      "tense": "Present",
+      "person": "tú",
+      "sentence": "Tú (poner) mucho esfuerzo en todos tus proyectos escolares.",
+      "answer": "pones",
+      "translation": "You put a lot of effort into all your school projects."
+    },
+    {
+      "tense": "Present",
+      "person": "tú",
+      "sentence": "Cuando sales, siempre (poner) una chaqueta para no tener frío.",
+      "answer": "pones",
+      "translation": "When you go out, you always put on a jacket so as not to be cold."
+    },
+    {
+      "tense": "Present",
+      "person": "él/ella",
+      "sentence": "Ella (poner) flores frescas en el florero cada fin de semana.",
+      "answer": "pone",
+      "translation": "She puts fresh flowers in the vase every weekend."
+    },
+    {
+      "tense": "Present",
+      "person": "él/ella",
+      "sentence": "Él (poner) el libro sobre la mesa antes de empezar a estudiar.",
+      "answer": "pone",
+      "translation": "He puts the book on the table before starting to study."
+    },
+    {
+      "tense": "Present",
+      "person": "él/ella",
+      "sentence": "El profesor (poner) un examen difícil a los alumnos hoy.",
+      "answer": "pone",
+      "translation": "The teacher gives a difficult exam to the students today."
+    },
+    {
+      "tense": "Present",
+      "person": "nosotros",
+      "sentence": "Nosotros (poner) las bebidas en el refrigerador para que estén frías.",
+      "answer": "ponemos",
+      "translation": "We put the drinks in the refrigerator so they are cold."
+    },
+    {
+      "tense": "Present",
+      "person": "nosotros",
+      "sentence": "Nosotros (poner) todo nuestro empeño en terminar el trabajo a tiempo.",
+      "answer": "ponemos",
+      "translation": "We put all our effort into finishing the work on time."
+    },
+    {
+      "tense": "Present",
+      "person": "nosotros",
+      "sentence": "Cada día, nosotros (poner) nuestras cosas en el casillero común.",
+      "answer": "ponemos",
+      "translation": "Every day, we put our things in the common locker."
+    },
+    {
+      "tense": "Present",
+      "person": "ellos/ellas",
+      "sentence": "Ellos (poner) luces de colores en su jardín durante la Navidad.",
+      "answer": "ponen",
+      "translation": "They put colorful lights in their garden during Christmas."
+    },
+    {
+      "tense": "Present",
+      "person": "ellos/ellas",
+      "sentence": "Ellas (poner) mucha atención cuando el guía explica la historia.",
+      "answer": "ponen",
+      "translation": "They pay a lot of attention when the guide explains the history."
+    },
+    {
+      "tense": "Present",
+      "person": "ellos/ellas",
+      "sentence": "Los camareros (poner) los platos rápidamente en las mesas de los clientes.",
+      "answer": "ponen",
+      "translation": "The waiters put the plates quickly on the customers' tables."
+    },
+    {
+      "tense": "Preterite",
+      "person": "yo",
+      "sentence": "Ayer yo (poner) las maletas en el coche antes de viajar.",
+      "answer": "puse",
+      "translation": "Yesterday I put the suitcases in the car before traveling."
+    },
+    {
+      "tense": "Preterite",
+      "person": "yo",
+      "sentence": "Yo (poner) el reloj despertador a las seis de la mañana.",
+      "answer": "puse",
+      "translation": "I set the alarm clock at six in the morning."
+    },
+    {
+      "tense": "Preterite",
+      "person": "yo",
+      "sentence": "Al final, yo (poner) mi firma en el contrato de alquiler.",
+      "answer": "puse",
+      "translation": "In the end, I put my signature on the rental contract."
+    },
+    {
+      "tense": "Preterite",
+      "person": "tú",
+      "sentence": "¿Dónde (poner) tú las llaves del coche cuando entraste?",
+      "answer": "pusiste",
+      "translation": "Where did you put the car keys when you came in?"
+    },
+    {
+      "tense": "Preterite",
+      "person": "tú",
+      "sentence": "Tú (poner) mucha azúcar en el café sin preguntar primero.",
+      "answer": "pusiste",
+      "translation": "You put a lot of sugar in the coffee without asking first."
+    },
+    {
+      "tense": "Preterite",
+      "person": "tú",
+      "sentence": "Ayer, tú (poner) una película muy aburrida en la televisión.",
+      "answer": "pusiste",
+      "translation": "Yesterday, you put on a very boring movie on the TV."
+    },
+    {
+      "tense": "Preterite",
+      "person": "él/ella",
+      "sentence": "Ella (poner) una excusa para no ir a la fiesta anoche.",
+      "answer": "puso",
+      "translation": "She made an excuse not to go to the party last night."
+    },
+    {
+      "tense": "Preterite",
+      "person": "él/ella",
+      "sentence": "Él (poner) el retrato de su familia encima de la chimenea.",
+      "answer": "puso",
+      "translation": "He placed his family portrait above the fireplace."
+    },
+    {
+      "tense": "Preterite",
+      "person": "él/ella",
+      "sentence": "El médico (poner) una venda en la herida de su paciente.",
+      "answer": "puso",
+      "translation": "The doctor put a bandage on his patient's wound."
+    },
+    {
+      "tense": "Preterite",
+      "person": "nosotros",
+      "sentence": "Nosotros (poner) mucho orden en la casa después de la limpieza.",
+      "answer": "pusimos",
+      "translation": "We brought a lot of order to the house after the cleaning."
+    },
+    {
+      "tense": "Preterite",
+      "person": "nosotros",
+      "sentence": "Nosotros (poner) un anuncio en el periódico para vender la bicicleta.",
+      "answer": "pusimos",
+      "translation": "We put an ad in the newspaper to sell the bicycle."
+    },
+    {
+      "tense": "Preterite",
+      "person": "nosotros",
+      "sentence": "Nosotros (poner) las fotos en el álbum después de las vacaciones.",
+      "answer": "pusimos",
+      "translation": "We put the photos in the album after the vacation."
+    },
+    {
+      "tense": "Preterite",
+      "person": "ellos/ellas",
+      "sentence": "Ellos (poner) una queja formal sobre el servicio del restaurante.",
+      "answer": "pusieron",
+      "translation": "They filed a formal complaint about the restaurant service."
+    },
+    {
+      "tense": "Preterite",
+      "person": "ellos/ellas",
+      "sentence": "Ellas (poner) sus abrigos en el armario antes de entrar al salón.",
+      "answer": "pusieron",
+      "translation": "They put their coats in the closet before entering the room."
+    },
+    {
+      "tense": "Preterite",
+      "person": "ellos/ellas",
+      "sentence": "Los estudiantes (poner) sus exámenes sobre el escritorio al terminar.",
+      "answer": "pusieron",
+      "translation": "The students put their exams on the desk upon finishing."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "yo",
+      "sentence": "Antes, yo (poner) la mesa todos los días para mi familia.",
+      "answer": "ponía",
+      "translation": "Before, I used to set the table every day for my family."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "yo",
+      "sentence": "Yo siempre (poner) música clásica mientras estudiaba para mis clases.",
+      "answer": "ponía",
+      "translation": "I always used to play classical music while I studied for my classes."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "yo",
+      "sentence": "De niño, yo (poner) mis juguetes bajo la cama por la noche.",
+      "answer": "ponía",
+      "translation": "As a child, I used to put my toys under the bed at night."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "tú",
+      "sentence": "¿Por qué (poner) tú siempre excusas cuando no querías estudiar?",
+      "answer": "ponías",
+      "translation": "Why did you always make excuses when you didn't want to study?"
+    },
+    {
+      "tense": "Imperfect",
+      "person": "tú",
+      "sentence": "Tú (poner) flores en tu ventana durante todos los veranos.",
+      "answer": "ponías",
+      "translation": "You used to put flowers in your window during every summer."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "tú",
+      "sentence": "Tú (poner) mucha mantequilla en el pan cuando éramos jóvenes.",
+      "answer": "ponías",
+      "translation": "You used to put a lot of butter on the bread when we were young."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "él/ella",
+      "sentence": "Ella (poner) la radio para escuchar las noticias cada mañana.",
+      "answer": "ponía",
+      "translation": "She used to turn on the radio to hear the news every morning."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "él/ella",
+      "sentence": "Él (poner) mucho interés en los proyectos de arte en la escuela.",
+      "answer": "ponía",
+      "translation": "He used to put a lot of interest in the art projects at school."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "él/ella",
+      "sentence": "El perro (poner) sus patas en mi regazo para pedir comida.",
+      "answer": "ponía",
+      "translation": "The dog used to put its paws on my lap to ask for food."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "nosotros",
+      "sentence": "Nosotros (poner) las bebidas en el balcón para que se enfriaran.",
+      "answer": "poníamos",
+      "translation": "We used to put the drinks on the balcony so they would cool down."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "nosotros",
+      "sentence": "Nosotros (poner) un cartel en la puerta para informar a los vecinos.",
+      "answer": "poníamos",
+      "translation": "We used to put a sign on the door to inform the neighbors."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "nosotros",
+      "sentence": "Nosotros (poner) mucho esfuerzo en ayudar a los más necesitados.",
+      "answer": "poníamos",
+      "translation": "We used to put a lot of effort into helping those most in need."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "ellos/ellas",
+      "sentence": "Ellos (poner) luces en el árbol cada año durante su infancia.",
+      "answer": "ponían",
+      "translation": "They used to put lights on the tree every year during their childhood."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "ellos/ellas",
+      "sentence": "Ellas (poner) las mesas en el patio cuando hacía buen tiempo.",
+      "answer": "ponían",
+      "translation": "They used to set the tables on the patio when the weather was nice."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "ellos/ellas",
+      "sentence": "Los niños (poner) sus mochilas en el pasillo al regresar a casa.",
+      "answer": "ponían",
+      "translation": "The children used to put their backpacks in the hallway upon returning home."
+    },
+    {
+      "tense": "Conditional",
+      "person": "yo",
+      "sentence": "Yo (poner) más plantas en esta sala si hubiera más luz solar.",
+      "answer": "pondría",
+      "translation": "I would put more plants in this room if there were more sunlight."
+    },
+    {
+      "tense": "Conditional",
+      "person": "yo",
+      "sentence": "Yo (poner) una lavadora extra si tuviera suficiente tiempo hoy.",
+      "answer": "pondría",
+      "translation": "I would do an extra load of laundry if I had enough time today."
+    },
+    {
+      "tense": "Conditional",
+      "person": "yo",
+      "sentence": "Yo (poner) este cuadro aquí para decorar mejor la pared.",
+      "answer": "pondría",
+      "translation": "I would put this painting here to better decorate the wall."
+    },
+    {
+      "tense": "Conditional",
+      "person": "tú",
+      "sentence": "¿Tú (poner) azúcar o miel en tu té si pudieras elegir?",
+      "answer": "pondrías",
+      "translation": "Would you put sugar or honey in your tea if you could choose?"
+    },
+    {
+      "tense": "Conditional",
+      "person": "tú",
+      "sentence": "Tú (poner) un poco más de sal a la carne, está desabrida.",
+      "answer": "pondrías",
+      "translation": "You should put a little more salt on the meat, it's bland."
+    },
+    {
+      "tense": "Conditional",
+      "person": "tú",
+      "sentence": "Si fueras el jefe, ¿(poner) tú reglas más estrictas?",
+      "answer": "pondrías",
+      "translation": "If you were the boss, would you set stricter rules?"
+    },
+    {
+      "tense": "Conditional",
+      "person": "él/ella",
+      "sentence": "Ella (poner) una reclamación formal si el producto no llega hoy.",
+      "answer": "pondría",
+      "translation": "She would file a formal complaint if the product doesn't arrive today."
+    },
+    {
+      "tense": "Conditional",
+      "person": "él/ella",
+      "sentence": "Él (poner) más dinero en sus ahorros para el futuro.",
+      "answer": "pondría",
+      "translation": "He would put more money into his savings for the future."
+    },
+    {
+      "tense": "Conditional",
+      "person": "él/ella",
+      "sentence": "El organizador (poner) las sillas en fila para el evento.",
+      "answer": "pondría",
+      "translation": "The organizer would place the chairs in rows for the event."
+    },
+    {
+      "tense": "Conditional",
+      "person": "nosotros",
+      "sentence": "Nosotros (poner) una valla en el jardín para tener más privacidad.",
+      "answer": "pondríamos",
+      "translation": "We would put a fence in the garden to have more privacy."
+    },
+    {
+      "tense": "Conditional",
+      "person": "nosotros",
+      "sentence": "Nosotros (poner) otro ejemplo para que la clase comprenda mejor.",
+      "answer": "pondríamos",
+      "translation": "We would provide another example so the class understands better."
+    },
+    {
+      "tense": "Conditional",
+      "person": "nosotros",
+      "sentence": "Nosotros (poner) todo de nuestra parte para resolver este problema.",
+      "answer": "pondríamos",
+      "translation": "We would put all our effort into solving this problem."
+    },
+    {
+      "tense": "Conditional",
+      "person": "ellos/ellas",
+      "sentence": "Ellos (poner) música ambiental para relajar a los invitados.",
+      "answer": "pondrían",
+      "translation": "They would play ambient music to relax the guests."
+    },
+    {
+      "tense": "Conditional",
+      "person": "ellos/ellas",
+      "sentence": "Ellas (poner) cortinas nuevas para que la luz no sea tan intensa.",
+      "answer": "pondrían",
+      "translation": "They would put up new curtains so the light isn't so intense."
+    },
+    {
+      "tense": "Conditional",
+      "person": "ellos/ellas",
+      "sentence": "Los voluntarios (poner) sus ideas en común para mejorar el proyecto.",
+      "answer": "pondrían",
+      "translation": "The volunteers would pool their ideas to improve the project."
+    },
+    {
+      "tense": "Future",
+      "person": "yo",
+      "sentence": "Mañana yo (poner) mis libros en la estantería nueva.",
+      "answer": "pondré",
+      "translation": "Tomorrow I will put my books on the new bookshelf."
+    },
+    {
+      "tense": "Future",
+      "person": "yo",
+      "sentence": "Yo (poner) una alarma para levantarme temprano el lunes.",
+      "answer": "pondré",
+      "translation": "I will set an alarm to wake up early on Monday."
+    },
+    {
+      "tense": "Future",
+      "person": "yo",
+      "sentence": "Yo (poner) la televisión a las ocho para ver las noticias.",
+      "answer": "pondré",
+      "translation": "I will turn on the television at eight to watch the news."
+    },
+    {
+      "tense": "Future",
+      "person": "tú",
+      "sentence": "¿Cuándo (poner) tú las fotos en el marco nuevo?",
+      "answer": "pondrás",
+      "translation": "When will you put the photos in the new frame?"
+    },
+    {
+      "tense": "Future",
+      "person": "tú",
+      "sentence": "Tú (poner) el nombre en la lista de invitados hoy mismo.",
+      "answer": "pondrás",
+      "translation": "You will put the name on the guest list today."
+    },
+    {
+      "tense": "Future",
+      "person": "tú",
+      "sentence": "Tú (poner) mucho interés en tu nuevo trabajo, estoy seguro.",
+      "answer": "pondrás",
+      "translation": "You will put a lot of interest into your new job, I am sure."
+    },
+    {
+      "tense": "Future",
+      "person": "él/ella",
+      "sentence": "Ella (poner) una vela en la mesa para la cena romántica.",
+      "answer": "pondrá",
+      "translation": "She will put a candle on the table for the romantic dinner."
+    },
+    {
+      "tense": "Future",
+      "person": "él/ella",
+      "sentence": "Él (poner) la maleta en el compartimento superior del avión.",
+      "answer": "pondrá",
+      "translation": "He will put the suitcase in the overhead compartment of the plane."
+    },
+    {
+      "tense": "Future",
+      "person": "él/ella",
+      "sentence": "La empresa (poner) nuevos equipos de oficina el próximo mes.",
+      "answer": "pondrá",
+      "translation": "The company will install new office equipment next month."
+    },
+    {
+      "tense": "Future",
+      "person": "nosotros",
+      "sentence": "Nosotros (poner) nuestras ideas por escrito para no olvidarlas.",
+      "answer": "pondremos",
+      "translation": "We will put our ideas in writing so as not to forget them."
+    },
+    {
+      "tense": "Future",
+      "person": "nosotros",
+      "sentence": "Nosotros (poner) el árbol de Navidad en la sala el sábado.",
+      "answer": "pondremos",
+      "translation": "We will put the Christmas tree in the living room on Saturday."
+    },
+    {
+      "tense": "Future",
+      "person": "nosotros",
+      "sentence": "Nosotros (poner) los platos en el lavavajillas después de cenar.",
+      "answer": "pondremos",
+      "translation": "We will put the dishes in the dishwasher after dinner."
+    },
+    {
+      "tense": "Future",
+      "person": "ellos/ellas",
+      "sentence": "Ellos (poner) más seguridad en la puerta del edificio pronto.",
+      "answer": "pondrán",
+      "translation": "They will put more security at the building door soon."
+    },
+    {
+      "tense": "Future",
+      "person": "ellos/ellas",
+      "sentence": "Ellas (poner) mucha dedicación para terminar este proyecto a tiempo.",
+      "answer": "pondrán",
+      "translation": "They will put a lot of dedication into finishing this project on time."
+    },
+    {
+      "tense": "Future",
+      "person": "ellos/ellas",
+      "sentence": "Los dueños (poner) a la venta su casa el próximo año.",
+      "answer": "pondrán",
+      "translation": "The owners will put their house up for sale next year."
+    }
+  ]
+}

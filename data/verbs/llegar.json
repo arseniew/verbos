@@ -1,0 +1,319 @@
+{
+  "exercises": [
+    {
+      "tense": "Present",
+      "person": "yo",
+      "sentence": "Todos los días, yo ___ a la oficina a las ocho en punto.",
+      "answer": "llego",
+      "translation": "Every day, I arrive at the office at eight o'clock sharp."
+    },
+    {
+      "tense": "Present",
+      "person": "yo",
+      "sentence": "Normalmente, yo ___ tarde cuando hay mucho tráfico en la ciudad.",
+      "answer": "llego",
+      "translation": "Normally, I arrive late when there is a lot of traffic in the city."
+    },
+    {
+      "tense": "Present",
+      "person": "yo",
+      "sentence": "Yo ___ a casa justo a tiempo para cenar con mi familia.",
+      "answer": "llego",
+      "translation": "I arrive home just in time to have dinner with my family."
+    },
+    {
+      "tense": "Present",
+      "person": "tú",
+      "sentence": "¿A qué hora ___ tú a la escuela cada mañana?",
+      "answer": "llegas",
+      "translation": "What time do you arrive at school every morning?"
+    },
+    {
+      "tense": "Present",
+      "person": "tú",
+      "sentence": "Tú siempre ___ con flores para nuestra cita.",
+      "answer": "llegas",
+      "translation": "You always arrive with flowers for our date."
+    },
+    {
+      "tense": "Present",
+      "person": "tú",
+      "sentence": "Si tú ___ temprano, podemos comprar los boletos antes.",
+      "answer": "llegas",
+      "translation": "If you arrive early, we can buy the tickets before."
+    },
+    {
+      "tense": "Present",
+      "person": "él/ella/usted",
+      "sentence": "Mi hermana ___ a la fiesta con muchos amigos.",
+      "answer": "llega",
+      "translation": "My sister arrives at the party with many friends."
+    },
+    {
+      "tense": "Present",
+      "person": "él/ella/usted",
+      "sentence": "El tren ___ a la estación exactamente a las diez.",
+      "answer": "llega",
+      "translation": "The train arrives at the station exactly at ten."
+    },
+    {
+      "tense": "Present",
+      "person": "él/ella/usted",
+      "sentence": "Usted ___ muy cansado después de trabajar todo el día.",
+      "answer": "llega",
+      "translation": "You arrive very tired after working all day."
+    },
+    {
+      "tense": "Preterite",
+      "person": "yo",
+      "sentence": "Ayer yo ___ al aeropuerto dos horas antes del vuelo.",
+      "answer": "llegué",
+      "translation": "Yesterday I arrived at the airport two hours before the flight."
+    },
+    {
+      "tense": "Preterite",
+      "person": "yo",
+      "sentence": "Finalmente, yo ___ a la cima de la montaña después de caminar mucho.",
+      "answer": "llegué",
+      "translation": "Finally, I arrived at the top of the mountain after walking a lot."
+    },
+    {
+      "tense": "Preterite",
+      "person": "yo",
+      "sentence": "Yo ___ a la conclusión de que necesitamos un coche nuevo.",
+      "answer": "llegué",
+      "translation": "I arrived at the conclusion that we need a new car."
+    },
+    {
+      "tense": "Preterite",
+      "person": "tú",
+      "sentence": "¿A qué hora ___ tú al restaurante anoche?",
+      "answer": "llegaste",
+      "translation": "What time did you arrive at the restaurant last night?"
+    },
+    {
+      "tense": "Preterite",
+      "person": "tú",
+      "sentence": "Tú ___ a casa muy tarde después del concierto.",
+      "answer": "llegaste",
+      "translation": "You arrived home very late after the concert."
+    },
+    {
+      "tense": "Preterite",
+      "person": "tú",
+      "sentence": "Tú ___ al final de la fila después de esperar media hora.",
+      "answer": "llegaste",
+      "translation": "You arrived at the end of the line after waiting half an hour."
+    },
+    {
+      "tense": "Preterite",
+      "person": "él/ella/usted",
+      "sentence": "Ella ___ a la clase justo cuando el profesor comenzaba.",
+      "answer": "llegó",
+      "translation": "She arrived at class just when the teacher was starting."
+    },
+    {
+      "tense": "Preterite",
+      "person": "él/ella/usted",
+      "sentence": "El paquete ___ por correo esta mañana.",
+      "answer": "llegó",
+      "translation": "The package arrived by mail this morning."
+    },
+    {
+      "tense": "Preterite",
+      "person": "él/ella/usted",
+      "sentence": "Usted ___ a un acuerdo con el vendedor ayer.",
+      "answer": "llegó",
+      "translation": "You arrived at an agreement with the seller yesterday."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "yo",
+      "sentence": "Cuando yo vivía en Madrid, siempre ___ temprano al trabajo.",
+      "answer": "llegaba",
+      "translation": "When I lived in Madrid, I always arrived early to work."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "yo",
+      "sentence": "Yo ___ a casa mientras el sol todavía brillaba.",
+      "answer": "llegaba",
+      "translation": "I used to arrive home while the sun was still shining."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "yo",
+      "sentence": "Antes, yo ___ a todas mis clases con mucho entusiasmo.",
+      "answer": "llegaba",
+      "translation": "Before, I used to arrive at all my classes with a lot of enthusiasm."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "tú",
+      "sentence": "¿Por qué tú siempre ___ tarde a nuestras reuniones?",
+      "answer": "llegabas",
+      "translation": "Why did you always arrive late to our meetings?"
+    },
+    {
+      "tense": "Imperfect",
+      "person": "tú",
+      "sentence": "Cuando eras niño, tú ___ al parque después de la escuela.",
+      "answer": "llegabas",
+      "translation": "When you were a child, you used to arrive at the park after school."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "tú",
+      "sentence": "Tú ___ a casa llorando porque habías perdido tu juguete.",
+      "answer": "llegabas",
+      "translation": "You would arrive home crying because you had lost your toy."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "él/ella/usted",
+      "sentence": "Él ___ a la oficina mientras nosotros estábamos en una junta.",
+      "answer": "llegaba",
+      "translation": "He was arriving at the office while we were in a meeting."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "él/ella/usted",
+      "sentence": "La carta ___ siempre el mismo día de la semana.",
+      "answer": "llegaba",
+      "translation": "The letter always arrived the same day of the week."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "él/ella/usted",
+      "sentence": "Usted ___ puntual cada día a la oficina de su jefe.",
+      "answer": "llegaba",
+      "translation": "You used to arrive punctual every day to your boss's office."
+    },
+    {
+      "tense": "Conditional",
+      "person": "yo",
+      "sentence": "Si tuviera un coche, yo ___ más rápido a mi destino.",
+      "answer": "llegaría",
+      "translation": "If I had a car, I would arrive faster at my destination."
+    },
+    {
+      "tense": "Conditional",
+      "person": "yo",
+      "sentence": "Yo ___ a un acuerdo si ellos fueran más honestos.",
+      "answer": "llegaría",
+      "translation": "I would reach an agreement if they were more honest."
+    },
+    {
+      "tense": "Conditional",
+      "person": "yo",
+      "sentence": "Yo ___ antes si no hubiera tanto tráfico en la carretera.",
+      "answer": "llegaría",
+      "translation": "I would arrive earlier if there wasn't so much traffic on the road."
+    },
+    {
+      "tense": "Conditional",
+      "person": "tú",
+      "sentence": "¿Tú ___ a tiempo si salieras ahora mismo?",
+      "answer": "llegarías",
+      "translation": "Would you arrive on time if you left right now?"
+    },
+    {
+      "tense": "Conditional",
+      "person": "tú",
+      "sentence": "Tú ___ lejos en tu carrera si te esforzaras más.",
+      "answer": "llegarías",
+      "translation": "You would go far in your career if you tried harder."
+    },
+    {
+      "tense": "Conditional",
+      "person": "tú",
+      "sentence": "¿Crees que tú ___ a la cima antes de que oscurezca?",
+      "answer": "llegarías",
+      "translation": "Do you think you would arrive at the top before it gets dark?"
+    },
+    {
+      "tense": "Conditional",
+      "person": "él/ella/usted",
+      "sentence": "Ella ___ a ser una gran doctora si estudiara medicina.",
+      "answer": "llegaría",
+      "translation": "She would become a great doctor if she studied medicine."
+    },
+    {
+      "tense": "Conditional",
+      "person": "él/ella/usted",
+      "sentence": "El tren ___ a las seis si no hubiera retrasos.",
+      "answer": "llegaría",
+      "translation": "The train would arrive at six if there were no delays."
+    },
+    {
+      "tense": "Conditional",
+      "person": "él/ella/usted",
+      "sentence": "Usted ___ al éxito si trabajara con más dedicación.",
+      "answer": "llegaría",
+      "translation": "You would reach success if you worked with more dedication."
+    },
+    {
+      "tense": "Future",
+      "person": "yo",
+      "sentence": "Yo ___ a casa mañana por la tarde, no te preocupes.",
+      "answer": "llegaré",
+      "translation": "I will arrive home tomorrow afternoon, don't worry."
+    },
+    {
+      "tense": "Future",
+      "person": "yo",
+      "sentence": "Si corro mucho, yo ___ primero a la meta.",
+      "answer": "llegaré",
+      "translation": "If I run a lot, I will arrive first at the finish line."
+    },
+    {
+      "tense": "Future",
+      "person": "yo",
+      "sentence": "Yo ___ a la oficina muy temprano el lunes próximo.",
+      "answer": "llegaré",
+      "translation": "I will arrive at the office very early next Monday."
+    },
+    {
+      "tense": "Future",
+      "person": "tú",
+      "sentence": "¿Cuándo ___ tú a la ciudad para las vacaciones?",
+      "answer": "llegarás",
+      "translation": "When will you arrive in the city for the vacations?"
+    },
+    {
+      "tense": "Future",
+      "person": "tú",
+      "sentence": "Tú ___ a ser un gran profesional con mucho estudio.",
+      "answer": "llegarás",
+      "translation": "You will become a great professional with a lot of study."
+    },
+    {
+      "tense": "Future",
+      "person": "tú",
+      "sentence": "Si sigues este camino, tú ___ al centro en diez minutos.",
+      "answer": "llegarás",
+      "translation": "If you follow this path, you will arrive at the center in ten minutes."
+    },
+    {
+      "tense": "Future",
+      "person": "él/ella/usted",
+      "sentence": "Ella ___ a la fiesta después de terminar su trabajo.",
+      "answer": "llegará",
+      "translation": "She will arrive at the party after finishing her work."
+    },
+    {
+      "tense": "Future",
+      "person": "él/ella/usted",
+      "sentence": "El vuelo ___ a la medianoche debido a la tormenta.",
+      "answer": "llegará",
+      "translation": "The flight will arrive at midnight due to the storm."
+    },
+    {
+      "tense": "Future",
+      "person": "él/ella/usted",
+      "sentence": "Usted ___ a un acuerdo con ellos si habla sinceramente.",
+      "answer": "llegará",
+      "translation": "You will reach an agreement with them if you speak sincerely."
+    }
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "exercises": [
+    {
+      "tense": "Present",
+      "person": "yo",
+      "sentence": "Siempre ____ la verdad a mis padres.",
+      "answer": "digo",
+      "translation": "I always tell the truth to my parents."
+    },
+    {
+      "tense": "Present",
+      "person": "yo",
+      "sentence": "Ahora ____ que estoy muy cansado.",
+      "answer": "digo",
+      "translation": "Right now I say that I am very tired."
+    },
+    {
+      "tense": "Present",
+      "person": "yo",
+      "sentence": "Por favor, ____ lo que piensas.",
+      "answer": "digo",
+      "translation": "Please, I say what you think."
+    },
+    {
+      "tense": "Present",
+      "person": "tú",
+      "sentence": "Tú siempre ____ mentiras a todos.",
+      "answer": "dices",
+      "translation": "You always tell lies to everyone."
+    },
+    {
+      "tense": "Present",
+      "person": "tú",
+      "sentence": "Dime, ¿qué ____ sobre esta película?",
+      "answer": "dices",
+      "translation": "Tell me, what do you say about this movie?"
+    },
+    {
+      "tense": "Present",
+      "person": "tú",
+      "sentence": "Sé que ____ eso por broma.",
+      "answer": "dices",
+      "translation": "I know you say that as a joke."
+    },
+    {
+      "tense": "Preterite",
+      "person": "yo",
+      "sentence": "Ayer le ____ que no podía ir a la fiesta.",
+      "answer": "dije",
+      "translation": "Yesterday I told him that I could not go to the party."
+    },
+    {
+      "tense": "Preterite",
+      "person": "yo",
+      "sentence": "Lo ____ con toda claridad para que entendieran.",
+      "answer": "dije",
+      "translation": "I said it very clearly so they would understand."
+    },
+    {
+      "tense": "Preterite",
+      "person": "yo",
+      "sentence": "Le ____ la verdad en ese momento.",
+      "answer": "dije",
+      "translation": "I told him the truth at that moment."
+    },
+    {
+      "tense": "Preterite",
+      "person": "tú",
+      "sentence": "¿Qué le ____ a tu hermano hace un momento?",
+      "answer": "dijiste",
+      "translation": "What did you tell your brother a moment ago?"
+    },
+    {
+      "tense": "Preterite",
+      "person": "tú",
+      "sentence": "No me ____ nada sobre el examen ayer.",
+      "answer": "dijiste",
+      "translation": "You did not tell me anything about the exam yesterday."
+    },
+    {
+      "tense": "Preterite",
+      "person": "tú",
+      "sentence": "Me ____ que tenías mucha hambre.",
+      "answer": "dijiste",
+      "translation": "You told me you were very hungry."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "yo",
+      "sentence": "Cuando era niño, yo siempre ____ la verdad.",
+      "answer": "decía",
+      "translation": "When I was a child, I always told the truth."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "yo",
+      "sentence": "Cada mañana yo ____ buenos días a mis vecinos.",
+      "answer": "decía",
+      "translation": "Every morning I used to say good morning to my neighbors."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "yo",
+      "sentence": "Yo siempre ____ lo mismo en las reuniones.",
+      "answer": "decía",
+      "translation": "I always said the same thing in the meetings."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "tú",
+      "sentence": "Tú ____ cosas muy amables cuando estabas feliz.",
+      "answer": "decías",
+      "translation": "You used to say very kind things when you were happy."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "tú",
+      "sentence": "¿Qué ____ tú cuando tenías miedo?",
+      "answer": "decías",
+      "translation": "What did you used to say when you were afraid?"
+    },
+    {
+      "tense": "Imperfect",
+      "person": "tú",
+      "sentence": "Antes ____ que no te gustaba el café.",
+      "answer": "decías",
+      "translation": "Before you used to say that you didn't like coffee."
+    },
+    {
+      "tense": "Conditional",
+      "person": "yo",
+      "sentence": "Yo le ____ toda la verdad si me preguntara.",
+      "answer": "diría",
+      "translation": "I would tell him the whole truth if he asked me."
+    },
+    {
+      "tense": "Conditional",
+      "person": "yo",
+      "sentence": "Yo no ____ nada en esa situación.",
+      "answer": "diría",
+      "translation": "I would not say anything in that situation."
+    },
+    {
+      "tense": "Conditional",
+      "person": "yo",
+      "sentence": "Si fuera tú, yo le ____ que sí.",
+      "answer": "diría",
+      "translation": "If I were you, I would tell him yes."
+    },
+    {
+      "tense": "Conditional",
+      "person": "tú",
+      "sentence": "¿Qué ____ tú en mi lugar?",
+      "answer": "dirías",
+      "translation": "What would you say in my place?"
+    },
+    {
+      "tense": "Conditional",
+      "person": "tú",
+      "sentence": "Tú no ____ eso si supieras la respuesta.",
+      "answer": "dirías",
+      "translation": "You would not say that if you knew the answer."
+    },
+    {
+      "tense": "Conditional",
+      "person": "tú",
+      "sentence": "¿Me ____ la verdad si pudieras?",
+      "answer": "dirías",
+      "translation": "Would you tell me the truth if you could?"
+    },
+    {
+      "tense": "Future",
+      "person": "yo",
+      "sentence": "Mañana te ____ la respuesta final.",
+      "answer": "diré",
+      "translation": "Tomorrow I will tell you the final answer."
+    },
+    {
+      "tense": "Future",
+      "person": "yo",
+      "sentence": "Te lo ____ todo cuando nos veamos.",
+      "answer": "diré",
+      "translation": "I will tell you everything when we see each other."
+    },
+    {
+      "tense": "Future",
+      "person": "yo",
+      "sentence": "Pronto les ____ la buena noticia.",
+      "answer": "diré",
+      "translation": "Soon I will tell them the good news."
+    },
+    {
+      "tense": "Future",
+      "person": "tú",
+      "sentence": "¿Me ____ la verdad más tarde?",
+      "answer": "dirás",
+      "translation": "Will you tell me the truth later?"
+    },
+    {
+      "tense": "Future",
+      "person": "tú",
+      "sentence": "Sé que ____ lo que piensas al final.",
+      "answer": "dirás",
+      "translation": "I know you will say what you think in the end."
+    },
+    {
+      "tense": "Future",
+      "person": "tú",
+      "sentence": "Me ____ qué tal te fue en el viaje.",
+      "answer": "dirás",
+      "translation": "You will tell me how the trip went for you."
+    }
+  ]
+}

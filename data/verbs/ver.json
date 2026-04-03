@@ -1,0 +1,319 @@
+{
+  "exercises": [
+    {
+      "tense": "Present",
+      "person": "yo",
+      "sentence": "Todos los lunes yo ___ una pelicula en el cine.",
+      "answer": "veo",
+      "translation": "Every Monday I see a movie at the cinema."
+    },
+    {
+      "tense": "Present",
+      "person": "yo",
+      "sentence": "Yo ___ a mis amigos en el parque cada tarde.",
+      "answer": "veo",
+      "translation": "I see my friends at the park every afternoon."
+    },
+    {
+      "tense": "Present",
+      "person": "yo",
+      "sentence": "Yo ___ el sol salir por la ventana.",
+      "answer": "veo",
+      "translation": "I see the sun rising through the window."
+    },
+    {
+      "tense": "Present",
+      "person": "tu",
+      "sentence": "Tu ___ muy bien con esas gafas nuevas.",
+      "answer": "ves",
+      "translation": "You see very well with those new glasses."
+    },
+    {
+      "tense": "Present",
+      "person": "tu",
+      "sentence": "Tu ___ a tu hermano en la escuela, verdad?",
+      "answer": "ves",
+      "translation": "You see your brother at school, right?"
+    },
+    {
+      "tense": "Present",
+      "person": "tu",
+      "sentence": "Siempre ___ el mismo programa de television.",
+      "answer": "ves",
+      "translation": "You always watch the same television program."
+    },
+    {
+      "tense": "Present",
+      "person": "el/ella",
+      "sentence": "Ella ___ a su abuela todos los domingos.",
+      "answer": "ve",
+      "translation": "She sees her grandmother every Sunday."
+    },
+    {
+      "tense": "Present",
+      "person": "el/ella",
+      "sentence": "El ___ la noticia en internet por la mañana.",
+      "answer": "ve",
+      "translation": "He sees the news on the internet in the morning."
+    },
+    {
+      "tense": "Present",
+      "person": "el/ella",
+      "sentence": "El niño ___ los pajaritos volar en el jardin.",
+      "answer": "ve",
+      "translation": "The boy sees the little birds flying in the garden."
+    },
+    {
+      "tense": "Preterite",
+      "person": "yo",
+      "sentence": "Yo ___ a Maria en la fiesta ayer por la noche.",
+      "answer": "vi",
+      "translation": "I saw Maria at the party last night."
+    },
+    {
+      "tense": "Preterite",
+      "person": "yo",
+      "sentence": "Yo ___ una pelicula de terror el sabado pasado.",
+      "answer": "vi",
+      "translation": "I watched a horror movie last Saturday."
+    },
+    {
+      "tense": "Preterite",
+      "person": "yo",
+      "sentence": "Yo ___ ese monumento cuando viaje a Madrid.",
+      "answer": "vi",
+      "translation": "I saw that monument when I traveled to Madrid."
+    },
+    {
+      "tense": "Preterite",
+      "person": "tu",
+      "sentence": "Tu ___ a Juan en la biblioteca ayer.",
+      "answer": "viste",
+      "translation": "You saw Juan at the library yesterday."
+    },
+    {
+      "tense": "Preterite",
+      "person": "tu",
+      "sentence": "Tu ___ el partido de futbol en la tele?",
+      "answer": "viste",
+      "translation": "Did you watch the soccer game on TV?"
+    },
+    {
+      "tense": "Preterite",
+      "person": "tu",
+      "sentence": "Tu ___ algo raro en el camino a casa?",
+      "answer": "viste",
+      "translation": "Did you see anything strange on the way home?"
+    },
+    {
+      "tense": "Preterite",
+      "person": "el/ella",
+      "sentence": "Ella ___ un arcoiris despues de la lluvia.",
+      "answer": "vio",
+      "translation": "She saw a rainbow after the rain."
+    },
+    {
+      "tense": "Preterite",
+      "person": "el/ella",
+      "sentence": "El ___ a su mejor amigo en el centro comercial.",
+      "answer": "vio",
+      "translation": "He saw his best friend at the mall."
+    },
+    {
+      "tense": "Preterite",
+      "person": "el/ella",
+      "sentence": "Ella ___ el anuncio en el periodico ayer.",
+      "answer": "vio",
+      "translation": "She saw the advertisement in the newspaper yesterday."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "yo",
+      "sentence": "Cuando era niño, yo ___ dibujos animados cada mañana.",
+      "answer": "veia",
+      "translation": "When I was a child, I used to watch cartoons every morning."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "yo",
+      "sentence": "Yo ___ a mis abuelos muy seguido en verano.",
+      "answer": "veia",
+      "translation": "I used to see my grandparents very often in summer."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "yo",
+      "sentence": "Yo ___ el mar desde mi ventana en la playa.",
+      "answer": "veia",
+      "translation": "I used to see the sea from my window at the beach."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "tu",
+      "sentence": "Tu ___ a tu profesora en el supermercado con frecuencia.",
+      "answer": "veias",
+      "translation": "You used to see your teacher at the supermarket often."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "tu",
+      "sentence": "Tu ___ ese programa de comedia casi todos los dias.",
+      "answer": "veias",
+      "translation": "You used to watch that comedy show almost every day."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "tu",
+      "sentence": "Antes tu ___ muy feliz cuando ibas al parque.",
+      "answer": "veias",
+      "translation": "Before you looked very happy when you went to the park."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "el/ella",
+      "sentence": "El ___ a sus amigos cada fin de semana.",
+      "answer": "veia",
+      "translation": "He used to see his friends every weekend."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "el/ella",
+      "sentence": "Ella ___ la lluvia caer por horas desde su cuarto.",
+      "answer": "veia",
+      "translation": "She used to watch the rain fall for hours from her room."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "el/ella",
+      "sentence": "El ___ muchas peliculas antiguas en el cine local.",
+      "answer": "veia",
+      "translation": "He used to watch many old movies at the local cinema."
+    },
+    {
+      "tense": "Conditional",
+      "person": "yo",
+      "sentence": "Yo ___ esa pelicula si tuviera tiempo libre.",
+      "answer": "veria",
+      "translation": "I would watch that movie if I had free time."
+    },
+    {
+      "tense": "Conditional",
+      "person": "yo",
+      "sentence": "Yo ___ a los animales en el zoo si fuera domingo.",
+      "answer": "veria",
+      "translation": "I would see the animals at the zoo if it were Sunday."
+    },
+    {
+      "tense": "Conditional",
+      "person": "yo",
+      "sentence": "Yo ___ mejor con gafas, pero no las uso.",
+      "answer": "veria",
+      "translation": "I would see better with glasses, but I don't use them."
+    },
+    {
+      "tense": "Conditional",
+      "person": "tu",
+      "sentence": "Tu ___ mas feliz si salieras a caminar hoy.",
+      "answer": "verias",
+      "translation": "You would look happier if you went out for a walk today."
+    },
+    {
+      "tense": "Conditional",
+      "person": "tu",
+      "sentence": "Tu ___ el partido si tuvieras entrada.",
+      "answer": "verias",
+      "translation": "You would watch the game if you had a ticket."
+    },
+    {
+      "tense": "Conditional",
+      "person": "tu",
+      "sentence": "Tu ___ la verdad si me escucharas.",
+      "answer": "verias",
+      "translation": "You would see the truth if you listened to me."
+    },
+    {
+      "tense": "Conditional",
+      "person": "el/ella",
+      "sentence": "Ella ___ el museo si estuviera en la ciudad.",
+      "answer": "veria",
+      "translation": "She would see the museum if she were in the city."
+    },
+    {
+      "tense": "Conditional",
+      "person": "el/ella",
+      "sentence": "El ___ el amanecer si se despertara temprano.",
+      "answer": "veria",
+      "translation": "He would see the sunrise if he woke up early."
+    },
+    {
+      "tense": "Conditional",
+      "person": "el/ella",
+      "sentence": "Ella ___ a su familia mañana si pudiera viajar.",
+      "answer": "veria",
+      "translation": "She would see her family tomorrow if she could travel."
+    },
+    {
+      "tense": "Future",
+      "person": "yo",
+      "sentence": "Mañana yo ___ a mi dentista para una revision.",
+      "answer": "veré",
+      "translation": "Tomorrow I will see my dentist for a check-up."
+    },
+    {
+      "tense": "Future",
+      "person": "yo",
+      "sentence": "Yo ___ el final de la serie este fin de semana.",
+      "answer": "veré",
+      "translation": "I will watch the end of the series this weekend."
+    },
+    {
+      "tense": "Future",
+      "person": "yo",
+      "sentence": "Yo ___ a mis primos en la boda en agosto.",
+      "answer": "veré",
+      "translation": "I will see my cousins at the wedding in August."
+    },
+    {
+      "tense": "Future",
+      "person": "tu",
+      "sentence": "Tu ___ una gran diferencia cuando termines el proyecto.",
+      "answer": "verás",
+      "translation": "You will see a big difference when you finish the project."
+    },
+    {
+      "tense": "Future",
+      "person": "tu",
+      "sentence": "Tu ___ la pelicula nueva en el cine el viernes.",
+      "answer": "verás",
+      "translation": "You will watch the new movie at the cinema on Friday."
+    },
+    {
+      "tense": "Future",
+      "person": "tu",
+      "sentence": "Tu ___ a tus amigos pronto, no te preocupes.",
+      "answer": "verás",
+      "translation": "You will see your friends soon, don't worry."
+    },
+    {
+      "tense": "Future",
+      "person": "el/ella",
+      "sentence": "El ___ el resultado de su examen mañana.",
+      "answer": "verá",
+      "translation": "He will see the result of his exam tomorrow."
+    },
+    {
+      "tense": "Future",
+      "person": "el/ella",
+      "sentence": "Ella ___ a sus abuelos el proximo verano.",
+      "answer": "verá",
+      "translation": "She will see her grandparents next summer."
+    },
+    {
+      "tense": "Future",
+      "person": "el/ella",
+      "sentence": "El ___ el partido en casa con su familia.",
+      "answer": "verá",
+      "translation": "He will watch the game at home with his family."
+    }
+  ]
+}

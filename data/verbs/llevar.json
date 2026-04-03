@@ -1,0 +1,214 @@
+{
+  "exercises": [
+    {
+      "tense": "Present",
+      "person": "yo",
+      "sentence": "Cada lunes, yo ____ mi ropa sucia a la lavandería.",
+      "answer": "llevo",
+      "translation": "Every Monday, I take my dirty laundry to the laundromat."
+    },
+    {
+      "tense": "Present",
+      "person": "yo",
+      "sentence": "Yo ____ mis libros en una mochila azul para ir a clase.",
+      "answer": "llevo",
+      "translation": "I carry my books in a blue backpack to go to class."
+    },
+    {
+      "tense": "Present",
+      "person": "yo",
+      "sentence": "Yo ____ las llaves del coche en el bolsillo de mi chaqueta.",
+      "answer": "llevo",
+      "translation": "I carry the car keys in my jacket pocket."
+    },
+    {
+      "tense": "Present",
+      "person": "tú",
+      "sentence": "¿Por qué ____ tú esos zapatos tan incómodos hoy?",
+      "answer": "llevas",
+      "translation": "Why are you wearing those very uncomfortable shoes today?"
+    },
+    {
+      "tense": "Present",
+      "person": "tú",
+      "sentence": "Tú ____ una vida muy saludable con mucho ejercicio.",
+      "answer": "llevas",
+      "translation": "You lead a very healthy life with a lot of exercise."
+    },
+    {
+      "tense": "Present",
+      "person": "tú",
+      "sentence": "¿Qué ____ tú en esa bolsa de plástico?",
+      "answer": "llevas",
+      "translation": "What are you carrying in that plastic bag?"
+    },
+    {
+      "tense": "Preterite",
+      "person": "yo",
+      "sentence": "Ayer yo ____ a mi hermana al aeropuerto en mi coche.",
+      "answer": "llevé",
+      "translation": "Yesterday I took my sister to the airport in my car."
+    },
+    {
+      "tense": "Preterite",
+      "person": "yo",
+      "sentence": "Yo ____ una corbata negra para la entrevista de trabajo.",
+      "answer": "llevé",
+      "translation": "I wore a black tie for the job interview."
+    },
+    {
+      "tense": "Preterite",
+      "person": "yo",
+      "sentence": "Yo ____ los platos sucios a la cocina después de comer.",
+      "answer": "llevé",
+      "translation": "I carried the dirty dishes to the kitchen after eating."
+    },
+    {
+      "tense": "Preterite",
+      "person": "tú",
+      "sentence": "¿Por qué ____ tú una chaqueta si hace mucho calor?",
+      "answer": "llevaste",
+      "translation": "Why did you wear a jacket if it is very hot?"
+    },
+    {
+      "tense": "Preterite",
+      "person": "tú",
+      "sentence": "Tú ____ a tu perro al veterinario el mes pasado.",
+      "answer": "llevaste",
+      "translation": "You took your dog to the veterinarian last month."
+    },
+    {
+      "tense": "Preterite",
+      "person": "tú",
+      "sentence": "Tú ____ el pastel a la fiesta de cumpleaños de Juan.",
+      "answer": "llevaste",
+      "translation": "You brought the cake to Juan's birthday party."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "yo",
+      "sentence": "Cuando era niño, yo ____ el pelo largo y rizado.",
+      "answer": "llevaba",
+      "translation": "When I was a child, I used to have long curly hair."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "yo",
+      "sentence": "Yo ____ siempre un cuaderno a todas las reuniones.",
+      "answer": "llevaba",
+      "translation": "I always carried a notebook to all the meetings."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "yo",
+      "sentence": "Yo ____ una vida tranquila en el campo hace años.",
+      "answer": "llevaba",
+      "translation": "I used to lead a quiet life in the countryside years ago."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "tú",
+      "sentence": "¿Qué ____ tú puesto cuando te encontré ayer?",
+      "answer": "llevabas",
+      "translation": "What were you wearing when I met you yesterday?"
+    },
+    {
+      "tense": "Imperfect",
+      "person": "tú",
+      "sentence": "Tú ____ a los niños al parque todos los domingos.",
+      "answer": "llevabas",
+      "translation": "You used to take the children to the park every Sunday."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "tú",
+      "sentence": "Antes ____ tú una dieta muy estricta por salud.",
+      "answer": "llevabas",
+      "translation": "Before, you used to follow a very strict diet for health."
+    },
+    {
+      "tense": "Conditional",
+      "person": "yo",
+      "sentence": "Si fuera tú, yo ____ a mis padres a ese restaurante nuevo.",
+      "answer": "llevaría",
+      "translation": "If I were you, I would take my parents to that new restaurant."
+    },
+    {
+      "tense": "Conditional",
+      "person": "yo",
+      "sentence": "Yo ____ este abrigo formal si tuviera una cita importante.",
+      "answer": "llevaría",
+      "translation": "I would wear this formal coat if I had an important date."
+    },
+    {
+      "tense": "Conditional",
+      "person": "yo",
+      "sentence": "Yo ____ el equipo técnico conmigo por si acaso ocurre un error.",
+      "answer": "llevaría",
+      "translation": "I would carry the technical equipment with me in case an error occurs."
+    },
+    {
+      "tense": "Conditional",
+      "person": "tú",
+      "sentence": "¿____ tú a tu familia de vacaciones a la playa este verano?",
+      "answer": "llevarías",
+      "translation": "Would you take your family on vacation to the beach this summer?"
+    },
+    {
+      "tense": "Conditional",
+      "person": "tú",
+      "sentence": "¿Qué ____ tú puesto para una boda elegante en invierno?",
+      "answer": "llevarías",
+      "translation": "What would you wear to an elegant wedding in winter?"
+    },
+    {
+      "tense": "Conditional",
+      "person": "tú",
+      "sentence": "¿____ tú el paraguas si supieras que va a llover?",
+      "answer": "llevarías",
+      "translation": "Would you carry the umbrella if you knew it was going to rain?"
+    },
+    {
+      "tense": "Future",
+      "person": "yo",
+      "sentence": "Mañana yo ____ las maletas al hotel antes de registrarme.",
+      "answer": "llevaré",
+      "translation": "Tomorrow I will carry the suitcases to the hotel before checking in."
+    },
+    {
+      "tense": "Future",
+      "person": "yo",
+      "sentence": "Yo ____ a mi hija a su clase de natación a las diez.",
+      "answer": "llevaré",
+      "translation": "I will take my daughter to her swimming lesson at ten."
+    },
+    {
+      "tense": "Future",
+      "person": "yo",
+      "sentence": "Yo ____ mis documentos importantes a la notaría la próxima semana.",
+      "answer": "llevaré",
+      "translation": "I will take my important documents to the notary next week."
+    },
+    {
+      "tense": "Future",
+      "person": "tú",
+      "sentence": "¿____ tú los refrescos a la reunión de mañana?",
+      "answer": "llevarás",
+      "translation": "Will you bring the sodas to the meeting tomorrow?"
+    },
+    {
+      "tense": "Future",
+      "person": "tú",
+      "sentence": "Tú ____ una ropa elegante para la fiesta de graduación.",
+      "answer": "llevarás",
+      "translation": "You will wear elegant clothes for the graduation party."
+    },
+    {
+      "tense": "Future",
+      "person": "tú",
+      "sentence": "¿____ tú a tu hermano al médico por la tarde?",
+      "answer": "llevarás",
+      "translation": "Will you take your brother to the doctor in the afternoon?"
+    }
+  ]
+}

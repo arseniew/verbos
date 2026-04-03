@@ -1,0 +1,319 @@
+{
+  "exercises": [
+    {
+      "tense": "Present",
+      "person": "yo",
+      "sentence": "A veces ________ que no me escuchas cuando hablo.",
+      "answer": "parezco",
+      "translation": "Sometimes I seem like you do not listen to me when I talk."
+    },
+    {
+      "tense": "Present",
+      "person": "yo",
+      "sentence": "Creo que ________ un poco cansado hoy, ?verdad?",
+      "answer": "parezco",
+      "translation": "I think I seem a little tired today, right?"
+    },
+    {
+      "tense": "Present",
+      "person": "yo",
+      "sentence": "Si uso este sombrero, ________ un detective famoso.",
+      "answer": "parezco",
+      "translation": "If I wear this hat, I look like a famous detective."
+    },
+    {
+      "tense": "Present",
+      "person": "tú",
+      "sentence": "Tú ________ muy feliz con tu nuevo trabajo.",
+      "answer": "pareces",
+      "translation": "You seem very happy with your new job."
+    },
+    {
+      "tense": "Present",
+      "person": "tú",
+      "sentence": "¡Cuidado! ________ un poco nervioso por el examen.",
+      "answer": "pareces",
+      "translation": "Careful! You seem a bit nervous about the exam."
+    },
+    {
+      "tense": "Present",
+      "person": "tú",
+      "sentence": "¡Qué bien! ________ mucho más joven con ese corte de pelo.",
+      "answer": "pareces",
+      "translation": "How great! You look much younger with that haircut."
+    },
+    {
+      "tense": "Present",
+      "person": "él/ella",
+      "sentence": "Ella ________ una persona muy inteligente y amable.",
+      "answer": "parece",
+      "translation": "She seems like a very intelligent and kind person."
+    },
+    {
+      "tense": "Present",
+      "person": "él/ella",
+      "sentence": "El problema ________ simple, pero es muy complicado.",
+      "answer": "parece",
+      "translation": "The problem seems simple, but it is very complicated."
+    },
+    {
+      "tense": "Present",
+      "person": "él/ella",
+      "sentence": "Ese restaurante ________ excelente para cenar hoy.",
+      "answer": "parece",
+      "translation": "That restaurant seems excellent for dinner today."
+    },
+    {
+      "tense": "Preterite",
+      "person": "yo",
+      "sentence": "Ayer ________ muy triste cuando hablamos por teléfono.",
+      "answer": "parecí",
+      "translation": "Yesterday I seemed very sad when we spoke on the phone."
+    },
+    {
+      "tense": "Preterite",
+      "person": "yo",
+      "sentence": "En la entrevista, ________ muy seguro de mis habilidades.",
+      "answer": "parecí",
+      "translation": "In the interview, I seemed very sure of my skills."
+    },
+    {
+      "tense": "Preterite",
+      "person": "yo",
+      "sentence": "Al principio, ________ confundido por las instrucciones.",
+      "answer": "parecí",
+      "translation": "At the beginning, I seemed confused by the instructions."
+    },
+    {
+      "tense": "Preterite",
+      "person": "tú",
+      "sentence": "Ayer ________ muy cansado después del partido de fútbol.",
+      "answer": "pareciste",
+      "translation": "Yesterday you seemed very tired after the soccer game."
+    },
+    {
+      "tense": "Preterite",
+      "person": "tú",
+      "sentence": "Por un momento, ________ sorprendido al verme llegar.",
+      "answer": "pareciste",
+      "translation": "For a moment, you seemed surprised to see me arrive."
+    },
+    {
+      "tense": "Preterite",
+      "person": "tú",
+      "sentence": "Me alegra que ________ contento durante la fiesta.",
+      "answer": "pareciste",
+      "translation": "I am happy that you seemed happy during the party."
+    },
+    {
+      "tense": "Preterite",
+      "person": "él/ella",
+      "sentence": "La película ________ muy larga durante la función de ayer.",
+      "answer": "pareció",
+      "translation": "The movie seemed very long during the show yesterday."
+    },
+    {
+      "tense": "Preterite",
+      "person": "él/ella",
+      "sentence": "Él ________ molesto cuando escuchó las noticias.",
+      "answer": "pareció",
+      "translation": "He seemed annoyed when he heard the news."
+    },
+    {
+      "tense": "Preterite",
+      "person": "él/ella",
+      "sentence": "Ella ________ muy tranquila durante la reunión.",
+      "answer": "pareció",
+      "translation": "She seemed very calm during the meeting."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "yo",
+      "sentence": "Cuando era niño, siempre ________ un poco tímido.",
+      "answer": "parecía",
+      "translation": "When I was a child, I always seemed a bit shy."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "yo",
+      "sentence": "Yo ________ mayor de lo que era en realidad.",
+      "answer": "parecía",
+      "translation": "I seemed older than I actually was."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "yo",
+      "sentence": "Antes, ________ que todo era mucho más fácil.",
+      "answer": "parecía",
+      "translation": "Before, it seemed that everything was much easier."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "tú",
+      "sentence": "Tú ________ muy interesado en la historia en ese entonces.",
+      "answer": "parecías",
+      "translation": "You seemed very interested in history back then."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "tú",
+      "sentence": "Siempre ________ preocupada por tus notas en la escuela.",
+      "answer": "parecías",
+      "translation": "You always seemed worried about your grades in school."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "tú",
+      "sentence": "Cuando hablabas de tu viaje, ________ muy emocionado.",
+      "answer": "parecías",
+      "translation": "When you spoke about your trip, you seemed very excited."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "él/ella",
+      "sentence": "El día ________ interminable mientras esperábamos el bus.",
+      "answer": "parecía",
+      "translation": "The day seemed endless while we were waiting for the bus."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "él/ella",
+      "sentence": "Ella ________ una experta en arte en esos años.",
+      "answer": "parecía",
+      "translation": "She seemed like an art expert in those years."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "él/ella",
+      "sentence": "El proyecto ________ bien organizado al principio.",
+      "answer": "parecía",
+      "translation": "The project seemed well organized at the beginning."
+    },
+    {
+      "tense": "Conditional",
+      "person": "yo",
+      "sentence": "Yo ________ antipático si no saludo a mis vecinos.",
+      "answer": "parecería",
+      "translation": "I would seem unfriendly if I do not greet my neighbors."
+    },
+    {
+      "tense": "Conditional",
+      "person": "yo",
+      "sentence": "Si no hablo nada, ________ muy reservado.",
+      "answer": "parecería",
+      "translation": "If I do not speak at all, I would seem very reserved."
+    },
+    {
+      "tense": "Conditional",
+      "person": "yo",
+      "sentence": "Sin mis gafas, ________ que no veo bien de lejos.",
+      "answer": "parecería",
+      "translation": "Without my glasses, it would seem that I do not see well from a distance."
+    },
+    {
+      "tense": "Conditional",
+      "person": "tú",
+      "sentence": "Tú ________ más profesional con un traje puesto.",
+      "answer": "parecerías",
+      "translation": "You would seem more professional with a suit on."
+    },
+    {
+      "tense": "Conditional",
+      "person": "tú",
+      "sentence": "Sin duda, ________ muy valiente ante esa situación.",
+      "answer": "parecerías",
+      "translation": "Without a doubt, you would seem very brave in that situation."
+    },
+    {
+      "tense": "Conditional",
+      "person": "tú",
+      "sentence": "Si cambias de opinión, ________ muy indeciso.",
+      "answer": "parecerías",
+      "translation": "If you change your mind, you would seem very indecisive."
+    },
+    {
+      "tense": "Conditional",
+      "person": "él/ella",
+      "sentence": "Esto ________ un buen plan, pero es arriesgado.",
+      "answer": "parecería",
+      "translation": "This would seem like a good plan, but it is risky."
+    },
+    {
+      "tense": "Conditional",
+      "person": "él/ella",
+      "sentence": "La idea ________ estupenda si tuviéramos más dinero.",
+      "answer": "parecería",
+      "translation": "The idea would seem wonderful if we had more money."
+    },
+    {
+      "tense": "Conditional",
+      "person": "él/ella",
+      "sentence": "El lugar ________ un paraíso en las fotos.",
+      "answer": "parecería",
+      "translation": "The place would seem like a paradise in the photos."
+    },
+    {
+      "tense": "Future",
+      "person": "yo",
+      "sentence": "Mañana ________ más tranquilo cuando termine el trabajo.",
+      "answer": "pareceré",
+      "translation": "Tomorrow I will seem calmer when I finish work."
+    },
+    {
+      "tense": "Future",
+      "person": "yo",
+      "sentence": "Con este entrenamiento, ________ mucho más fuerte.",
+      "answer": "pareceré",
+      "translation": "With this training, I will seem much stronger."
+    },
+    {
+      "tense": "Future",
+      "person": "yo",
+      "sentence": "Si sigo estudiando, ________ un experto en el tema.",
+      "answer": "pareceré",
+      "translation": "If I keep studying, I will seem like an expert on the subject."
+    },
+    {
+      "tense": "Future",
+      "person": "tú",
+      "sentence": "Con ese uniforme nuevo, ________ un capitán de barco.",
+      "answer": "parecerás",
+      "translation": "With that new uniform, you will look like a ship captain."
+    },
+    {
+      "tense": "Future",
+      "person": "tú",
+      "sentence": "Cuando practiques más, ________ un profesional.",
+      "answer": "parecerás",
+      "translation": "When you practice more, you will seem like a professional."
+    },
+    {
+      "tense": "Future",
+      "person": "tú",
+      "sentence": "Si descansas bien, ________ menos cansado mañana.",
+      "answer": "parecerás",
+      "translation": "If you rest well, you will seem less tired tomorrow."
+    },
+    {
+      "tense": "Future",
+      "person": "él/ella",
+      "sentence": "Todo ________ más claro después de la explicación.",
+      "answer": "parecerá",
+      "translation": "Everything will seem clearer after the explanation."
+    },
+    {
+      "tense": "Future",
+      "person": "él/ella",
+      "sentence": "El problema ________ insignificante en un año.",
+      "answer": "parecerá",
+      "translation": "The problem will seem insignificant in a year."
+    },
+    {
+      "tense": "Future",
+      "person": "él/ella",
+      "sentence": "Ella ________ muy feliz cuando vea el regalo.",
+      "answer": "parecerá",
+      "translation": "She will seem very happy when she sees the gift."
+    }
+  ]
+}
