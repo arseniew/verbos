@@ -1,0 +1,193 @@
+{
+  "exercises": [
+    {
+      "tense": "Present",
+      "person": "yo",
+      "sentence": "Hoy yo _______ mucha hambre, así que voy a comer una pizza.",
+      "answer": "tengo",
+      "translation": "Today I am very hungry, so I am going to eat a pizza."
+    },
+    {
+      "tense": "Present",
+      "person": "yo",
+      "sentence": "Yo _______ dos hermanos mayores que viven en Madrid.",
+      "answer": "tengo",
+      "translation": "I have two older brothers who live in Madrid."
+    },
+    {
+      "tense": "Present",
+      "person": "yo",
+      "sentence": "Cada mañana, yo _______ que estudiar para mi examen de español.",
+      "answer": "tengo",
+      "translation": "Every morning, I have to study for my Spanish exam."
+    },
+    {
+      "tense": "Present",
+      "person": "tú",
+      "sentence": "¿Tú _______ tiempo para ir al cine conmigo esta noche?",
+      "answer": "tienes",
+      "translation": "Do you have time to go to the cinema with me tonight?"
+    },
+    {
+      "tense": "Present",
+      "person": "tú",
+      "sentence": "¿Por qué _______ tanta prisa para salir de casa?",
+      "answer": "tienes",
+      "translation": "Why are you in such a hurry to leave the house?"
+    },
+    {
+      "tense": "Present",
+      "person": "tú",
+      "sentence": "Tú _______ un perro muy inteligente y cariñoso.",
+      "answer": "tienes",
+      "translation": "You have a very intelligent and affectionate dog."
+    },
+    {
+      "tense": "Present",
+      "person": "él/ella",
+      "sentence": "Ella _______ veinte años y estudia medicina en la universidad.",
+      "answer": "tiene",
+      "translation": "She is twenty years old and studies medicine at the university."
+    },
+    {
+      "tense": "Present",
+      "person": "él/ella",
+      "sentence": "Él _______ mucha suerte porque ganó un viaje a México.",
+      "answer": "tiene",
+      "translation": "He is very lucky because he won a trip to Mexico."
+    },
+    {
+      "tense": "Present",
+      "person": "él/ella",
+      "sentence": "Mi hermana _______ una casa pequeña pero muy bonita.",
+      "answer": "tiene",
+      "translation": "My sister has a small but very pretty house."
+    },
+    {
+      "tense": "Preterite",
+      "person": "yo",
+      "sentence": "Ayer yo _______ un problema con mi computadora y no pude trabajar.",
+      "answer": "tuve",
+      "translation": "Yesterday I had a problem with my computer and I could not work."
+    },
+    {
+      "tense": "Preterite",
+      "person": "yo",
+      "sentence": "Yo _______ que caminar mucho ayer porque mi coche no funcionaba.",
+      "answer": "tuve",
+      "translation": "I had to walk a lot yesterday because my car was not working."
+    },
+    {
+      "tense": "Preterite",
+      "person": "yo",
+      "sentence": "El año pasado yo _______ una experiencia inolvidable en Perú.",
+      "answer": "tuve",
+      "translation": "Last year I had an unforgettable experience in Peru."
+    },
+    {
+      "tense": "Preterite",
+      "person": "tú",
+      "sentence": "¿Qué _______ que hacer ayer por la tarde?",
+      "answer": "tuviste",
+      "translation": "What did you have to do yesterday afternoon?"
+    },
+    {
+      "tense": "Preterite",
+      "person": "tú",
+      "sentence": "Tú _______ mucha paciencia con el niño ayer durante la clase.",
+      "answer": "tuviste",
+      "translation": "You had a lot of patience with the child yesterday during class."
+    },
+    {
+      "tense": "Preterite",
+      "person": "tú",
+      "sentence": "¿Tú _______ noticias de tu familia la semana pasada?",
+      "answer": "tuviste",
+      "translation": "Did you have news from your family last week?"
+    },
+    {
+      "tense": "Preterite",
+      "person": "él/ella",
+      "sentence": "Ella _______ que cancelar la cita porque estaba enferma.",
+      "answer": "tuvo",
+      "translation": "She had to cancel the appointment because she was sick."
+    },
+    {
+      "tense": "Preterite",
+      "person": "él/ella",
+      "sentence": "Él _______ un regalo increíble para su cumpleaños ayer.",
+      "answer": "tuvo",
+      "translation": "He had an incredible gift for his birthday yesterday."
+    },
+    {
+      "tense": "Preterite",
+      "person": "él/ella",
+      "sentence": "La reunión _______ éxito gracias a todo el equipo.",
+      "answer": "tuvo",
+      "translation": "The meeting was successful thanks to the whole team."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "yo",
+      "sentence": "Cuando era niño, yo _______ un gato negro que se llamaba Bigotes.",
+      "answer": "tenía",
+      "translation": "When I was a child, I had a black cat named Bigotes."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "yo",
+      "sentence": "Antes, yo siempre _______ mucho sueño por las mañanas.",
+      "answer": "tenía",
+      "translation": "Before, I was always very sleepy in the mornings."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "yo",
+      "sentence": "Yo _______ miedo de la oscuridad cuando era pequeño.",
+      "answer": "tenía",
+      "translation": "I was afraid of the dark when I was little."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "tú",
+      "sentence": "¿Tú _______ muchos amigos en la escuela primaria?",
+      "answer": "tenías",
+      "translation": "Did you have many friends in primary school?"
+    },
+    {
+      "tense": "Imperfect",
+      "person": "tú",
+      "sentence": "Tú _______ una bicicleta roja cuando vivías en el campo.",
+      "answer": "tenías",
+      "translation": "You had a red bicycle when you lived in the countryside."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "tú",
+      "sentence": "¿Qué _______ en la mano cuando te vi ayer?",
+      "answer": "tenías",
+      "translation": "What did you have in your hand when I saw you yesterday?"
+    },
+    {
+      "tense": "Imperfect",
+      "person": "él/ella",
+      "sentence": "Ella _______ el pelo muy largo cuando estudiaba en la universidad.",
+      "answer": "tenía",
+      "translation": "She had very long hair when she was studying at university."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "él/ella",
+      "sentence": "Él _______ una casa cerca de la playa hace diez años.",
+      "answer": "tenía",
+      "translation": "He had a house near the beach ten years ago."
+    },
+    {
+      "tense": "Imperfect",
+      "person": "él/ella",
+      "sentence": "Mi abuelo _______ mucha energía aunque era bastante mayor.",
+      "answer": "tenía",
+      "translation": "My grandfather had a lot of energy even though he was quite old."
+    }
+  ]
+}

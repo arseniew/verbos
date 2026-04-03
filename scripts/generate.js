@@ -3,17 +3,17 @@ import path from 'path';
 import 'dotenv/config';
 import minimist from 'minimist';
 import { generateObject } from 'ai';
-import { createOpenAI } from '@ai-sdk/openai';
+import { createGoogleGenerativeAI } from '@ai-sdk/google';
 import { exerciseSchema } from '../src/lib/schema.js';
 
 // The AI SDK allows you to easily swap providers (Anthropic, Google, Mistral, Local, etc.)
 // Provide your API key securely from the .env file
-const openai = createOpenAI({
-    apiKey: process.env.OPENAI_API_KEY
+const google = createGoogleGenerativeAI({
+    apiKey: process.env.GOOGLE_GENERATIVE_AI_API_KEY
 });
 
 // Configure the model choice
-const model = openai('gpt-4o-mini');
+const model = google('gemini-3.1-flash-lite-preview');
 
 async function main() {
     const args = minimist(process.argv.slice(2));
