@@ -1,5 +1,6 @@
 <script lang="ts">
   import { goto } from "$app/navigation";
+  import { base } from "$app/paths";
   import { browser } from "$app/environment";
   import { appState } from "$lib/stores/gameState.svelte";
   import Button from "$lib/components/Button.svelte";
@@ -13,7 +14,7 @@
   });
 
   function exit() {
-    goto("/");
+    goto(`${base}/`);
   }
 </script>
 

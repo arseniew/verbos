@@ -1,5 +1,6 @@
 <script lang="ts">
   import { goto } from "$app/navigation";
+  import { base } from "$app/paths";
   import { appState } from "$lib/stores/gameState.svelte";
   import Button from "$lib/components/Button.svelte";
 
@@ -7,11 +8,11 @@
   let hasActiveSession = $derived(Object.keys(appState.srsDatabase).length > 0);
 
   function startNew() {
-    goto("/create");
+    goto(`${base}/create`);
   }
 
   function resume() {
-    goto("/learn");
+    goto(`${base}/learn`);
   }
 </script>
 

@@ -1,5 +1,6 @@
 <script lang="ts">
   import { goto } from "$app/navigation";
+  import { base } from "$app/paths";
   import { browser } from "$app/environment";
   import { onMount } from "svelte";
   import { appState } from "$lib/stores/gameState.svelte";
@@ -99,12 +100,12 @@
     if (activeQueue.length > 0 && sessionCount < SESSION_GOAL) {
       currentQuestion = activeQueue[0];
     } else {
-      goto("/summary");
+      goto(`${base}/summary`);
     }
   }
 
   function quitSession() {
-    goto("/");
+    goto(`${base}/`);
   }
 </script>
 
@@ -160,7 +161,9 @@
         You're entirely caught up against all spacing parameters natively.
       </p>
       <div class="pt-8 flex justify-center">
-        <Button variant="primary" onclick={() => goto("/")}>Return Home</Button>
+        <Button variant="primary" onclick={() => goto(`${base}/`)}
+          >Return Home</Button
+        >
       </div>
     </div>
   {/if}

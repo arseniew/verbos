@@ -1,5 +1,6 @@
 <script lang="ts">
   import { goto } from "$app/navigation";
+  import { base } from "$app/paths";
   import { appState } from "$lib/stores/gameState.svelte";
   import PillToggle from "$lib/components/PillToggle.svelte";
   import ToggleSwitch from "$lib/components/ToggleSwitch.svelte";
@@ -40,7 +41,7 @@
 
     // Push rigid save to local state natively and proceed
     appState.saveToStorage();
-    goto("/learn");
+    goto(`${base}/learn`);
   }
 </script>
 
