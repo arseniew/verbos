@@ -1,6 +1,7 @@
 import type { Card } from 'ts-fsrs';
 
 export interface UserConfig {
+    selectedVerbs: string[];
     selectedTenses: string[];
     selectedPersons: string[];
     marginOfError: number;
@@ -16,6 +17,7 @@ export interface FSRSDatabase {
 export class AppState {
     // Top level Svelte 5 Reactivity System Runes
     userConfig = $state<UserConfig>({
+        selectedVerbs: ['ser', 'estar', 'tener'],
         selectedTenses: ['Present'],
         selectedPersons: ['yo', 'tú', 'él'],
         marginOfError: 3,
@@ -41,7 +43,14 @@ export class AppState {
     loadFromStorage() {
         try {
             const storedConfig = localStorage.getItem('sv_config');
-            if (storedConfig) this.userConfig = JSON.parse(storedConfig);
+            if (storedConfig) {
+                const parsed = JSON.parse(storedConfig);
+                this.userConfig = { ...this.userConfig, ...parsed };
+                // Ensure migration path for existing active sessions lacking verb configs natively
+                if (!this.userConfig.selectedVerbs) {
+                    this.userConfig.selectedVerbs = ['ser', 'estar', 'tener'];
+                }
+            }
 
             const storedStreak = localStorage.getItem('sv_longestStreak');
             if (storedStreak) this.longestStreak = parseInt(storedStreak);

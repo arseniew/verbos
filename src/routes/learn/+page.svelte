@@ -35,7 +35,8 @@
     const allowed = allExercises.filter(
       (ex: any) =>
         appState.userConfig.selectedTenses.includes(ex.tense) &&
-        appState.userConfig.selectedPersons.includes(ex.person),
+        appState.userConfig.selectedPersons.includes(ex.person) &&
+        appState.userConfig.selectedVerbs.includes(ex.verb),
     );
 
     const dueTracker: any[] = [];

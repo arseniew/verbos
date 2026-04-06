@@ -5,6 +5,9 @@
   import PillToggle from "$lib/components/PillToggle.svelte";
   import ToggleSwitch from "$lib/components/ToggleSwitch.svelte";
   import Button from "$lib/components/Button.svelte";
+  import type { PageData } from "./$types";
+
+  let { data }: { data: { verbs: string[] } } = $props();
 
   // Hardcode baseline arrays available matching our generated dataset parameters
   let validTenses = $state([
@@ -35,6 +38,15 @@
     }
   }
 
+  function onToggleVerb(verb: string) {
+    const index = appState.userConfig.selectedVerbs.indexOf(verb);
+    if (index > -1) {
+      appState.userConfig.selectedVerbs.splice(index, 1);
+    } else {
+      appState.userConfig.selectedVerbs.push(verb);
+    }
+  }
+
   function beginSession() {
     if (appState.userConfig.selectedTenses.length === 0) return;
     if (appState.userConfig.selectedPersons.length === 0) return;
@@ -53,6 +65,20 @@
     <p class="text-lg text-gray-500 font-medium">
       Define exactly what subsets you want to lock in and learn.
     </p>
+  </div>
+
+  <!-- Verb configuration array -->
+  <div class="space-y-4 pt-4 border-t border-gray-100">
+    <h2 class="text-xl font-bold text-gray-800">Target Verbs</h2>
+    <div class="flex flex-wrap gap-2.5">
+      {#each data.verbs as verb}
+        <PillToggle
+          label={verb}
+          selected={appState.userConfig.selectedVerbs.includes(verb)}
+          onchange={() => onToggleVerb(verb)}
+        />
+      {/each}
+    </div>
   </div>
 
   <!-- Tense configuration array -->
@@ -109,7 +135,8 @@
         variant="primary"
         onclick={beginSession}
         disabled={appState.userConfig.selectedTenses.length === 0 ||
-          appState.userConfig.selectedPersons.length === 0}
+          appState.userConfig.selectedPersons.length === 0 ||
+          appState.userConfig.selectedVerbs.length === 0}
       >
         Start Active Session
       </Button>
